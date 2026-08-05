@@ -7,312 +7,312 @@ const FRAMEWORKS = [
   "slib": 1,
   "cat": "Creativity model",
   "ol": "The 4 P's framework holds that every creative phenomenon can be analysed through four interacting strands: the creative Person (traits,…",
-  "pdf": "assets/frameworks/fw_four_ps_creativity.pdf",
-  "thumb": "assets/thumbs/frameworks/four_ps_creativity_thumbnail.svg"
+  "pdf": "frameworks/fw_four_ps_creativity.pdf",
+  "thumb": "thumbs/frameworks/four_ps_creativity_thumbnail.svg"
  },
  {
   "name": "Componential Model of Creativity",
   "slib": 1,
   "cat": "Creativity model",
   "ol": "Amabile's componential model proposes that individual creativity is the product of three components: domain-relevant skills (expertise and…",
-  "pdf": "assets/frameworks/fw_componential_model.pdf",
-  "thumb": "assets/thumbs/frameworks/componential_model_thumbnail.svg"
+  "pdf": "frameworks/fw_componential_model.pdf",
+  "thumb": "thumbs/frameworks/componential_model_thumbnail.svg"
  },
  {
   "name": "SCAMPER",
   "slib": 1,
   "cat": "Ideation checklist",
   "ol": "SCAMPER is a checklist of seven idea-triggering verbs applied to an existing product, service or process to force new variations:…",
-  "pdf": "assets/frameworks/fw_scamper.pdf",
-  "thumb": "assets/thumbs/frameworks/scamper_thumbnail.svg"
+  "pdf": "frameworks/fw_scamper.pdf",
+  "thumb": "thumbs/frameworks/scamper_thumbnail.svg"
  },
  {
   "name": "Divergent–Convergent Thinking",
   "slib": 1,
   "cat": "Thinking process",
   "ol": "Creative work alternates between two modes: divergent thinking, which generates many varied options from a single starting point, and…",
-  "pdf": "assets/frameworks/fw_divergent_convergent.pdf",
-  "thumb": "assets/thumbs/frameworks/divergent_convergent_thumbnail.svg"
+  "pdf": "frameworks/fw_divergent_convergent.pdf",
+  "thumb": "thumbs/frameworks/divergent_convergent_thumbnail.svg"
  },
  {
   "name": "6-3-5 Brainwriting",
   "slib": 2,
   "cat": "Ideation method",
   "ol": "6-3-5 Brainwriting is a structured silent-ideation method: six participants each write three ideas on a sheet, then pass it on; over five…",
-  "pdf": "assets/frameworks/fw_brainwriting_635.pdf",
-  "thumb": "assets/thumbs/frameworks/brainwriting_635_thumbnail.svg"
+  "pdf": "frameworks/fw_brainwriting_635.pdf",
+  "thumb": "thumbs/frameworks/brainwriting_635_thumbnail.svg"
  },
  {
   "name": "Six Thinking Hats",
   "slib": 2,
   "cat": "Parallel thinking",
   "ol": "Six Thinking Hats is a parallel-thinking method in which a group deliberately adopts one 'hat' — one mode of thinking — at a time: White…",
-  "pdf": "assets/frameworks/fw_six_thinking_hats.pdf",
-  "thumb": "assets/thumbs/frameworks/six_thinking_hats_thumbnail.svg"
+  "pdf": "frameworks/fw_six_thinking_hats.pdf",
+  "thumb": "thumbs/frameworks/six_thinking_hats_thumbnail.svg"
  },
  {
   "name": "Dot Voting",
   "slib": 2,
   "cat": "Convergence method",
   "ol": "Dot voting (dotmocracy) is a simple prioritisation technique: each participant is given a fixed number of adhesive dots (or marks) and…",
-  "pdf": "assets/frameworks/fw_dot_voting.pdf",
-  "thumb": "assets/thumbs/frameworks/dot_voting_thumbnail.svg"
+  "pdf": "frameworks/fw_dot_voting.pdf",
+  "thumb": "thumbs/frameworks/dot_voting_thumbnail.svg"
  },
  {
   "name": "d.school 5-Stage Model",
   "slib": 3,
   "cat": "Design-thinking process",
   "ol": "The d.school model organises human-centred design into five non-linear modes: Empathise (understand users), Define (frame the right…",
-  "pdf": "assets/frameworks/fw_dschool_5stage.pdf",
-  "thumb": "assets/thumbs/frameworks/dschool_5stage_thumbnail.svg"
+  "pdf": "frameworks/fw_dschool_5stage.pdf",
+  "thumb": "thumbs/frameworks/dschool_5stage_thumbnail.svg"
  },
  {
   "name": "Double Diamond",
   "slib": 3,
   "cat": "Design-thinking process",
   "ol": "The Double Diamond depicts design as two linked diamonds: the first (Discover → Define) explores then frames the problem; the second…",
-  "pdf": "assets/frameworks/fw_double_diamond.pdf",
-  "thumb": "assets/thumbs/frameworks/double_diamond_thumbnail.svg"
+  "pdf": "frameworks/fw_double_diamond.pdf",
+  "thumb": "thumbs/frameworks/double_diamond_thumbnail.svg"
  },
  {
   "name": "Desirability–Feasibility–Viability",
   "slib": 3,
   "cat": "Innovation lens",
   "ol": "Every sustainable innovation must sit at the overlap of three lenses: Desirability (do people want it?), Feasibility (can we build it…",
-  "pdf": "assets/frameworks/fw_dfv.pdf",
-  "thumb": "assets/thumbs/frameworks/dfv_thumbnail.svg"
+  "pdf": "frameworks/fw_dfv.pdf",
+  "thumb": "thumbs/frameworks/dfv_thumbnail.svg"
  },
  {
   "name": "5 Whys",
   "slib": 4,
   "cat": "Root-cause analysis",
   "ol": "5 Whys is a root-cause technique in which you ask 'why?' repeatedly — conventionally about five times — each answer forming the basis of…",
-  "pdf": "assets/frameworks/fw_five_whys.pdf",
-  "thumb": "assets/thumbs/frameworks/five_whys_thumbnail.svg"
+  "pdf": "frameworks/fw_five_whys.pdf",
+  "thumb": "thumbs/frameworks/five_whys_thumbnail.svg"
  },
  {
   "name": "Reframing Matrix",
   "slib": 4,
   "cat": "Problem framing",
   "ol": "The Reframing Matrix examines a single problem from four different perspectives — classically the '4 Ps': Product, Planning, Potential and…",
-  "pdf": "assets/frameworks/fw_reframing_matrix.pdf",
-  "thumb": "assets/thumbs/frameworks/reframing_matrix_thumbnail.svg"
+  "pdf": "frameworks/fw_reframing_matrix.pdf",
+  "thumb": "thumbs/frameworks/reframing_matrix_thumbnail.svg"
  },
  {
   "name": "Empathy Map",
   "slib": 5,
   "cat": "Empathy tool",
   "ol": "An Empathy Map is a canvas that captures what a user says, thinks, does and feels (often with pains and gains), building a shared,…",
-  "pdf": "assets/frameworks/fw_empathy_map.pdf",
-  "thumb": "assets/thumbs/frameworks/empathy_map_thumbnail.svg"
+  "pdf": "frameworks/fw_empathy_map.pdf",
+  "thumb": "thumbs/frameworks/empathy_map_thumbnail.svg"
  },
  {
   "name": "Persona / User Profile",
   "slib": 5,
   "cat": "Empathy tool",
   "ol": "A persona is a fictional but evidence-based character that represents a key user segment — with goals, behaviours, context, frustrations…",
-  "pdf": "assets/frameworks/fw_persona.pdf",
-  "thumb": "assets/thumbs/frameworks/persona_thumbnail.svg"
+  "pdf": "frameworks/fw_persona.pdf",
+  "thumb": "thumbs/frameworks/persona_thumbnail.svg"
  },
  {
   "name": "Customer Journey Map",
   "slib": 5,
   "cat": "Experience mapping",
   "ol": "A Customer Journey Map visualises the end-to-end experience of a user achieving a goal — the sequence of stages and touchpoints, what they…",
-  "pdf": "assets/frameworks/fw_customer_journey.pdf",
-  "thumb": "assets/thumbs/frameworks/customer_journey_thumbnail.svg"
+  "pdf": "frameworks/fw_customer_journey.pdf",
+  "thumb": "thumbs/frameworks/customer_journey_thumbnail.svg"
  },
  {
   "name": "AEIOU Framework",
   "slib": 5,
   "cat": "Observation framework",
   "ol": "AEIOU is a coding scheme for organising field observations across five lenses: Activities (goal-directed actions), Environments (the…",
-  "pdf": "assets/frameworks/fw_aeiou.pdf",
-  "thumb": "assets/thumbs/frameworks/aeiou_thumbnail.svg"
+  "pdf": "frameworks/fw_aeiou.pdf",
+  "thumb": "thumbs/frameworks/aeiou_thumbnail.svg"
  },
  {
   "name": "Trend Analysis",
   "slib": 5,
   "cat": "Foresight tool",
   "ol": "Trend Analysis systematically scans social, technological, economic, environmental and political shifts to anticipate how user needs and…",
-  "pdf": "assets/frameworks/fw_trend_analysis.pdf",
-  "thumb": "assets/thumbs/frameworks/trend_analysis_thumbnail.svg"
+  "pdf": "frameworks/fw_trend_analysis.pdf",
+  "thumb": "thumbs/frameworks/trend_analysis_thumbnail.svg"
  },
  {
   "name": "Peers-Observing-Peers",
   "slib": 5,
   "cat": "Observation method",
   "ol": "Peers-Observing-Peers is a research method in which members of a target community observe and document each other's behaviour, capturing…",
-  "pdf": "assets/frameworks/fw_peers_observing_peers.pdf",
-  "thumb": "assets/thumbs/frameworks/peers_observing_peers_thumbnail.svg"
+  "pdf": "frameworks/fw_peers_observing_peers.pdf",
+  "thumb": "thumbs/frameworks/peers_observing_peers_thumbnail.svg"
  },
  {
   "name": "Point of View (PoV) Statement",
   "slib": 6,
   "cat": "Problem definition",
   "ol": "A Point of View statement crystallises empathy research into one actionable problem framing, classically '[user] needs [need] because…",
-  "pdf": "assets/frameworks/fw_pov.pdf",
-  "thumb": "assets/thumbs/frameworks/pov_thumbnail.svg"
+  "pdf": "frameworks/fw_pov.pdf",
+  "thumb": "thumbs/frameworks/pov_thumbnail.svg"
  },
  {
   "name": "How Might We (HMW)",
   "slib": 6,
   "cat": "Problem framing",
   "ol": "'How Might We…' questions reframe a point-of-view problem as an invitation to ideate.",
-  "pdf": "assets/frameworks/fw_hmw.pdf",
-  "thumb": "assets/thumbs/frameworks/hmw_thumbnail.svg"
+  "pdf": "frameworks/fw_hmw.pdf",
+  "thumb": "thumbs/frameworks/hmw_thumbnail.svg"
  },
  {
   "name": "Storytelling",
   "slib": 6,
   "cat": "Communication tool",
   "ol": "Design storytelling casts research findings and concepts as a narrative — a protagonist (the user), a tension (their unmet need) and a…",
-  "pdf": "assets/frameworks/fw_storytelling.pdf",
-  "thumb": "assets/thumbs/frameworks/storytelling_thumbnail.svg"
+  "pdf": "frameworks/fw_storytelling.pdf",
+  "thumb": "thumbs/frameworks/storytelling_thumbnail.svg"
  },
  {
   "name": "Context Mapping",
   "slib": 6,
   "cat": "Systems tool",
   "ol": "Context Mapping visualises the broader system around a problem — stakeholders, trends, constraints, competitors and forces — so the team…",
-  "pdf": "assets/frameworks/fw_context_mapping.pdf",
-  "thumb": "assets/thumbs/frameworks/context_mapping_thumbnail.svg"
+  "pdf": "frameworks/fw_context_mapping.pdf",
+  "thumb": "thumbs/frameworks/context_mapping_thumbnail.svg"
  },
  {
   "name": "Vision Cone",
   "slib": 6,
   "cat": "Foresight tool",
   "ol": "The Vision Cone (futures cone) projects forward from the present into widening bands of probable, plausible, possible and preferable…",
-  "pdf": "assets/frameworks/fw_vision_cone.pdf",
-  "thumb": "assets/thumbs/frameworks/vision_cone_thumbnail.svg"
+  "pdf": "frameworks/fw_vision_cone.pdf",
+  "thumb": "thumbs/frameworks/vision_cone_thumbnail.svg"
  },
  {
   "name": "Critical Items Diagram",
   "slib": 6,
   "cat": "Assumption mapping",
   "ol": "A Critical Items Diagram plots the assumptions behind a concept on two axes — how critical each is to success and how uncertain it is — so…",
-  "pdf": "assets/frameworks/fw_critical_items_diagram.pdf",
-  "thumb": "assets/thumbs/frameworks/critical_items_diagram_thumbnail.svg"
+  "pdf": "frameworks/fw_critical_items_diagram.pdf",
+  "thumb": "thumbs/frameworks/critical_items_diagram_thumbnail.svg"
  },
  {
   "name": "Brainstorming",
   "slib": 7,
   "cat": "Ideation method",
   "ol": "Brainstorming is group idea-generation governed by four rules: defer judgement, strive for quantity, build on the ideas of others and…",
-  "pdf": "assets/frameworks/fw_brainstorming.pdf",
-  "thumb": "assets/thumbs/frameworks/brainstorming_thumbnail.svg"
+  "pdf": "frameworks/fw_brainstorming.pdf",
+  "thumb": "thumbs/frameworks/brainstorming_thumbnail.svg"
  },
  {
   "name": "2×2 Prioritisation Matrix",
   "slib": 7,
   "cat": "Prioritisation tool",
   "ol": "A 2×2 matrix ranks options along two chosen dimensions — commonly impact and effort — producing four quadrants (e.g.",
-  "pdf": "assets/frameworks/fw_two_by_two_matrix.pdf",
-  "thumb": "assets/thumbs/frameworks/two_by_two_matrix_thumbnail.svg"
+  "pdf": "frameworks/fw_two_by_two_matrix.pdf",
+  "thumb": "thumbs/frameworks/two_by_two_matrix_thumbnail.svg"
  },
  {
   "name": "Blue Ocean / ERRC Grid",
   "slib": 7,
   "cat": "Strategy framework",
   "ol": "Blue Ocean Strategy urges firms to stop competing in crowded 'red oceans' and create uncontested 'blue oceans' through value innovation —…",
-  "pdf": "assets/frameworks/fw_blue_ocean_errc.pdf",
-  "thumb": "assets/thumbs/frameworks/blue_ocean_errc_thumbnail.svg"
+  "pdf": "frameworks/fw_blue_ocean_errc.pdf",
+  "thumb": "thumbs/frameworks/blue_ocean_errc_thumbnail.svg"
  },
  {
   "name": "Worst Possible Idea",
   "slib": 7,
   "cat": "Ideation method",
   "ol": "Worst Possible Idea is a reverse-brainstorming technique: the group deliberately generates the worst solutions to a problem, then flips…",
-  "pdf": "assets/frameworks/fw_worst_possible_idea.pdf",
-  "thumb": "assets/thumbs/frameworks/worst_possible_idea_thumbnail.svg"
+  "pdf": "frameworks/fw_worst_possible_idea.pdf",
+  "thumb": "thumbs/frameworks/worst_possible_idea_thumbnail.svg"
  },
  {
   "name": "Minimum Viable Product (MVP)",
   "slib": 8,
   "cat": "Prototyping / Lean",
   "ol": "An MVP is the smallest, cheapest version of a product that lets a team begin the build–measure–learn loop with real users and validated…",
-  "pdf": "assets/frameworks/fw_mvp.pdf",
-  "thumb": "assets/thumbs/frameworks/mvp_thumbnail.svg"
+  "pdf": "frameworks/fw_mvp.pdf",
+  "thumb": "thumbs/frameworks/mvp_thumbnail.svg"
  },
  {
   "name": "Paper / Low-fi Prototype",
   "slib": 8,
   "cat": "Prototyping",
   "ol": "A paper or low-fidelity prototype is a rough, hand-made representation of an interface or experience — sketches, paper screens, cardboard…",
-  "pdf": "assets/frameworks/fw_paper_prototype.pdf",
-  "thumb": "assets/thumbs/frameworks/paper_prototype_thumbnail.svg"
+  "pdf": "frameworks/fw_paper_prototype.pdf",
+  "thumb": "thumbs/frameworks/paper_prototype_thumbnail.svg"
  },
  {
   "name": "Service Blueprint",
   "slib": 8,
   "cat": "Service design",
   "ol": "A Service Blueprint maps a service end-to-end across layers: customer actions, front-stage (visible) employee actions, back-stage…",
-  "pdf": "assets/frameworks/fw_service_blueprint.pdf",
-  "thumb": "assets/thumbs/frameworks/service_blueprint_thumbnail.svg"
+  "pdf": "frameworks/fw_service_blueprint.pdf",
+  "thumb": "thumbs/frameworks/service_blueprint_thumbnail.svg"
  },
  {
   "name": "Wizard of Oz Prototype",
   "slib": 8,
   "cat": "Prototyping",
   "ol": "In a Wizard of Oz prototype, users interact with what looks like an automated system while a human secretly performs the back-end functions.",
-  "pdf": "assets/frameworks/fw_wizard_of_oz.pdf",
-  "thumb": "assets/thumbs/frameworks/wizard_of_oz_thumbnail.svg"
+  "pdf": "frameworks/fw_wizard_of_oz.pdf",
+  "thumb": "thumbs/frameworks/wizard_of_oz_thumbnail.svg"
  },
  {
   "name": "Feedback Capture Grid",
   "slib": 9,
   "cat": "Testing tool",
   "ol": "A Feedback Capture Grid is a 2×2 template for structuring reactions to a prototype into four quadrants: things the reviewer liked,…",
-  "pdf": "assets/frameworks/fw_feedback_capture_grid.pdf",
-  "thumb": "assets/thumbs/frameworks/feedback_capture_grid_thumbnail.svg"
+  "pdf": "frameworks/fw_feedback_capture_grid.pdf",
+  "thumb": "thumbs/frameworks/feedback_capture_grid_thumbnail.svg"
  },
  {
   "name": "Usability Testing",
   "slib": 9,
   "cat": "Testing method",
   "ol": "Usability testing observes representative users attempting realistic tasks with a prototype or product, recording where they succeed,…",
-  "pdf": "assets/frameworks/fw_usability_testing.pdf",
-  "thumb": "assets/thumbs/frameworks/usability_testing_thumbnail.svg"
+  "pdf": "frameworks/fw_usability_testing.pdf",
+  "thumb": "thumbs/frameworks/usability_testing_thumbnail.svg"
  },
  {
   "name": "Solution Interview",
   "slib": 9,
   "cat": "Testing method",
   "ol": "A Solution Interview presents a proposed solution to a user who has the target problem and probes whether it genuinely addresses their…",
-  "pdf": "assets/frameworks/fw_solution_interview.pdf",
-  "thumb": "assets/thumbs/frameworks/solution_interview_thumbnail.svg"
+  "pdf": "frameworks/fw_solution_interview.pdf",
+  "thumb": "thumbs/frameworks/solution_interview_thumbnail.svg"
  },
  {
   "name": "A/B Testing",
   "slib": 9,
   "cat": "Controlled experiment",
   "ol": "A/B testing is a controlled online experiment that randomly shows variant A or B to comparable groups of real users and measures which…",
-  "pdf": "assets/frameworks/fw_ab_testing.pdf",
-  "thumb": "assets/thumbs/frameworks/ab_testing_thumbnail.svg"
+  "pdf": "frameworks/fw_ab_testing.pdf",
+  "thumb": "thumbs/frameworks/ab_testing_thumbnail.svg"
  },
  {
   "name": "Implementation Roadmap",
   "slib": 10,
   "cat": "Change management",
   "ol": "An Implementation Roadmap is a phased plan for embedding a design or change into an organisation — sequencing pilots, visible early wins,…",
-  "pdf": "assets/frameworks/fw_implementation_roadmap.pdf",
-  "thumb": "assets/thumbs/frameworks/implementation_roadmap_thumbnail.svg"
+  "pdf": "frameworks/fw_implementation_roadmap.pdf",
+  "thumb": "thumbs/frameworks/implementation_roadmap_thumbnail.svg"
  },
  {
   "name": "Define Success",
   "slib": 10,
   "cat": "Goal-setting tool",
   "ol": "Define Success is the practice of agreeing, before building, the concrete criteria and metrics by which a solution will be judged — user,…",
-  "pdf": "assets/frameworks/fw_define_success.pdf",
-  "thumb": "assets/thumbs/frameworks/define_success_thumbnail.svg"
+  "pdf": "frameworks/fw_define_success.pdf",
+  "thumb": "thumbs/frameworks/define_success_thumbnail.svg"
  },
  {
   "name": "DT Workshop Design",
   "slib": 10,
   "cat": "Facilitation",
   "ol": "DT Workshop Design is the craft of planning and running a design-thinking workshop: a clear objective, the right participants, a timed…",
-  "pdf": "assets/frameworks/fw_dt_workshop.pdf",
-  "thumb": "assets/thumbs/frameworks/dt_workshop_thumbnail.svg"
+  "pdf": "frameworks/fw_dt_workshop.pdf",
+  "thumb": "thumbs/frameworks/dt_workshop_thumbnail.svg"
  }
 ];
 
@@ -334,8 +334,8 @@ const AUTHORS = [
    "Amabile, T.M. (1996) Creativity in Context. Boulder, CO: Westview Press.",
    "Amabile, T.M. and Kramer, S.J. (2011) The Progress Principle. Boston: Harvard Business Review Press."
   ],
-  "pdf": "assets/authors/au_teresa_amabile.pdf",
-  "thumb": "assets/thumbs/authors/teresa_amabile_thumbnail.svg"
+  "pdf": "authors/au_teresa_amabile.pdf",
+  "thumb": "thumbs/authors/teresa_amabile_thumbnail.svg"
  },
  {
   "name": "Mark A. Runco & Garrett J. Jaeger",
@@ -353,8 +353,8 @@ const AUTHORS = [
    "Runco, M.A. and Jaeger, G.J. (2012) 'The Standard Definition of Creativity', Creativity Research Journal, 24(1), pp. 92–96.",
    "Runco, M.A. (2014) Creativity: Theories and Themes. 2nd edn. San Diego: Academic Press."
   ],
-  "pdf": "assets/authors/au_runco_jaeger.pdf",
-  "thumb": "assets/thumbs/authors/runco_jaeger_thumbnail.svg"
+  "pdf": "authors/au_runco_jaeger.pdf",
+  "thumb": "thumbs/authors/runco_jaeger_thumbnail.svg"
  },
  {
   "name": "Alex F. Osborn",
@@ -372,8 +372,8 @@ const AUTHORS = [
    "Osborn, A.F. (1953) Applied Imagination. New York: Scribner.",
    "Parnes, S.J. and Osborn, A.F. (1992) Source Book for Creative Problem-Solving. Buffalo, NY: Creative Education Foundation."
   ],
-  "pdf": "assets/authors/au_alex_osborn.pdf",
-  "thumb": "assets/thumbs/authors/alex_osborn_thumbnail.svg"
+  "pdf": "authors/au_alex_osborn.pdf",
+  "thumb": "thumbs/authors/alex_osborn_thumbnail.svg"
  },
  {
   "name": "Edward de Bono",
@@ -391,8 +391,8 @@ const AUTHORS = [
    "de Bono, E. (1985) Six Thinking Hats. Boston: Little, Brown.",
    "de Bono, E. (1970) Lateral Thinking: A Textbook of Creativity. London: Ward Lock Educational."
   ],
-  "pdf": "assets/authors/au_edward_de_bono.pdf",
-  "thumb": "assets/thumbs/authors/edward_de_bono_thumbnail.svg"
+  "pdf": "authors/au_edward_de_bono.pdf",
+  "thumb": "thumbs/authors/edward_de_bono_thumbnail.svg"
  },
  {
   "name": "Amy C. Edmondson",
@@ -410,8 +410,8 @@ const AUTHORS = [
    "Edmondson, A.C. (2019) The Fearless Organization. Hoboken, NJ: Wiley.",
    "Edmondson, A.C. (1999) 'Psychological Safety and Learning Behavior in Work Teams', Administrative Science Quarterly, 44(2), pp. 350–383."
   ],
-  "pdf": "assets/authors/au_amy_edmondson.pdf",
-  "thumb": "assets/thumbs/authors/amy_edmondson_thumbnail.svg"
+  "pdf": "authors/au_amy_edmondson.pdf",
+  "thumb": "thumbs/authors/amy_edmondson_thumbnail.svg"
  },
  {
   "name": "Ed Catmull",
@@ -429,8 +429,8 @@ const AUTHORS = [
    "Catmull, E. and Wallace, A. (2014) Creativity, Inc. New York: Random House.",
    "Catmull, E. (2008) 'How Pixar Fosters Collective Creativity', Harvard Business Review, 86(9), pp. 64–72."
   ],
-  "pdf": "assets/authors/au_ed_catmull.pdf",
-  "thumb": "assets/thumbs/authors/ed_catmull_thumbnail.svg"
+  "pdf": "authors/au_ed_catmull.pdf",
+  "thumb": "thumbs/authors/ed_catmull_thumbnail.svg"
  },
  {
   "name": "Tim Brown",
@@ -448,8 +448,8 @@ const AUTHORS = [
    "Brown, T. (2009) Change by Design. New York: Harper Business.",
    "Brown, T. (2008) 'Design Thinking', Harvard Business Review, 86(6), pp. 84–92."
   ],
-  "pdf": "assets/authors/au_tim_brown.pdf",
-  "thumb": "assets/thumbs/authors/tim_brown_thumbnail.svg"
+  "pdf": "authors/au_tim_brown.pdf",
+  "thumb": "thumbs/authors/tim_brown_thumbnail.svg"
  },
  {
   "name": "David Kelley & Tom Kelley",
@@ -467,8 +467,8 @@ const AUTHORS = [
    "Kelley, T. and Kelley, D. (2013) Creative Confidence. New York: Crown Business.",
    "Kelley, T. (2001) The Art of Innovation. New York: Currency/Doubleday."
   ],
-  "pdf": "assets/authors/au_kelley_brothers.pdf",
-  "thumb": "assets/thumbs/authors/kelley_brothers_thumbnail.svg"
+  "pdf": "authors/au_kelley_brothers.pdf",
+  "thumb": "thumbs/authors/kelley_brothers_thumbnail.svg"
  },
  {
   "name": "Jeanne Liedtka",
@@ -486,8 +486,8 @@ const AUTHORS = [
    "Liedtka, J. (2018) 'Why Design Thinking Works', Harvard Business Review, 96(5), pp. 72–79.",
    "Liedtka, J. and Ogilvie, T. (2011) Designing for Growth. New York: Columbia Business School Publishing."
   ],
-  "pdf": "assets/authors/au_jeanne_liedtka.pdf",
-  "thumb": "assets/thumbs/authors/jeanne_liedtka_thumbnail.svg"
+  "pdf": "authors/au_jeanne_liedtka.pdf",
+  "thumb": "thumbs/authors/jeanne_liedtka_thumbnail.svg"
  },
  {
   "name": "Michael Lewrick, Patrick Link & Larry Leifer",
@@ -505,8 +505,8 @@ const AUTHORS = [
    "Lewrick, M., Link, P. and Leifer, L. (2020) The Design Thinking Toolbox. Hoboken, NJ: Wiley.",
    "Lewrick, M., Link, P. and Leifer, L. (2018) The Design Thinking Playbook. Hoboken, NJ: Wiley."
   ],
-  "pdf": "assets/authors/au_lewrick_link_leifer.pdf",
-  "thumb": "assets/thumbs/authors/lewrick_link_leifer_thumbnail.svg"
+  "pdf": "authors/au_lewrick_link_leifer.pdf",
+  "thumb": "thumbs/authors/lewrick_link_leifer_thumbnail.svg"
  },
  {
   "name": "Thomas Wedell-Wedellsborg",
@@ -524,8 +524,8 @@ const AUTHORS = [
    "Wedell-Wedellsborg, T. (2017) 'Are You Solving the Right Problems?', Harvard Business Review, 95(1), pp. 76–83.",
    "Wedell-Wedellsborg, T. (2020) What's Your Problem? Boston: Harvard Business Review Press."
   ],
-  "pdf": "assets/authors/au_wedell_wedellsborg.pdf",
-  "thumb": "assets/thumbs/authors/wedell_wedellsborg_thumbnail.svg"
+  "pdf": "authors/au_wedell_wedellsborg.pdf",
+  "thumb": "thumbs/authors/wedell_wedellsborg_thumbnail.svg"
  },
  {
   "name": "Kees Dorst",
@@ -543,8 +543,8 @@ const AUTHORS = [
    "Dorst, K. (2015) Frame Innovation: Create New Thinking by Design. Cambridge, MA: MIT Press.",
    "Dorst, K. (2011) 'The core of design thinking and its application', Design Studies, 32(6), pp. 521–532."
   ],
-  "pdf": "assets/authors/au_kees_dorst.pdf",
-  "thumb": "assets/thumbs/authors/kees_dorst_thumbnail.svg"
+  "pdf": "authors/au_kees_dorst.pdf",
+  "thumb": "thumbs/authors/kees_dorst_thumbnail.svg"
  },
  {
   "name": "Taiichi Ohno",
@@ -562,8 +562,8 @@ const AUTHORS = [
    "Ohno, T. (1988) Toyota Production System: Beyond Large-Scale Production. Portland, OR: Productivity Press.",
    "Liker, J.K. (2004) The Toyota Way. New York: McGraw-Hill."
   ],
-  "pdf": "assets/authors/au_taiichi_ohno.pdf",
-  "thumb": "assets/thumbs/authors/taiichi_ohno_thumbnail.svg"
+  "pdf": "authors/au_taiichi_ohno.pdf",
+  "thumb": "thumbs/authors/taiichi_ohno_thumbnail.svg"
  },
  {
   "name": "W. Chan Kim & Renée Mauborgne",
@@ -581,8 +581,8 @@ const AUTHORS = [
    "Kim, W.C. and Mauborgne, R. (2015) Blue Ocean Strategy, Expanded edn. Boston: Harvard Business Review Press.",
    "Kim, W.C. and Mauborgne, R. (2004) 'Blue Ocean Strategy', Harvard Business Review, 82(10), pp. 76–84."
   ],
-  "pdf": "assets/authors/au_kim_mauborgne.pdf",
-  "thumb": "assets/thumbs/authors/kim_mauborgne_thumbnail.svg"
+  "pdf": "authors/au_kim_mauborgne.pdf",
+  "thumb": "thumbs/authors/kim_mauborgne_thumbnail.svg"
  },
  {
   "name": "Eric Ries",
@@ -600,8 +600,8 @@ const AUTHORS = [
    "Ries, E. (2011) The Lean Startup. New York: Crown Business.",
    "Ries, E. (2017) The Startup Way. New York: Currency."
   ],
-  "pdf": "assets/authors/au_eric_ries.pdf",
-  "thumb": "assets/thumbs/authors/eric_ries_thumbnail.svg"
+  "pdf": "authors/au_eric_ries.pdf",
+  "thumb": "thumbs/authors/eric_ries_thumbnail.svg"
  },
  {
   "name": "Steve Blank",
@@ -619,8 +619,8 @@ const AUTHORS = [
    "Blank, S. (2013) 'Why the Lean Start-Up Changes Everything', Harvard Business Review, 91(5), pp. 63–72.",
    "Blank, S. and Dorf, B. (2012) The Startup Owner's Manual. Pescadero, CA: K&S Ranch."
   ],
-  "pdf": "assets/authors/au_steve_blank.pdf",
-  "thumb": "assets/thumbs/authors/steve_blank_thumbnail.svg"
+  "pdf": "authors/au_steve_blank.pdf",
+  "thumb": "thumbs/authors/steve_blank_thumbnail.svg"
  },
  {
   "name": "Stefan H. Thomke",
@@ -638,8 +638,8 @@ const AUTHORS = [
    "Thomke, S.H. (2020) Experimentation Works. Boston: Harvard Business Review Press.",
    "Thomke, S.H. (2020) 'Building a Culture of Experimentation', Harvard Business Review, 98(2), pp. 40–47."
   ],
-  "pdf": "assets/authors/au_stefan_thomke.pdf",
-  "thumb": "assets/thumbs/authors/stefan_thomke_thumbnail.svg"
+  "pdf": "authors/au_stefan_thomke.pdf",
+  "thumb": "thumbs/authors/stefan_thomke_thumbnail.svg"
  },
  {
   "name": "Ron Kohavi",
@@ -657,8 +657,8 @@ const AUTHORS = [
    "Kohavi, R., Tang, D. and Xu, Y. (2020) Trustworthy Online Controlled Experiments. Cambridge: Cambridge University Press.",
    "Kohavi, R. et al. (2009) 'Controlled experiments on the web', Data Mining and Knowledge Discovery, 18(1), pp. 140–181."
   ],
-  "pdf": "assets/authors/au_ron_kohavi.pdf",
-  "thumb": "assets/thumbs/authors/ron_kohavi_thumbnail.svg"
+  "pdf": "authors/au_ron_kohavi.pdf",
+  "thumb": "thumbs/authors/ron_kohavi_thumbnail.svg"
  },
  {
   "name": "Mauro Porcini",
@@ -676,8 +676,8 @@ const AUTHORS = [
    "Porcini, M. (2022) The Human Side of Innovation. Oakland, CA: Berrett-Koehler.",
    "McKinsey & Company (2022) 'Author Talks: PepsiCo's Mauro Porcini on meaningful design and mentorship'. Available at: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-pepsicos-mauro-porcini-talks-meaningful-design-and-mentorship (Accessed: 20 July 2026)."
   ],
-  "pdf": "assets/authors/au_mauro_porcini.pdf",
-  "thumb": "assets/thumbs/authors/mauro_porcini_thumbnail.svg"
+  "pdf": "authors/au_mauro_porcini.pdf",
+  "thumb": "thumbs/authors/mauro_porcini_thumbnail.svg"
  }
 ];
 
