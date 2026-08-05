@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BCOBM126 — Creativity & Design Thinking | EU Business School</title>
+<meta name="description" content="BCOBM126 Creativity & Design Thinking — Bachelor course portal by Dr. Hildegard Haas, EU Business School. Interactive unit galleries, frameworks, case studies and course materials.">
+<style>
+  :root{
+    /* Core palette (marti301 house style) */
+    --navy:#1B2A4A;
+    --navy-2:#25396b;
+    --teal:#2AA7A0;
+    --ink:#1d2433;
+    --muted:#5b6577;
+    --line:#e5e8ef;
+    --bg:#f6f7fb;
+    --card:#ffffff;
+    /* Pedagogical colour code (per course brief) */
+    --definition:#c0392b;   /* red   */
+    --casestudy:#1e8449;    /* green */
+    --activity:#7d3c98;     /* purple*/
+    /* Itten-inspired unit accents, U1 → U10 */
+    --u1:#2b4b8c; --u2:#008699; --u3:#0f9d58; --u4:#7cb342;
+    --u5:#f4b400; --u6:#f57c00; --u7:#e0492f; --u8:#c2185b;
+    --u9:#8e24aa; --u10:#4527a0;
+    --radius:14px;
+    --shadow:0 6px 24px rgba(20,30,60,.08);
+    --shadow-lg:0 14px 40px rgba(20,30,60,.14);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;
+    font-family:Arial, Helvetica, "Segoe UI", sans-serif;
+    color:var(--ink);
+    background:var(--bg);
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--navy-2);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 22px}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    background:
+      radial-gradient(1200px 500px at 80% -10%, rgba(42,167,160,.35), transparent 60%),
+      radial-gradient(900px 500px at 0% 0%, rgba(69,39,160,.30), transparent 55%),
+      linear-gradient(160deg,#16233f 0%, var(--navy) 60%, #12203c 100%);
+    color:#fff;
+    padding:54px 0 40px;
+    border-bottom:4px solid var(--teal);
+  }
+  .kicker{
+    display:inline-flex;align-items:center;gap:8px;
+    background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);
+    color:#dbe6ff;font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;
+    padding:6px 12px;border-radius:999px;font-weight:bold;
+  }
+  h1.title{font-size:clamp(28px,4.4vw,46px);line-height:1.12;margin:16px 0 8px;font-weight:800;letter-spacing:-.01em}
+  h1.title span{color:var(--teal)}
+  .subtitle{font-size:clamp(15px,2vw,19px);color:#c9d4ee;max-width:760px;margin:0}
+  .meta-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+  .chip{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.20);color:#eaf1ff;
+    padding:6px 12px;border-radius:999px;font-size:13px}
+  .chip b{color:#fff}
+
+  /* ---------- STATS ---------- */
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:28px}
+  .stat{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:var(--radius);
+    padding:16px 14px;text-align:center}
+  .stat .num{font-size:clamp(24px,3.4vw,34px);font-weight:800;color:#fff;line-height:1}
+  .stat .lab{font-size:12.5px;color:#c2cfe8;margin-top:6px;letter-spacing:.03em;text-transform:uppercase}
+
+  /* ---------- SEARCH ---------- */
+  .searchbar{position:relative;margin:22px 0 4px}
+  .searchbar input{
+    width:100%;padding:15px 46px;border-radius:12px;border:1px solid rgba(255,255,255,.28);
+    background:rgba(255,255,255,.96);color:var(--ink);font-size:15.5px;font-family:inherit;
+    box-shadow:var(--shadow);
+  }
+  .searchbar input:focus{outline:3px solid var(--teal);outline-offset:2px}
+  .searchbar .ic{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:18px}
+  .search-results{
+    position:absolute;z-index:40;left:0;right:0;top:calc(100% + 8px);
+    background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow-lg);
+    max-height:360px;overflow:auto;display:none;
+  }
+  .search-results.open{display:block}
+  .sr-item{padding:12px 16px;border-bottom:1px solid var(--line);cursor:pointer;font-size:14px}
+  .sr-item:last-child{border-bottom:none}
+  .sr-item:hover{background:#f2f6ff}
+  .sr-item .tag{font-size:11px;font-weight:bold;color:#fff;background:var(--navy-2);
+    padding:2px 8px;border-radius:999px;margin-right:8px}
+  .sr-empty{padding:14px 16px;color:var(--muted);font-size:14px}
+
+  /* ---------- SECTION SHELL ---------- */
+  main{padding:34px 0 10px}
+  .section-head{margin:28px 0 14px}
+  .section-head h2{font-size:22px;margin:0 0 4px;font-weight:800;letter-spacing:-.01em}
+  .section-head p{margin:0;color:var(--muted);font-size:14.5px}
+
+  /* ---------- UNIT ACCORDION ---------- */
+  .units{display:flex;flex-direction:column;gap:14px}
+  .unit{background:var(--card);border:1px solid var(--line);border-left:6px solid var(--ua,var(--navy));
+    border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+  .unit-btn{width:100%;border:none;background:transparent;cursor:pointer;text-align:left;
+    display:flex;align-items:center;gap:16px;padding:18px 20px;font-family:inherit}
+  .unit-num{flex:none;width:46px;height:46px;border-radius:12px;display:grid;place-items:center;
+    background:var(--ua,var(--navy));color:#fff;font-weight:800;font-size:18px}
+  .unit-titles{flex:1;min-width:0}
+  .unit-titles h3{margin:0;font-size:17.5px;font-weight:800;color:var(--ink)}
+  .unit-titles .sub{margin:2px 0 0;color:var(--muted);font-size:13.5px}
+  .unit-format{flex:none;font-size:11.5px;font-weight:bold;color:var(--ua,var(--navy));
+    background:color-mix(in srgb,var(--ua) 12%,#fff);border:1px solid color-mix(in srgb,var(--ua) 30%,#fff);
+    padding:5px 10px;border-radius:999px;white-space:nowrap}
+  .caret{flex:none;color:var(--muted);transition:transform .25s;font-size:18px}
+  .unit.open .caret{transform:rotate(180deg)}
+  .unit-body{display:none;padding:2px 20px 22px;border-top:1px solid var(--line)}
+  .unit.open .unit-body{display:block;animation:fade .3s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+
+  /* Content blocks inside a unit */
+  .block{border-radius:12px;padding:14px 16px;margin-top:14px;border:1px solid var(--line);background:#fcfdff}
+  .block h4{margin:0 0 8px;font-size:13px;letter-spacing:.06em;text-transform:uppercase;display:flex;align-items:center;gap:8px}
+  .block h4 .dot{width:10px;height:10px;border-radius:50%}
+  .block p{margin:0 0 8px}
+  .block p:last-child{margin-bottom:0}
+  .block.def{border-color:color-mix(in srgb,var(--definition) 35%,#fff);background:color-mix(in srgb,var(--definition) 6%,#fff)}
+  .block.def h4{color:var(--definition)}
+  .block.case{border-color:color-mix(in srgb,var(--casestudy) 35%,#fff);background:color-mix(in srgb,var(--casestudy) 7%,#fff)}
+  .block.case h4{color:var(--casestudy)}
+  .block.act{border-color:color-mix(in srgb,var(--activity) 35%,#fff);background:color-mix(in srgb,var(--activity) 7%,#fff)}
+  .block.act h4{color:var(--activity)}
+  .ref{font-size:12.5px;color:var(--muted);font-style:italic}
+  .case-badge{display:inline-block;font-size:11px;font-weight:bold;color:#fff;background:var(--casestudy);
+    padding:2px 8px;border-radius:999px;margin-left:6px}
+
+  /* Tool / framework gallery */
+  .tools{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:6px}
+  .tool{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+  .tool .tn{font-weight:bold;font-size:13.5px}
+  .tool .td{font-size:12px;color:var(--muted);margin-top:2px}
+
+  ul.tk{margin:4px 0 0;padding-left:18px}
+  ul.tk li{margin:3px 0}
+  ol.rf{margin:4px 0 0;padding-left:20px}
+  ol.rf li{margin:5px 0}
+
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:720px){.grid2{grid-template-columns:1fr}}
+
+  .thumbnail{background:var(--navy);color:#eaf1ff;border-radius:12px;padding:14px 16px;margin-top:14px}
+  .thumbnail h4{color:#8fe3dd;margin:0 0 6px;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase}
+  .thumbnail .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  @media(max-width:640px){.thumbnail .grid3{grid-template-columns:1fr}}
+  .thumbnail .tc{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:9px;padding:9px 11px}
+  .thumbnail .tc b{color:#fff;font-size:12.5px}
+  .thumbnail .tc span{display:block;color:#c2cfe8;font-size:12px;margin-top:2px}
+
+  .strategy{border-left:4px solid var(--teal);background:#eefaf9;border-radius:0 10px 10px 0;
+    padding:12px 16px;margin-top:14px;font-size:14px}
+  .strategy b{color:#12726c}
+
+  /* Generic content cards for glossary / self-assessment / references */
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);padding:22px 24px;margin-top:14px}
+  .gloss{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:720px){.gloss{grid-template-columns:1fr}}
+  .gloss dt{font-weight:bold;color:var(--navy)}
+  .gloss dd{margin:2px 0 12px;color:var(--muted);font-size:14px}
+  .qa{border-bottom:1px solid var(--line);padding:12px 0}
+  .qa:last-child{border-bottom:none}
+  .qa .q{font-weight:bold}
+  .qa .u{font-size:12px;color:var(--teal);font-weight:bold;text-transform:uppercase;letter-spacing:.05em}
+  details.reveal{margin-top:6px}
+  details.reveal summary{cursor:pointer;color:var(--navy-2);font-size:13.5px;font-weight:bold}
+  details.reveal p{margin:6px 0 0;font-size:13.5px;color:var(--muted)}
+  .reflist{columns:1;font-size:13.5px}
+  ol.reflist{padding-left:20px}
+  ol.reflist li{margin:8px 0}
+
+  footer{background:var(--navy);color:#c2cfe8;margin-top:40px;padding:30px 0}
+  footer .wrap{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between;align-items:center;font-size:13.5px}
+  footer b{color:#fff}
+  .toplinks{display:flex;flex-wrap:wrap;gap:14px}
+  .toplinks a{color:#9fb3d9;font-size:13px}
+
+  .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:12px;font-size:12.5px;color:var(--muted)}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .legend i{width:12px;height:12px;border-radius:3px;display:inline-block}
+  @media(max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}.unit-format{display:none}}
+  a.stat{text-decoration:none;transition:transform .15s,background .15s}
+  a.stat:hover{transform:translateY(-2px);background:rgba(255,255,255,.14)}
+
+  /* ---------- FRAMEWORK GALLERY (Slibraries) ---------- */
+  .slib-filter{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 6px}
+  .slib-chip{border:1px solid var(--line);background:#fff;color:var(--muted);border-radius:999px;
+    padding:7px 14px;font-size:13px;font-family:inherit;cursor:pointer;font-weight:bold;transition:.15s}
+  .slib-chip:hover{border-color:var(--sc,var(--navy));color:var(--sc,var(--navy))}
+  .slib-chip.active{background:var(--sc,var(--navy));border-color:var(--sc,var(--navy));color:#fff}
+  .slib-group{margin-top:18px}
+  .slib-head{display:flex;align-items:center;gap:12px;margin:0 0 10px}
+  .slib-head .badge{flex:none;width:30px;height:30px;border-radius:9px;display:grid;place-items:center;
+    color:#fff;font-weight:800;font-size:14px;background:var(--sc,var(--navy))}
+  .slib-head h3{margin:0;font-size:16.5px;font-weight:800}
+  .slib-head .cnt{color:var(--muted);font-size:13px;font-weight:normal}
+  .fw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+  .fw-card{background:#fff;border:1px solid var(--line);border-top:4px solid var(--sc,var(--navy));
+    border-radius:12px;padding:14px 15px;cursor:pointer;box-shadow:var(--shadow);transition:.15s;position:relative}
+  .fw-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg)}
+  .fw-card .cat{font-size:10.5px;font-weight:bold;letter-spacing:.05em;text-transform:uppercase;color:var(--sc,var(--navy))}
+  .fw-card .fn{font-size:15px;font-weight:800;margin:3px 0 5px}
+  .fw-card .ol{font-size:13px;color:var(--muted);line-height:1.5}
+  .fw-card .open-ic{position:absolute;top:12px;right:13px;color:var(--line);font-size:15px}
+  .fw-card:hover .open-ic{color:var(--sc,var(--navy))}
+
+  /* ---------- MODAL ---------- */
+  .modal-back{position:fixed;inset:0;background:rgba(15,22,42,.55);z-index:100;display:none;
+    align-items:flex-start;justify-content:center;padding:40px 18px;overflow:auto}
+  .modal-back.open{display:flex}
+  .modal{background:#fff;border-radius:16px;max-width:640px;width:100%;box-shadow:var(--shadow-lg);
+    border-top:6px solid var(--sc,var(--navy));animation:fade .25s ease}
+  .modal .mh{padding:22px 24px 6px}
+  .modal .mh .cat{font-size:11px;font-weight:bold;letter-spacing:.06em;text-transform:uppercase;color:var(--sc,var(--navy))}
+  .modal .mh h3{margin:5px 0 4px;font-size:23px;font-weight:800}
+  .modal .mh .ol{color:var(--muted);font-size:15px;margin:0}
+  .modal .mb{padding:8px 24px 22px}
+  .modal .mb h4{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink);margin:16px 0 6px}
+  .modal .mb ol{margin:0;padding-left:20px}
+  .modal .mb ol li{margin:5px 0}
+  .modal .mb .src{margin-top:14px;font-size:12.5px;color:var(--muted);font-style:italic;border-top:1px solid var(--line);padding-top:12px}
+  .modal .close{position:absolute;top:18px;right:22px;background:rgba(255,255,255,.9);border:1px solid var(--line);
+    width:34px;height:34px;border-radius:50%;font-size:18px;cursor:pointer;color:var(--muted);line-height:1}
+  .modal .pill{display:inline-block;font-size:11px;font-weight:bold;color:#fff;background:var(--sc,var(--navy));
+    padding:3px 10px;border-radius:999px;margin-top:8px}
+
+  /* ---------- SLIBRARY AUTHORS ---------- */
+  .auth-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-top:6px}
+  .auth{background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
+  .auth summary{list-style:none;cursor:pointer;display:flex;gap:12px;align-items:center;padding:15px 16px}
+  .auth summary::-webkit-details-marker{display:none}
+  .auth .av{flex:none;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;
+    color:#fff;font-weight:800;font-size:16px;background:linear-gradient(135deg,var(--navy),var(--teal))}
+  .auth .who{flex:1;min-width:0}
+  .auth .who b{display:block;font-size:14.5px;line-height:1.25}
+  .auth .who span{display:block;font-size:12px;color:var(--muted);margin-top:2px}
+  .auth .who .disc{color:var(--teal);font-weight:bold;font-size:11px;text-transform:uppercase;letter-spacing:.04em}
+  .auth .ex{padding:0 16px 16px;font-size:13.5px;color:var(--ink);border-top:1px solid var(--line)}
+  .auth .ex p{margin:10px 0 0}
+  .auth .ex .lab{font-weight:bold;color:var(--navy)}
+  .auth[open] summary .av{background:linear-gradient(135deg,var(--teal),var(--navy))}
+
+  /* ---------- PDF THUMBNAIL GALLERY WALLS ---------- */
+  .cta-band{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;
+    background:var(--navy);color:#fff;font-weight:800;font-size:15.5px;padding:16px 18px;border-radius:12px;margin-bottom:16px}
+  .cta-band .dot{width:11px;height:11px;border-radius:3px;background:var(--teal)}
+  .cta-band .hint{font-weight:normal;font-size:12.5px;color:#9fb3d9}
+  .fw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:14px}
+  .fw-card,.auth-card{display:block;background:#fff;border:1px solid var(--line);border-radius:12px;
+    overflow:hidden;box-shadow:var(--shadow);transition:transform .15s,box-shadow .15s;text-decoration:none;color:inherit}
+  .fw-card{border-top:4px solid var(--sc,var(--navy))}
+  .fw-card:hover,.auth-card:hover{transform:translateY(-5px);box-shadow:var(--shadow-lg);text-decoration:none}
+  .fw-card .thumb,.auth-card .thumb{position:relative;background:#eef1f7;border-bottom:1px solid var(--line);line-height:0}
+  .fw-card .thumb img,.auth-card .thumb img{display:block;width:100%;height:auto}
+  .pdf-tag{position:absolute;top:8px;right:8px;background:#c0392b;color:#fff;font-size:10px;font-weight:bold;
+    padding:2px 7px;border-radius:4px;letter-spacing:.05em;line-height:1.4}
+  .fw-meta{padding:10px 12px}
+  .fw-meta .cat{font-size:10px;font-weight:bold;text-transform:uppercase;letter-spacing:.04em;color:var(--sc,var(--navy))}
+  .fw-meta .fn{font-size:13.5px;font-weight:800;margin-top:2px;line-height:1.25}
+  .auth-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:14px;margin-top:0}
+  .auth-card .auth-meta{display:flex;align-items:center;gap:10px;padding:10px 12px}
+  .auth-card .av{flex:none;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;
+    color:#fff;font-weight:800;font-size:12px;background:linear-gradient(135deg,var(--navy),var(--teal))}
+  .auth-card .who{min-width:0}
+  .auth-card .who b{display:block;font-size:12.5px;line-height:1.2}
+  .auth-card .who .disc{font-size:10.5px;color:var(--teal);font-weight:bold;text-transform:uppercase;letter-spacing:.03em}
+  .doc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:16px}
+  .doc-card{border-top:4px solid var(--navy)}
+  .doc-card .doc-sub{font-size:11.5px;color:var(--muted);margin-top:4px}
+
+  /* ---------- BCOBM322-STYLE LAYOUT ---------- */
+  .hero-c{text-align:center;padding:52px 0 34px}
+  .hero-c .kicker{background:none;border:none;color:#e6a92e;letter-spacing:.18em;font-size:12.5px;padding:0}
+  .hero-c .title{font-size:clamp(32px,5.2vw,52px);margin:14px 0 8px}
+  .hero-c .subtitle{margin:0 auto;color:#c4d1ea;max-width:none}
+  .copyline{color:#8397bf;font-style:italic;font-size:12.5px;margin:12px 0 0}
+  .stats-plain{display:flex;justify-content:center;flex-wrap:wrap;gap:34px 52px;margin-top:26px;background:none}
+  .stats-plain .stat{background:none;border:none;padding:0}
+  .stats-plain .stat:hover{transform:translateY(-2px);background:none}
+  .stats-plain .num{color:#37b26e;font-size:clamp(28px,3.6vw,36px);font-weight:800;line-height:1}
+  .stats-plain .lab{color:#93a7cd;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;margin-top:7px}
+  .searchwrap{background:var(--bg);padding:26px 0 2px}
+  .searchwrap .searchbar{margin:0}
+  .searchwrap .searchbar input{border:1px solid var(--line)}
+
+  .unit-titles .unit-tag{display:inline-block;margin-top:6px;font-size:11px;font-weight:800;letter-spacing:.06em;
+    color:var(--muted);background:#eef1f7;border:1px solid var(--line);padding:4px 10px;border-radius:6px}
+
+  .core-msg{background:#e9ecfb;border-radius:12px;padding:14px 16px;margin:2px 0 14px}
+  .core-lab{color:#3550b5;font-weight:800;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase}
+  .core-txt{font-weight:800;font-style:italic;color:#20305e;margin:6px 0 0;font-size:15.5px;line-height:1.5}
+
+  .res{border:1px solid var(--line);border-radius:12px;margin-top:10px;overflow:hidden;background:#fff}
+  .res-head{display:flex;align-items:center;gap:14px;padding:13px 16px;cursor:pointer}
+  .res-head:hover{background:#fafbfe}
+  .res-ic{flex:none;width:40px;height:40px;border-radius:10px;display:grid;place-items:center;color:#fff;font-weight:800;font-size:12.5px}
+  .res-txt{flex:1;min-width:0}
+  .res-txt b{display:block;font-size:15px}
+  .res-txt >span{display:block;color:var(--muted);font-size:13px;margin-top:1px}
+  .res-r{flex:none;color:var(--muted);font-size:12px;font-weight:bold;display:flex;align-items:center;gap:8px}
+  .res-r .caret{transition:transform .2s;font-size:15px}
+  .res.open .res-r .caret{transform:rotate(180deg)}
+  .res-body{display:none;padding:2px 16px 16px 70px}
+  .res.open .res-body{display:block;animation:fade .25s ease}
+  .res-body p{margin:0 0 8px}
+  .res-body .refc{font-size:12.5px;color:var(--muted);font-style:italic}
+  .mini-h{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--navy);margin:14px 0 5px;font-weight:800}
+
+  .ufw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:10px}
+  .ufw{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--line);border-radius:10px;padding:10px;
+    text-decoration:none;color:inherit;background:#fcfdff;transition:.15s}
+  .ufw:hover{border-color:var(--navy);box-shadow:var(--shadow);text-decoration:none;transform:translateY(-2px)}
+  .ufw-thumb{flex:none;width:52px;height:74px;object-fit:cover;object-position:top center;border:1px solid var(--line);border-radius:4px;background:#eef1f7}
+  .ufw-txt{flex:1;min-width:0}
+  .ufw-name{display:block;font-weight:800;font-size:13.5px;line-height:1.2}
+  .ufw-def{display:block;font-size:11.5px;color:var(--muted);line-height:1.45;margin-top:3px}
+  .ufw-pdf{flex:none;background:#c0392b;color:#fff;font-size:9.5px;font-weight:bold;padding:2px 7px;border-radius:4px;letter-spacing:.04em}
+
+  .ugi-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+  .ugi{display:flex;gap:10px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:9px 11px;
+    text-decoration:none;color:inherit;background:#fcfdff;transition:.15s}
+  .ugi:hover{border-color:var(--teal);box-shadow:var(--shadow);text-decoration:none;transform:translateY(-2px)}
+  .ugi .av{flex:none;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:800;font-size:11.5px;background:linear-gradient(135deg,var(--navy),var(--teal))}
+  .ugi .who{min-width:0;flex:1}
+  .ugi .who b{display:block;font-size:12.5px;line-height:1.2}
+  .ugi .who span{font-size:10px;color:var(--teal);font-weight:bold;text-transform:uppercase;letter-spacing:.02em}
+  .ugi .pdftag{flex:none;background:#c0392b;color:#fff;font-size:9px;font-weight:bold;padding:2px 6px;border-radius:4px}
+  @media(max-width:640px){.res-body{padding-left:16px}.stats-plain{gap:22px 34px}}
+
+  /* ---------- SLIBRARY AUTHOR PROFILES (JD Meier distilled, expand in-page) ---------- */
+  .giant-group-h{font-weight:800;color:var(--navy);font-size:14.5px;margin:20px 0 10px;padding-bottom:7px;border-bottom:2px solid var(--line)}
+  .giant-group-h:first-child{margin-top:0}
+  .giant-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+  .gcard{background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);overflow:hidden;height:max-content}
+  .gcard[open]{grid-column:1/-1;border-color:var(--teal)}
+  .gcard summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:14px 16px}
+  .gcard summary::-webkit-details-marker{display:none}
+  .gcard .av{flex:none;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:800;font-size:15px;background:linear-gradient(135deg,var(--navy),var(--teal))}
+  .gcard .who{flex:1;min-width:0}
+  .gcard .who b{display:block;font-size:14.5px;line-height:1.2}
+  .gcard .who span{display:block;font-size:12px;color:var(--muted);margin-top:2px}
+  .gcard .gcaret{flex:none;color:var(--muted);transition:transform .2s;font-size:15px}
+  .gcard[open] .gcaret{transform:rotate(180deg)}
+  .gbody{padding:4px 18px 18px;border-top:1px solid var(--line)}
+  .gcard[open] .gbody{columns:2;column-gap:28px}
+  @media(max-width:720px){.gcard[open] .gbody{columns:1}}
+  .gsec{margin-top:12px;break-inside:avoid}
+  .gsec-h{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--navy);font-weight:800;margin-bottom:3px}
+  .gsec p{margin:0;font-size:13px;color:var(--ink);line-height:1.5}
+  .gref{font-size:12px;color:var(--muted);line-height:1.45;padding-left:15px;text-indent:-15px;margin-top:5px}
+  .gref::before{content:"•";color:var(--teal);font-weight:bold;margin-right:7px}
+  .gpdf{display:inline-block;margin-top:14px;font-size:12.5px;font-weight:bold;color:#c0392b}
+</style>
+</head>
+<body>
+<header class="hero hero-c">
+  <div class="wrap">
+    <span class="kicker">BCOBM126 — Bachelor · Year 1 (FHEQ 4) · 5 ECTS</span>
+    <h1 class="title">Creativity &amp; Design Thinking</h1>
+    <p class="subtitle">Active-Learning Units · Framework Galleries · Case Studies</p>
+    <p class="copyline">© 2026 Dr. Hildegard Haas · EU Business School · Summer II AY26</p>
+    <div class="stats stats-plain">
+      <a class="stat" href="#units"><div class="num">10</div><div class="lab">Units</div></a>
+      <a class="stat" href="#frameworks"><div class="num">39</div><div class="lab">Frameworks</div></a>
+      <a class="stat" href="#slibrary"><div class="num">19</div><div class="lab">Authors</div></a>
+      <a class="stat" href="#units"><div class="num">10</div><div class="lab">Case Studies</div></a>
+    </div>
+  </div>
+</header>
+
+<div class="searchwrap"><div class="wrap">
+  <div class="searchbar">
+    <span class="ic">🔎</span>
+    <input id="q" type="text" autocomplete="off" placeholder="Search units, frameworks, cases, thinkers…" aria-label="Search course content">
+    <div class="search-results" id="sr"></div>
+  </div>
+</div></div>
+
+<main class="wrap">
+  <div class="section-head" id="units">
+    <h2>Course Units</h2>
+    <p>Ten teaching units in the EU Business School active-learning model. Each unit pairs a signature method — <b>Presentation, Case Study, Role Play, Hackathon</b> or <b>Business Challenge</b> — with a Bostelaar core message, a Thumbnail-Thinking framework gallery, a recent case, pre-reading, reflection, and a Council-of-Giants author Slibrary. Every framework opens as a thumbnail, a short definition and a downloadable PDF. Expand a unit to begin.</p>
+  </div>
+
+  <div class="units" id="unitList"></div>
+
+  <div class="section-head" id="frameworks">
+    <h2>Framework Gallery</h2>
+    <p>Thirty-nine interactive tools organised into ten <b>Slibraries</b> — one per unit — that follow the design thinking journey. Filter by Slibrary, then click any framework thumbnail to open its one-page PDF reference sheet (professional definition, who and why it was developed, how, when and by whom it is used, innovation relative to prior practice, related frameworks and Harvard sources).</p>
+  </div>
+  <div class="panel">
+    <div class="cta-band"><span class="dot"></span> All 39 Frameworks — Complete Gallery Wall <span class="hint">click a thumbnail to open the PDF</span></div>
+    <div class="slib-filter" id="slibFilter"></div>
+    <div id="fwGallery"></div>
+  </div>
+
+  <div class="section-head" id="slibrary">
+    <h2>Slibrary — The Thinkers Behind the Frameworks</h2>
+    <p>A visual reference library of the 19 thinkers behind the frameworks in this course. Each card is a Slibrary — built in the JD Meier "Author Distilled" tradition — showing the <b>why</b>, the <b>foundation</b>, the <b>frameworks</b>, the <b>operationalisation</b>, the <b>limitations</b> and the <b>enduring impact</b> of one author. Click any card to expand the full profile; each also downloads as a PDF.</p>
+  </div>
+  <div class="panel">
+    <div class="cta-band"><span class="dot"></span> 19 Framework Authors — The Thinkers Behind the Frameworks <span class="hint">click a card to expand the full profile</span></div>
+    <div id="authGrid"></div>
+  </div>
+
+  <div class="section-head" id="documents">
+    <h2>Course Reference Documents</h2>
+    <p>The glossary, self-assessment and full reference list are provided as professional PDF documents rather than printed on this page. Click a thumbnail to open one.</p>
+  </div>
+  <div class="panel">
+    <div class="cta-band"><span class="dot"></span> Course Documents — Glossary · Self-Assessment · References <span class="hint">click a thumbnail to open the PDF</span></div>
+    <div class="doc-grid" id="docGrid"></div>
+  </div>
+
+  </main>
+
+<footer>
+  <div class="wrap">
+    <div>© 2026 <b>Dr. Hildegard Haas</b> · EU Business School — BCOBM126 Creativity &amp; Design Thinking</div>
+    <div class="toplinks">
+      <a href="#units">Units</a>
+      <a href="#frameworks">Frameworks</a>
+      <a href="#slibrary">Slibrary</a>
+      <a href="#documents">Documents</a>
+    </div>
+    <div>Thumbnail Thinking after <b>JD Meier</b> (2025) · Strategy messages by <b>Kurt Bostelaar</b></div>
+  </div>
+</footer>
+
+<div class="modal-back" id="modalBack">
+  <div class="modal" id="modal" role="dialog" aria-modal="true">
+    <button class="close" id="modalClose" aria-label="Close">✕</button>
+    <div class="mh" id="modalHead"></div>
+    <div class="mb" id="modalBody"></div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script>
+/* ============================================================
+   BCOBM126 course data — rendered into the portal below.
+   ============================================================ */
+const UNITS = [
+ {
+  n:1, title:"Introduction to Creativity", format:"Presentation",
+  sub:"Definitions and characteristics of creativity · creativity as a leadership skill · the role of creativity in business",
+  def:"Creativity is most commonly defined as the production of ideas or artefacts that are both <b>original</b> (novel, surprising) and <b>effective</b> (useful, appropriate to the task). In organisational settings, creativity is the generation of novel and useful ideas, while innovation is their successful implementation.",
+  defRef:"Runco, M.A. and Jaeger, G.J. (2012) ‘The Standard Definition of Creativity’, <i>Creativity Research Journal</i>, 24(1), pp. 92–96; Amabile, T.M. (1998) ‘How to Kill Creativity’, <i>Harvard Business Review</i>, 76(5), pp. 76–87.",
+  tools:[
+    ["The 4 P's of Creativity","Person · Process · Press (environment) · Product — Rhodes (1961)."],
+    ["Componential Model","Expertise × creative-thinking skills × intrinsic motivation — Amabile."],
+    ["SCAMPER","Substitute, Combine, Adapt, Modify, Put to other use, Eliminate, Reverse."],
+    ["Divergent–Convergent thinking","Generate broadly, then select and refine."]
+  ],
+  activity:"<b>‘30 Circles’ (10 min).</b> Give students a sheet of 30 blank circles and 3 minutes to turn as many as possible into recognisable objects. Debrief on quantity vs. self-censorship — most people stop far below their potential. It instantly demonstrates fluency, fear of judgement and how ‘good enough’ beats ‘perfect’ for idea generation.",
+  caseTitle:"The LEGO Group — creativity as a growth engine",
+  case:"After nearly going bankrupt in the early 2000s, LEGO turned <b>disciplined creativity</b> into its core growth strategy. In 2021 it posted its strongest results ever — revenue up 27% to DKK 55.3 billion and net profit up 32% — driven by IP collaborations (Star Wars, Super Mario), sets designed for adult fans, and the crowdsourced <i>LEGO Ideas</i> platform that turns fan creativity into commercial products. It shows how systematising imagination becomes a durable competitive advantage.",
+  caseRef:"The LEGO Group (2022) ‘2021 Annual Results’, LEGO.com. Available at: https://www.lego.com/en-us/aboutus/news/2022/march/2021-annual-results (Accessed: 20 July 2026).",
+  takeaways:["Creativity = original + effective; innovation = creativity implemented.","It is a learnable leadership skill, not a fixed trait.","Business value comes from a culture that systematises idea generation.","Intrinsic motivation and psychological safety fuel creative output."],
+  reflection:["Where in your own life do you self-censor ideas before sharing them?","Think of a company you admire — is its edge the idea, or the system that produces ideas?","Which of Amabile's three components (expertise, skills, motivation) is your strongest?"],
+  thumb:["Frame","Creativity is a strategic asset, not decoration.","Insight","Original + useful is the bar every idea must clear.","Action","Separate idea generation from judgement."],
+  strategy:"Creativity is the one resource that grows when you spend it — treat it as your organisation's compounding advantage, not a cost line.",
+  authors:"Runco & Jaeger, Amabile, Rhodes, Boyles (HBS Online)"
+ },
+ {
+  n:2, title:"Team Creativity", format:"Role Play",
+  sub:"Team collaboration for creativity · overcoming barriers · evaluating and pitching ideas",
+  def:"Team creativity is the capacity of a group to generate novel and useful outcomes that exceed what members could produce alone. It depends heavily on <b>psychological safety</b> — a shared belief that the team is safe for interpersonal risk-taking — which enables candour, dissent and idea-sharing.",
+  defRef:"Edmondson, A.C. (2019) <i>The Fearless Organization</i>. Hoboken, NJ: Wiley; Catmull, E. and Wallace, A. (2014) <i>Creativity, Inc.</i> New York: Random House.",
+  tools:[
+    ["Brainwriting (6-3-5)","6 people, 3 ideas, 5 rounds — silent parallel ideation."],
+    ["Six Thinking Hats","De Bono — separate emotion, facts, caution, optimism, creativity, process."],
+    ["Dot voting","Democratic convergence on the strongest ideas."],
+    ["Pitch canvas","Structure a persuasive idea pitch: problem, insight, solution, ask."]
+  ],
+  activity:"<b>‘Yes, and…’ vs ‘Yes, but…’ (12 min).</b> In pairs, students plan a party. Round 1: every reply must start with ‘Yes, but…’. Round 2: every reply must start with ‘Yes, and…’. Groups feel how ‘but’ kills momentum while ‘and’ compounds ideas — a live lesson in building on others' contributions.",
+  caseTitle:"Duolingo — a tiny team, a viral brand",
+  case:"Duolingo turned a <b>flat, empowered social team</b> of roughly four people into one of the internet's most successful creative operations. By removing approval chains and granting maximum creative freedom, the team made the Duo owl a cultural phenomenon on TikTok, helping grow monthly active users from 40.5m (2021) to over 116m and lifting Q3 2024 billings 40% year-over-year. The lesson: autonomy + psychological safety turns small groups into idea powerhouses.",
+  caseRef:"Adweek (2025) ‘Hi! It's Duo: The Marketing Strategy Behind the Internet's Favorite Green Menace’, Adweek. Available at: https://www.adweek.com/brand-marketing/duolingo-duo-owl-marketing-strategy/ (Accessed: 20 July 2026).",
+  takeaways:["Psychological safety is the strongest predictor of team creativity.","Structured methods (brainwriting, dot voting) beat unstructured brainstorms.","Separate generating from evaluating to protect fragile early ideas.","A good pitch sells the problem and insight, not just the solution."],
+  reflection:["When did you last hold back an idea in a group — and why?","Does your team reward the loudest voice or the best idea?","What one ritual could make your team feel safer to take creative risks?"],
+  thumb:["Frame","The unit of creativity is often the team, not the genius.","Insight","Safety unlocks candour; candour unlocks ideas.","Action","Run silent ideation before open discussion."],
+  strategy:"Protect the messenger before you judge the message — a team that fears the room will never give you its best thinking.",
+  authors:"Edmondson, Catmull & Wallace, De Bono, Osborn"
+ },
+ {
+  n:3, title:"Design Thinking Fundamentals", format:"Case Study",
+  sub:"Introduction, history and evolution · schools and mindsets · overview of the process",
+  def:"Design thinking is a <b>human-centred, iterative</b> approach to innovation that integrates the needs of people, the possibilities of technology and the requirements for business success. It typically moves through empathise, define, ideate, prototype and test — treating problems as opportunities to be explored rather than defects to be fixed.",
+  defRef:"Brown, T. (2009) <i>Change by Design</i>. New York: Harper Business; Liedtka, J. (2018) ‘Why Design Thinking Works’, <i>Harvard Business Review</i>, 96(5), pp. 72–79.",
+  tools:[
+    ["d.school 5-stage model","Empathise → Define → Ideate → Prototype → Test."],
+    ["Double Diamond","Discover, Define, Develop, Deliver — diverge/converge twice (Design Council)."],
+    ["Desirability–Feasibility–Viability","The three lenses of human-centred innovation (IDEO)."],
+    ["Design thinking mindsets","Bias to action, comfort with ambiguity, learning from failure."]
+  ],
+  activity:"<b>The Marshmallow Challenge (18 min).</b> Teams build the tallest free-standing structure from spaghetti, tape, string and one marshmallow on top. Kindergartners routinely beat business students because they prototype early and often. Debrief: iteration and testing beat planning-then-executing.",
+  caseTitle:"Airbnb — design thinking as an operating philosophy",
+  case:"Founded by designers, Airbnb kept design thinking central with its <b>2022 Summer Release</b> — its biggest change in a decade. Rather than optimising ‘search’, it reorganised 6m+ listings into 56 human-centred ‘Categories’ built around how people dream about travel, plus AirCover born from listening to guest pain points. It reflects a full cycle — empathise with post-pandemic travellers, reframe, prototype, ship — showing process as strategy.",
+  caseRef:"Airbnb (2022) ‘Introducing a new Airbnb for a new world of travel: The 2022 Summer Release’, Airbnb Newsroom. Available at: https://news.airbnb.com/2022-summer-release/ (Accessed: 20 July 2026).",
+  takeaways:["Design thinking balances desirability, feasibility and viability.","It is non-linear and iterative — loops, not a straight line.","Empathy for real users is the starting point of every project.","Mindset (bias to action, learning from failure) matters as much as method."],
+  reflection:["Recall a product you love — which human need does it really serve?","When do you plan too long before testing?","Which design thinking mindset is hardest for you to adopt?"],
+  thumb:["Frame","Innovate for people, then check tech and business.","Insight","Iteration beats one perfect plan.","Action","Prototype in hours, not weeks."],
+  strategy:"Fall in love with the problem, not your first solution — the process exists precisely so you can afford to be wrong early and cheaply.",
+  authors:"Brown, Liedtka, Kelley & Kelley, Design Council"
+ },
+ {
+  n:4, title:"Understanding the Problem", format:"Case Study",
+  sub:"The necessity of problem understanding · tools for problem clarification, analysis and reformulation",
+  def:"Problem framing is the act of defining <b>which</b> problem to solve and how it is understood, before generating solutions. Reframing — deliberately changing the problem statement — often reveals higher-value solution spaces that optimising the original problem would never surface.",
+  defRef:"Wedell-Wedellsborg, T. (2017) ‘Are You Solving the Right Problems?’, <i>Harvard Business Review</i>, 95(1), pp. 76–83; Dorst, K. (2015) <i>Frame Innovation</i>. Cambridge, MA: MIT Press.",
+  tools:[
+    ["5 Whys","Iterative questioning to reach a root cause."],
+    ["Problem framing canvas","Restate the problem from multiple stakeholder angles."],
+    ["Critical Items Diagram","Surface the assumptions most critical and most uncertain."],
+    ["Reframing matrix","View a problem through 4 different professional ‘lenses’."]
+  ],
+  activity:"<b>‘The slow elevator’ reframe (12 min).</b> A classic: tenants complain the elevator is too slow. Ask half the room to fix the elevator, the other half to fix the <i>wait</i>. The second group invents mirrors, music, screens — cheaper and better. Shows how the framing decides the solution.",
+  caseTitle:"Netflix — reframing password sharing",
+  case:"For years Netflix framed password sharing as a threat: ‘how do we stop freeloaders?’ In 2023 it <b>reframed</b> the problem as ‘how do we convert borrowers into members?’, launching paid sharing with a low-cost extra-member add-on rather than simply blocking access. The reframe from enforcement to monetisation helped add nearly 6 million subscribers in Q2 2023 — its strongest quarter since the pandemic boom.",
+  caseRef:"Variety (2023) ‘Netflix Adds Nearly 6 Million Subscribers Amid Password-Sharing Crackdown in Q2’, Variety. Available at: https://variety.com/2023/tv/news/netflix-subscribers-up-q2-earnings-1235673960/ (Accessed: 20 July 2026).",
+  takeaways:["The way you frame a problem bounds the solutions you can see.","Reframing is faster and cheaper than better execution of the wrong problem.","Root-cause tools (5 Whys) prevent solving symptoms.","Always ask: is this even the right problem?"],
+  reflection:["Think of a recent ‘solution’ that failed — was the problem framed wrong?","Whose perspective is missing from how you currently state the problem?","What would change if you solved the opposite problem?"],
+  thumb:["Frame","Solve the right problem, not the obvious one.","Insight","Reframing unlocks new solution spaces.","Action","Restate the problem 3 ways before ideating."],
+  strategy:"A brilliant answer to the wrong question is still wrong — invest disproportionately in framing before you spend a euro on solutions.",
+  authors:"Wedell-Wedellsborg, Dorst, Ohno (5 Whys)"
+ },
+ {
+  n:5, title:"Empathizing with the User", format:"Role Play",
+  sub:"Principles of empathy · empathy maps, personas, customer journey maps, AEIOU, trend analysis",
+  def:"Empathy in design is the discipline of <b>understanding users' experiences, emotions and motivations</b> from their point of view, gathered through observation and engagement rather than assumption. It is the research foundation of human-centred design — you cannot design for needs you have not understood.",
+  defRef:"Kouprie, M. and Sleeswijk Visser, F. (2009) ‘A framework for empathy in design’, <i>Journal of Engineering Design</i>, 20(5), pp. 437–448; IDEO.org (2015) <i>The Field Guide to Human-Centered Design</i>.",
+  tools:[
+    ["Empathy Map","Says · Thinks · Does · Feels — capture the user holistically."],
+    ["Persona / User Profile","A composite archetype representing a user segment."],
+    ["Customer Journey Map","Stages, touchpoints and emotions across an experience."],
+    ["AEIOU framework","Activities, Environments, Interactions, Objects, Users."],
+    ["Trend Analysis","Scan macro shifts shaping future user needs."],
+    ["Peers Observing Peers","Structured peer observation to reveal real behaviour."]
+  ],
+  activity:"<b>Empathy interview in pairs (15 min).</b> Student A interviews B about their last frustrating purchase using only open questions and ‘tell me more about…’. No solutions allowed. A then fills an empathy map (says/thinks/does/feels). Teaches listening for emotion, not just facts.",
+  caseTitle:"Microsoft — Adaptive Accessories built on empathy",
+  case:"Microsoft's <b>Adaptive Accessories</b> (2022) were co-created with people who have limited mobility — mapping their real journeys and frustrations with standard mice and keyboards. The result is a customisable modular system (adaptive mouse, buttons, 3D-printable toppers) each person configures to their own body. It extends Microsoft's Inclusive Design method, which treats insights from ‘extreme’ users as the starting point for products that benefit everyone.",
+  caseRef:"Dezeen (2022) ‘Microsoft releases range of adaptive computer accessories for people with disabilities’, Dezeen. Available at: https://www.dezeen.com/2022/05/18/microsoft-adaptive-computer-accessories-disabilities/ (Accessed: 20 July 2026).",
+  takeaways:["Empathy is a research method, not a feeling.","Observe behaviour — people don't always do what they say.","Empathy maps, personas and journeys externalise user understanding.","Designing for ‘extreme’ users often improves the product for all."],
+  reflection:["When did you last assume you knew what a user wanted — and were wrong?","Which emotions does your target user feel that you have never named?","How could you observe real behaviour rather than ask about it?"],
+  thumb:["Frame","Understand people before designing for them.","Insight","Emotion drives behaviour more than logic.","Action","Watch users; don't just survey them."],
+  strategy:"You are not your user — spend time in their reality, because every hour of real empathy saves ten hours building the wrong thing.",
+  authors:"Kouprie & Sleeswijk Visser, IDEO.org, Gibbons (NN/g)"
+ },
+ {
+  n:6, title:"Defining the Problem", format:"Presentation",
+  sub:"Importance of clear problem definition · ‘How Might We’, storytelling, context mapping, vision cones, point of view",
+  def:"The Define stage synthesises empathy research into a single, actionable <b>point-of-view (POV)</b> problem statement — usually of the form ‘[user] needs [need] because [insight]’. A sharp POV focuses ideation; ‘How Might We’ (HMW) questions then reframe the POV as an invitation to generate solutions.",
+  defRef:"Wedell-Wedellsborg, T. (2020) <i>What's Your Problem?</i> Boston: Harvard Business Review Press; Interaction Design Foundation (2026) ‘What is How Might We (HMW)?’.",
+  tools:[
+    ["How Might We (HMW)","Turn insights into optimistic, open solution prompts."],
+    ["Point of View (POV) statement","User + need + insight = a focused problem."],
+    ["Storytelling","Frame the user's problem as a narrative to build empathy and buy-in."],
+    ["Context Mapping","Map the wider forces surrounding the problem."],
+    ["Vision Cone","Explore probable, plausible and preferable futures."],
+    ["Define Success","Agree what a good solution must achieve up front."]
+  ],
+  activity:"<b>HMW sprint (10 min).</b> Give each group a POV statement (‘A busy commuter needs a quick breakfast because mornings are chaotic’). In 4 minutes they write as many ‘How Might We…’ questions as possible, then star the one that feels most exciting and open. Shows how phrasing widens or narrows the solution space.",
+  caseTitle:"Airbnb — reframing ‘search’ as ‘discovery’",
+  case:"CEO Brian Chesky <b>redefined the core problem</b> of travel: ‘We have homes in 100,000 cities. Nobody can think of 100,000 places to go.’ Reframing from ‘improve search’ to ‘help people discover places they'd never search for’ produced the 2022 Categories relaunch — 56 browsable themes plus Split Stays — a direct answer to a sharp point of view about traveller inspiration.",
+  caseRef:"Ravenscraft, E. (2022) ‘Airbnb is rolling out a new design to encourage travel discovery’, TNW. Available at: https://thenextweb.com/news/airbnb-redesign-travel-discovery-brian-chesky-interview (Accessed: 20 July 2026).",
+  takeaways:["A great POV is specific, human and insight-driven.","HMW questions open doors; closed questions shut them.","Define success criteria before you ideate.","Storytelling turns a problem statement into shared motivation."],
+  reflection:["Can you state your current problem as ‘user + need + insight’?","Is your problem statement so broad it means nothing, or so narrow it kills ideas?","What future are you actually designing toward?"],
+  thumb:["Frame","Converge empathy into one sharp problem.","Insight","How you phrase it shapes what you build.","Action","Write 10 HMW questions per POV."],
+  strategy:"A well-defined problem is half-solved — a team aligned on one clear POV moves faster than ten smart people solving ten private versions of it.",
+  authors:"Wedell-Wedellsborg, Stanford d.school, IDF"
+ },
+ {
+  n:7, title:"Ideation Techniques", format:"Hackaton",
+  sub:"Principles of ideation · brainstorming, 2×2 matrices, dot voting, 6-3-5, creative imitation, blue ocean",
+  def:"Ideation is the deliberate generation of a <b>large quantity and diversity</b> of ideas, deferring judgement so that novel combinations can emerge before selection. Value innovation (Blue Ocean) is a related move: creating uncontested market space by simultaneously pursuing differentiation and low cost.",
+  defRef:"Kim, W.C. and Mauborgne, R. (2015) <i>Blue Ocean Strategy</i>, Expanded Edition. Boston: Harvard Business Review Press; Osborn, A.F. (1953) <i>Applied Imagination</i>.",
+  tools:[
+    ["Brainstorming rules","Defer judgement, go for quantity, build on ideas, encourage wild ideas."],
+    ["6-3-5 Brainwriting","Silent, parallel idea generation to beat groupthink."],
+    ["2×2 Matrix","Prioritise ideas on two axes (e.g. impact vs. effort)."],
+    ["Dot voting","Fast, democratic shortlisting."],
+    ["Blue Ocean / ERRC","Eliminate–Reduce–Raise–Create to open new market space."],
+    ["Creative imitation","Borrow patterns from adjacent industries."]
+  ],
+  activity:"<b>Worst possible idea (10 min).</b> Groups brainstorm the <i>worst</i> way to solve the problem for 4 minutes, then flip each terrible idea into its opposite. Removing the pressure to be good unlocks fluency and surfaces surprisingly strong ideas from their inversions.",
+  caseTitle:"Liquid Death — a Blue Ocean in bottled water",
+  case:"Liquid Death took the most commoditised product imaginable — water — and reimagined it as a <b>‘murder your thirst’ heavy-metal brand</b> in tallboy cans, competing on entertainment and attitude rather than hydration. By borrowing the visual codes of energy drinks and beer (creative imitation) it created uncontested space rather than fighting the ‘red ocean’ of premium water. In March 2024 it raised $67m at a $1.4 billion valuation.",
+  caseRef:"Bloomberg (2024) ‘Liquid Death Is Valued at $1.4 Billion in New Financing Round’, Bloomberg. Available at: https://www.bloomberg.com/news/articles/2024-03-11/liquid-death-is-valued-at-1-4-billion-in-new-financing-round (Accessed: 20 July 2026).",
+  takeaways:["Quantity precedes quality — generate before you judge.","Defer judgement to keep fragile ideas alive.","Structured methods beat free-for-all brainstorms.","Blue Ocean: make the competition irrelevant, don't beat it."],
+  reflection:["Do your brainstorms judge ideas too early?","Which adjacent industry could you ‘creatively imitate’?","What would an ERRC grid change about your current product?"],
+  thumb:["Frame","Diverge widely before you converge.","Insight","New value often lies outside the category.","Action","Set a quota: 30 ideas before evaluating."],
+  strategy:"Compete less by copying better and more by creating new space — the biggest wins come from the questions your rivals never thought to ask.",
+  authors:"Kim & Mauborgne, Osborn, IDEO"
+ },
+ {
+  n:8, title:"Prototyping", format:"Hackaton",
+  sub:"Categories and purposes of prototypes · exploration maps, service blueprints, minimum viable products (MVPs)",
+  def:"A prototype is a <b>tangible, provisional representation</b> of an idea built to learn — to test assumptions quickly and cheaply before committing resources. A Minimum Viable Product (MVP) is the smallest version of a solution that lets a team start the build–measure–learn loop with real users.",
+  defRef:"Ries, E. (2011) <i>The Lean Startup</i>. New York: Crown Business; Blank, S. (2013) ‘Why the Lean Start-Up Changes Everything’, <i>Harvard Business Review</i>, 91(5), pp. 63–72.",
+  tools:[
+    ["Paper / low-fi prototype","Sketch or mock an interface in minutes."],
+    ["Minimum Viable Product (MVP)","Smallest buildable version that creates learning."],
+    ["Service Blueprint","Map front-stage and back-stage of a service."],
+    ["Exploration Map","Chart the space of possible solution directions."],
+    ["Wizard of Oz","Fake the back-end to test the front-end experience."]
+  ],
+  activity:"<b>Paper prototype in 8 minutes.</b> Each student sketches the key screen or touchpoint of their solution on paper, then a partner ‘uses’ it by pointing while the designer stays silent. Silence forces the designer to see where the prototype fails to explain itself — the core value of prototyping to learn.",
+  caseTitle:"OpenAI — ChatGPT as a ‘research preview’ MVP",
+  case:"On 30 November 2022 OpenAI released ChatGPT not as a finished product but as a deliberately unpolished <b>‘research preview’</b> — an MVP to gather feedback and observe real use. It visibly made mistakes, yet shipping it enabled learning at scale: 1 million users in five days and 100 million in two months, the fastest-growing consumer app in history. A vivid lesson in shipping to learn — and the ethics of releasing raw prototypes.",
+  caseRef:"OpenAI (2022) ‘Introducing ChatGPT’, OpenAI Blog, 30 November. Available at: https://openai.com/index/chatgpt/ (Accessed: 20 July 2026).",
+  takeaways:["Prototype to learn, not to impress.","Lower fidelity earlier — cheap failure is the goal.","An MVP starts the build–measure–learn loop with real users.","Service blueprints reveal the invisible back-stage of experiences."],
+  reflection:["What is the cheapest test that could kill your idea fastest?","Which assumption, if wrong, breaks your whole concept?","What could you fake instead of build to learn the same thing?"],
+  thumb:["Frame","Make ideas tangible to test them.","Insight","Fidelity should match the question you're asking.","Action","Build the smallest thing that teaches you something."],
+  strategy:"Ship to learn, not to launch — the market will teach you in a week what a boardroom can't in a quarter.",
+  authors:"Ries, Blank, Nielsen Norman Group"
+ },
+ {
+  n:9, title:"Testing Prototypes", format:"Case Study",
+  sub:"Principles of effective testing · feedback capture grids, solution interviews, usability testing, A/B testing",
+  def:"Testing is the structured gathering of <b>evidence from real users</b> to validate or refute assumptions about a prototype. Controlled experiments — such as A/B tests — compare variants to attribute changes in behaviour to a specific design decision rather than to opinion.",
+  defRef:"Thomke, S.H. (2020) <i>Experimentation Works</i>. Boston: Harvard Business Review Press; Kohavi, R., Tang, D. and Xu, Y. (2020) <i>Trustworthy Online Controlled Experiments</i>. Cambridge University Press.",
+  tools:[
+    ["Feedback Capture Grid","Likes · criticisms · questions · new ideas."],
+    ["Usability Testing","Watch users attempt real tasks; note friction."],
+    ["Solution Interview","Test whether a solution resonates with a user's problem."],
+    ["A/B Testing","Compare two variants with a live audience."],
+    ["Think-aloud protocol","Users narrate thoughts while using the prototype."]
+  ],
+  activity:"<b>Feedback capture grid (12 min).</b> Students present their prototype to a peer, who fills a 2×2 grid — likes, criticisms, questions, ideas — instead of vague ‘it's nice’. The structure forces useful, specific feedback and separates signal from politeness.",
+  caseTitle:"Netflix — a culture of A/B testing",
+  case:"Netflix treats almost every product decision as a <b>controlled experiment</b>: thumbnail artwork, recommendations, sign-up flows and UI changes are all A/B tested, and only variants that measurably improve the member experience ship. Its 2021 engineering write-up details how experimentation and data science are embedded across the streaming experience — decisions are evidence-based, not opinion-based, sustaining its personalization and retention edge.",
+  caseRef:"Netflix Technology Blog (2021) ‘A/B Testing and Beyond: Improving the Netflix Streaming Experience with Experimentation and Data Science’, Netflix TechBlog. Available at: https://netflixtechblog.com/a-b-testing-and-beyond-improving-the-netflix-streaming-experience-with-experimentation-and-data-5b0ae9295bdf (Accessed: 20 July 2026).",
+  takeaways:["Test to be proven wrong, not to be flattered.","Watch what users do; discount what they politely say.","Structured feedback (grids) beats open-ended praise.","A/B tests attribute cause; opinions don't."],
+  reflection:["Do you test to learn, or to confirm what you already believe?","What behaviour (not opinion) would prove your idea works?","How could you make user feedback more specific and honest?"],
+  thumb:["Frame","Let real users judge, not the team.","Insight","Behaviour is truth; opinion is noise.","Action","Run one small experiment this week."],
+  strategy:"Strong opinions, loosely held, tested fast — the organisation that experiments most, and kills its own darlings soonest, wins.",
+  authors:"Thomke, Kohavi et al., Nielsen Norman Group"
+ },
+ {
+  n:10, title:"Implementing Design Thinking in Business", format:"Business Challenge",
+  sub:"Conducting design thinking workshops · roadmap for implementation · application in business contexts",
+  def:"Implementation is the process of <b>embedding design thinking into an organisation's structure, culture and routines</b> — beyond one-off projects — through leadership sponsorship, cross-functional teams, capability building and a supportive environment. It is an organisational-change challenge as much as a methodological one.",
+  defRef:"Elsbach, K.D. and Stigliani, I. (2018) ‘Design Thinking and Organizational Culture’, <i>Journal of Management</i>, 44(6), pp. 2274–2306; Liedtka, J. (2018) ‘Why Design Thinking Works’, <i>Harvard Business Review</i>, 96(5), pp. 72–79.",
+  tools:[
+    ["DT Workshop design","Plan, facilitate and time a hands-on session."],
+    ["Implementation roadmap","Sequence pilots, wins and scaling steps."],
+    ["Critical Items Diagram","Prioritise the riskiest assumptions to resolve first."],
+    ["Innovation metrics","Track leading indicators, not just outputs."],
+    ["Change-management levers","Sponsorship, incentives, capability, culture."]
+  ],
+  activity:"<b>Design a 90-minute workshop (15 min).</b> Small groups draft an agenda for a design thinking workshop to solve a real campus problem — objective, participants, three activities with timings, and the decision it must produce. Teaches that facilitation and structure, not inspiration alone, make workshops work.",
+  caseTitle:"PepsiCo — scaling design under Mauro Porcini",
+  case:"As PepsiCo's first Chief Design Officer, Mauro Porcini built a <b>global design function from scratch</b> and scaled human-centred design across one of the world's largest consumer-goods companies — from packaging and product to brands like Gatorade and bubly. His 2022 book and McKinsey interviews document institutionalising design thinking through leadership buy-in, cross-functional teams and a culture of ‘people in love with people’, reframing PepsiCo as a design-led organisation.",
+  caseRef:"McKinsey & Company (2022) ‘Author Talks: PepsiCo's Mauro Porcini on meaningful design and mentorship’, McKinsey. Available at: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-pepsicos-mauro-porcini-talks-meaningful-design-and-mentorship (Accessed: 20 July 2026).",
+  takeaways:["Scaling design thinking is organisational change, not a toolkit drop.","Leadership sponsorship and culture make or break adoption.","Start with pilots and visible wins, then build a roadmap.","Measure leading indicators of innovation, not just outputs."],
+  reflection:["Why do most design thinking initiatives stall after the first workshop?","Who must sponsor the change for it to survive contact with the business?","What one pilot could prove the value in your context?"],
+  thumb:["Frame","Method is easy; adoption is hard.","Insight","Culture eats the toolkit for breakfast.","Action","Win one pilot, then scale the story."],
+  strategy:"Don't roll out a method — start a movement: prove value on one real problem, make the win visible, and let demand pull design thinking through the organisation.",
+  authors:"Porcini, Elsbach & Stigliani, Liedtka"
+ }
+];
+
+const DOCS = [
+  {title:"Key Definitions — Glossary", sub:"39 frameworks defined · Harvard style", tag:"Glossary", pdf:"assets/docs/glossary.pdf", thumb:"assets/thumbs/docs/glossary.svg", key:"glossary key definitions terms harvard"},
+  {title:"Self-Assessment — Sample Questions", sub:"10 questions + model pointers", tag:"Self-Assessment", pdf:"assets/docs/self-assessment.pdf", thumb:"assets/thumbs/docs/self-assessment.svg", key:"self assessment sample exam questions test revision"},
+  {title:"Academic References — Harvard Style", sub:"77 sources · frameworks, authors, cases", tag:"References", pdf:"assets/docs/references.pdf", thumb:"assets/thumbs/docs/references.svg", key:"academic references harvard bibliography reading literature"},
+];
+
+/* ---------- render ---------- */
+function el(tag,cls,html){const e=document.createElement(tag);if(cls)e.className=cls;if(html!=null)e.innerHTML=html;return e;}
+
+const UNIT_ILO={1:1,2:2,3:3,4:4,5:4,6:4,7:4,8:4,9:4,10:5};
+const UNIT_READING={
+ 1:"Amabile, T.M. (1998) 'How to Kill Creativity', Harvard Business Review, 76(5), pp. 76-87.",
+ 2:"Edmondson, A.C. (2019) The Fearless Organization, ch. 1-2. Hoboken, NJ: Wiley.",
+ 3:"Brown, T. (2009) Change by Design, Introduction. New York: Harper Business.",
+ 4:"Wedell-Wedellsborg, T. (2017) 'Are You Solving the Right Problems?', Harvard Business Review, 95(1).",
+ 5:"IDEO.org (2015) The Field Guide to Human-Centered Design - the Empathise section.",
+ 6:"Lewrick, M., Link, P. & Leifer, L. (2020) The Design Thinking Toolbox - the Define chapter.",
+ 7:"Kim, W.C. & Mauborgne, R. (2015) Blue Ocean Strategy, ch. 2-3. Boston: HBR Press.",
+ 8:"Ries, E. (2011) The Lean Startup, ch. 6 (Test). New York: Crown Business.",
+ 9:"Thomke, S.H. (2020) Experimentation Works, ch. 1. Boston: HBR Press.",
+ 10:"Porcini, M. (2022) The Human Side of Innovation, Part III. Oakland, CA: Berrett-Koehler."
+};
+const UNIT_FW={
+ 1:["The 4 P's of Creativity","Componential Model of Creativity","SCAMPER","Divergent–Convergent Thinking"],
+ 2:["6-3-5 Brainwriting","Six Thinking Hats","Dot Voting"],
+ 3:["d.school 5-Stage Model","Double Diamond","Desirability–Feasibility–Viability"],
+ 4:["5 Whys","Reframing Matrix"],
+ 5:["Empathy Map","Persona / User Profile","Customer Journey Map","AEIOU Framework","Trend Analysis","Peers-Observing-Peers"],
+ 6:["Point of View (PoV) Statement","How Might We (HMW)","Storytelling","Context Mapping","Vision Cone","Critical Items Diagram"],
+ 7:["Brainstorming","2×2 Prioritisation Matrix","Blue Ocean / ERRC Grid","Worst Possible Idea"],
+ 8:["Minimum Viable Product (MVP)","Paper / Low-fi Prototype","Service Blueprint","Wizard of Oz Prototype"],
+ 9:["Feedback Capture Grid","Usability Testing","Solution Interview","A/B Testing"],
+ 10:["Implementation Roadmap","Define Success","DT Workshop Design"]
+};
+const UNIT_GIANTS={
+ 1:["Teresa Amabile","Mark A. Runco & Garrett J. Jaeger","Alex F. Osborn","Edward de Bono"],
+ 2:["Amy C. Edmondson","Ed Catmull","Alex F. Osborn","Edward de Bono"],
+ 3:["Tim Brown","David Kelley & Tom Kelley","Jeanne Liedtka","Michael Lewrick, Patrick Link & Larry Leifer"],
+ 4:["Thomas Wedell-Wedellsborg","Kees Dorst","Taiichi Ohno"],
+ 5:["Michael Lewrick, Patrick Link & Larry Leifer","David Kelley & Tom Kelley","Tim Brown"],
+ 6:["Thomas Wedell-Wedellsborg","Kees Dorst","Michael Lewrick, Patrick Link & Larry Leifer"],
+ 7:["Alex F. Osborn","Edward de Bono","W. Chan Kim & Renée Mauborgne"],
+ 8:["Eric Ries","Steve Blank","David Kelley & Tom Kelley"],
+ 9:["Stefan H. Thomke","Ron Kohavi","Steve Blank"],
+ 10:["Mauro Porcini","Jeanne Liedtka","Michael Lewrick, Patrick Link & Larry Leifer"]
+};
+const fwByName={}; FRAMEWORKS.forEach(f=>fwByName[f.name]=f);
+const authByName={}; AUTHORS.forEach(a=>authByName[a.name]=a);
+
+function resRow(icColor,initials,title,sub,bodyHTML,open){
+  return `<div class="res${open?' open':''}">
+    <div class="res-head"><span class="res-ic" style="background:${icColor}">${initials}</span>
+      <span class="res-txt"><b>${title}</b><span>${sub}</span></span>
+      <span class="res-r">open <span class="caret">▾</span></span></div>
+    <div class="res-body">${bodyHTML}</div></div>`;
+}
+
+function renderUnits(){
+  const list=document.getElementById('unitList');
+  UNITS.forEach(u=>{
+    const unit=el('div','unit');
+    unit.style.setProperty('--ua','var(--u'+u.n+')');
+    unit.dataset.n=u.n;
+    const fws=(UNIT_FW[u.n]||[]).map(n=>fwByName[n]).filter(Boolean);
+    const gs=(UNIT_GIANTS[u.n]||[]).map(n=>authByName[n]).filter(Boolean);
+    unit.dataset.search=(u.title+' '+u.caseTitle+' '+fws.map(f=>f.name).join(' ')).toLowerCase();
+
+    const method=u.format.toUpperCase()+' · ILO '+(UNIT_ILO[u.n]||1);
+    const btn=el('button','unit-btn');
+    btn.innerHTML=`<span class="unit-num">${u.n}</span>
+      <span class="unit-titles"><h3>${u.title}</h3><span class="unit-tag">${method}</span></span>
+      <span class="caret">▾</span>`;
+    btn.addEventListener('click',()=>unit.classList.toggle('open'));
+
+    const fwHTML=`<div class="ufw-grid">`+fws.map(f=>
+      `<a class="ufw" href="${f.pdf}" target="_blank" rel="noopener">`+
+      `<img class="ufw-thumb" loading="lazy" src="${f.thumb}" alt="${f.name} PDF">`+
+      `<span class="ufw-txt"><span class="ufw-name">${f.name}</span><span class="ufw-def">${f.ol}</span></span>`+
+      `<span class="ufw-pdf">PDF</span></a>`).join('')+`</div>`;
+    const giHTML=`<div class="ugi-grid">`+gs.map(a=>
+      `<a class="ugi" href="${a.pdf}" target="_blank" rel="noopener">`+
+      `<span class="av">${a.av}</span><span class="who"><b>${a.name}</b><span>${a.disc}</span></span>`+
+      `<span class="pdftag">PDF</span></a>`).join('')+`</div>`;
+    const tk=u.takeaways.map(t=>`<li>${t}</li>`).join('');
+    const concept=`<p>${u.def}</p><p class="refc">${u.defRef}</p>`+
+      `<div class="mini-h">Key takeaways</div><ul class="tk">${tk}</ul>`+
+      `<div class="mini-h">Thumbnail thinking (after JD Meier)</div>`+
+      `<p><b>${u.thumb[0]}:</b> ${u.thumb[1]}<br><b>${u.thumb[2]}:</b> ${u.thumb[3]}<br><b>${u.thumb[4]}:</b> ${u.thumb[5]}</p>`;
+    const caseHTML=`<p><b>${u.caseTitle}</b></p><p>${u.case}</p><p class="refc">${u.caseRef}</p>`;
+    const reflHTML=`<ul class="tk">${u.reflection.map(r=>`<li>${r}</li>`).join('')}</ul>`;
+    const readHTML=`<p>${UNIT_READING[u.n]||''}</p>`;
+
+    const body=el('div','unit-body');
+    body.innerHTML=
+      `<div class="core-msg"><div class="core-lab">Core Message</div><p class="core-txt">${u.strategy}</p></div>`+
+      resRow('#c0392b','KC','Key Concept','Definition, key takeaways &amp; thumbnail thinking',concept,false)+
+      resRow('#2b4b8c','FG','Framework Gallery',fws.length+' Thumbnail-Thinking frameworks',fwHTML,true)+
+      resRow('#7d3c98','AC',u.format,'Signature active-learning method','<p>'+u.activity+'</p>',false)+
+      resRow('#0f9d58','CS','Case Study',u.caseTitle,caseHTML,false)+
+      resRow('#0e8a86','PR','Pre-Reading','Set reading for independent study',readHTML,false)+
+      resRow('#5b53c9','RF','Reflection',u.reflection.length+' questions for independent study',reflHTML,false)+
+      resRow('#1B2A4A','AU','Author Slibrary',gs.length+' Council-of-Giants profiles',giHTML,false);
+
+    body.querySelectorAll('.res-head').forEach(h=>h.addEventListener('click',()=>h.parentElement.classList.toggle('open')));
+    unit.appendChild(btn); unit.appendChild(body);
+    list.appendChild(unit);
+  });
+}
+
+function renderDocs(){
+  const grid=document.getElementById('docGrid');
+  DOCS.forEach(d=>{
+    const a=el('a','fw-card doc-card');
+    a.href=d.pdf; a.target="_blank"; a.rel="noopener"; a.title=d.title;
+    a.innerHTML=`<div class="thumb"><img loading="lazy" src="${d.thumb}" alt="${d.title} — PDF document"><span class="pdf-tag">PDF</span></div>`+
+      `<div class="fw-meta"><div class="cat">${d.tag}</div><div class="fn">${d.title}</div><div class="doc-sub">${d.sub}</div></div>`;
+    grid.appendChild(a);
+  });
+}
+
+/* ---------- search (units · frameworks · authors) ---------- */
+function initSearch(){
+  const q=document.getElementById('q'), box=document.getElementById('sr');
+  const index=[];
+  UNITS.forEach(u=>{
+    index.push({label:`Unit ${u.n}: ${u.title}`,tag:'Unit',type:'unit',ref:u.n,meta:'Unit '+u.n,key:(u.title+' '+u.sub).toLowerCase()});
+    index.push({label:u.caseTitle,tag:'Case',type:'unit',ref:u.n,meta:'Unit '+u.n,key:u.caseTitle.toLowerCase()});
+  });
+  FRAMEWORKS.forEach((f,i)=>index.push({label:f.name,tag:'Framework',type:'fw',ref:i,meta:'Slibrary '+f.slib,key:(f.name+' '+f.cat+' '+f.ol).toLowerCase()}));
+  AUTHORS.forEach((a,i)=>index.push({label:a.name,tag:'Author',type:'author',ref:i,meta:a.disc,key:(a.name+' '+a.fw+' '+a.disc).toLowerCase()}));
+  DOCS.forEach((d,i)=>index.push({label:d.title,tag:'Document',type:'doc',ref:i,meta:d.tag,key:d.key}));
+
+  function openUnit(n){const e=document.querySelector('.unit[data-n="'+n+'"]');if(e){e.classList.add('open');e.scrollIntoView({behavior:'smooth',block:'center'});}}
+  function act(it){if(it.type==='unit')openUnit(it.ref);else if(it.type==='fw')openPDF(FRAMEWORKS[it.ref].pdf);else if(it.type==='author')openPDF(AUTHORS[it.ref].pdf);else if(it.type==='doc')openPDF(DOCS[it.ref].pdf);}
+
+  let t, cur=[];
+  q.addEventListener('input',()=>{
+    clearTimeout(t);
+    t=setTimeout(()=>{
+      const v=q.value.trim().toLowerCase();
+      if(!v){box.classList.remove('open');box.innerHTML='';return;}
+      const seen=new Set();
+      cur=index.filter(i=>i.key.includes(v)).filter(i=>{const k=i.tag+i.label;if(seen.has(k))return false;seen.add(k);return true;}).slice(0,12);
+      box.innerHTML = cur.length
+        ? cur.map((h,j)=>`<div class="sr-item" data-j="${j}"><span class="tag">${h.tag}</span>${h.label} <span style="color:var(--muted);font-size:12px">· ${h.meta}</span></div>`).join('')
+        : '<div class="sr-empty">No matches. Try “empathy”, “MVP”, “Blue Ocean”, “Amabile”…</div>';
+      box.classList.add('open');
+      box.querySelectorAll('.sr-item').forEach(it=>it.addEventListener('click',()=>{act(cur[+it.dataset.j]);box.classList.remove('open');q.value='';}));
+    },140);
+  });
+  document.addEventListener('click',e=>{if(!e.target.closest('.searchbar'))box.classList.remove('open');});
+}
+
+/* ============================================================
+   FRAMEWORK GALLERY & AUTHORS — data in data.js; cards open PDFs
+   ============================================================ */
+function openPDF(href){ window.open(href, "_blank", "noopener"); }
+
+function renderFrameworks(){
+  const filter=document.getElementById('slibFilter');
+  const gal=document.getElementById('fwGallery');
+  const allChip=el('button','slib-chip active','All Slibraries');
+  allChip.dataset.slib='all'; filter.appendChild(allChip);
+  SLIBS.forEach(s=>{const c=el('button','slib-chip',`${s.id}. ${s.name}`);c.dataset.slib=s.id;c.style.setProperty('--sc',s.color);filter.appendChild(c);});
+  SLIBS.forEach(s=>{
+    const items=FRAMEWORKS.filter(f=>f.slib===s.id);
+    const g=el('div','slib-group');g.dataset.slib=s.id;g.style.setProperty('--sc',s.color);
+    g.innerHTML=`<div class="slib-head"><span class="badge">${s.id}</span><h3>${s.name} <span class="cnt">\u00b7 ${items.length} frameworks</span></h3></div><div class="fw-grid"></div>`;
+    const grid=g.querySelector('.fw-grid');
+    items.forEach(f=>{
+      const a=el('a','fw-card');
+      a.href=f.pdf; a.target="_blank"; a.rel="noopener"; a.title=f.ol;
+      a.dataset.name=f.name.toLowerCase();
+      a.innerHTML=`<div class="thumb"><img loading="lazy" src="${f.thumb}" alt="${f.name} — PDF document"><span class="pdf-tag">PDF</span></div>`+
+                  `<div class="fw-meta"><div class="cat">${f.cat}</div><div class="fn">${f.name}</div></div>`;
+      grid.appendChild(a);
+    });
+    gal.appendChild(g);
+  });
+  filter.addEventListener('click',e=>{const b=e.target.closest('.slib-chip');if(!b)return;
+    filter.querySelectorAll('.slib-chip').forEach(c=>c.classList.remove('active'));b.classList.add('active');
+    const v=b.dataset.slib;gal.querySelectorAll('.slib-group').forEach(g=>{g.style.display=(v==='all'||g.dataset.slib===v)?'':'none';});});
+}
+
+const AUTHOR_GROUPS=[
+ {title:"Creativity & Teams", names:["Teresa Amabile","Mark A. Runco & Garrett J. Jaeger","Alex F. Osborn","Edward de Bono","Amy C. Edmondson","Ed Catmull"]},
+ {title:"Design Thinking Foundations", names:["Tim Brown","David Kelley & Tom Kelley","Jeanne Liedtka","Michael Lewrick, Patrick Link & Larry Leifer"]},
+ {title:"Problem Framing & Empathy", names:["Thomas Wedell-Wedellsborg","Kees Dorst","Taiichi Ohno"]},
+ {title:"Ideation, Prototyping & Testing", names:["W. Chan Kim & Renée Mauborgne","Eric Ries","Steve Blank","Stefan H. Thomke","Ron Kohavi"]},
+ {title:"Scaling Design", names:["Mauro Porcini"]}
+];
+function gsec(h,t){return `<div class="gsec"><div class="gsec-h">${h}</div><p>${t}</p></div>`;}
+function renderAuthors(){
+  const host=document.getElementById('authGrid');
+  const byName={}; AUTHORS.forEach(a=>byName[a.name]=a);
+  AUTHOR_GROUPS.forEach(g=>{
+    host.appendChild(el('div','giant-group-h',g.title));
+    const grid=el('div','giant-grid');
+    g.names.forEach(n=>{
+      const a=byName[n]; if(!a) return;
+      const d=el('details','gcard');
+      d.dataset.name=a.name.toLowerCase();
+      d.innerHTML=`<summary><span class="av">${a.av}</span><span class="who"><b>${a.name}</b><span>${a.keyfw}</span></span><span class="gcaret">▾</span></summary>`+
+        `<div class="gbody">`+
+        gsec('Why it matters',a.why)+gsec('Foundation',a.foundation)+gsec('Frameworks',a.frameworks)+
+        gsec('Operationalisation',a.operational)+gsec('Limitations',a.limits)+gsec('Enduring impact',a.impact)+
+        `<div class="gsec"><div class="gsec-h">Selected works &amp; references (Harvard style)</div>`+
+        a.refs.map(r=>`<div class="gref">${r}</div>`).join('')+`</div>`+
+        `<a class="gpdf" href="${a.pdf}" target="_blank" rel="noopener">Download this profile as a PDF ▸</a>`+
+        `</div>`;
+      grid.appendChild(d);
+    });
+    host.appendChild(grid);
+  });
+}
+
+renderUnits();
+renderDocs();
+renderFrameworks();
+renderAuthors();
+initSearch();
+</script>
+</body>
+</html>
