@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Trend Analysis framework thumbnail">
+<rect width="400" height="300" fill="#ffffff"/>
+<rect width="400" height="8" fill="#f4b400"/>
+<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
+<circle cx="348" cy="86" r="30" fill="#f4b400" opacity="0.14"/>
+<circle cx="348" cy="86" r="18" fill="#f4b400" opacity="0.30"/>
+<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">FORESIGHT TOOL</text>
+<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Trend Analysis</tspan></text>
+<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
+<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Scan macro shifts shaping future user needs</text>
+<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
+<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+</svg>
