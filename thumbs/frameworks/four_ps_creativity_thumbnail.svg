@@ -1,15 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="The 4 P&#x27;s of Creativity framework thumbnail">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="The 4 P's of Creativity framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#2b4b8c"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 01</text>
-<circle cx="348" cy="86" r="30" fill="#2b4b8c" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#2b4b8c" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">CREATIVITY MODEL</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">The 4 P&#x27;s of</tspan><tspan x="28" dy="30">Creativity</tspan></text>
-<line x1="28" y1="180" x2="372" y2="180" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="202" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Person · Process · Press · Product — the anatomy of</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 1 · Introduction to Creativity</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#2b4b8c"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 01</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">CREATIVITY MODEL</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">The 4 P's of</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Creativity</text>
+<rect x="24" y="128" width="34" height="3" fill="#2b4b8c"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Person · Process · Press ·</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Product — the anatomy of</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">any creative act</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M7.5 79H91.3C92.682 79 93.8 80.118 93.8 81.5V143.5C93.8 144.882 92.682 146 91.3 146H7.5C6.118 146 5 144.882 5 143.5V81.5C5 80.118 6.118 79 7.5 79Z" fill="#e1e6ef" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M7.5 79H91.3C92.682 79 93.8 80.118 93.8 81.5V143.5C93.8 144.882 92.682 146 91.3 146H7.5C6.118 146 5 144.882 5 143.5V81.5C5 80.118 6.118 79 7.5 79Z"/>
+<text fill="#243c6e" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-131" x="12 17.936 23.872002 30.248002 36.184003 43.008005">PERSON</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-122" x="12 13.6124 15.5438 18.7686 20.0562 21.6686 24.5686 26.181 27.7934 32.6248 35.8496 37.462 38.749605 41.649606 44.874406 46.486806 47.774408 50.999208 54.224008">traits, motivation,</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-115" x="12 15.2248 18.1248 21.3496 24.5744 26.5058 27.7934 31.0182 34.243 37.143">experience</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M100.3 79H184.1C185.482 79 186.6 80.118 186.6 81.5V143.5C186.6 144.882 185.482 146 184.1 146H100.3C98.918 146 97.8 144.882 97.8 143.5V81.5C97.8 80.118 98.918 79 100.3 79Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M100.3 79H184.1C185.482 79 186.6 80.118 186.6 81.5V143.5C186.6 144.882 185.482 146 184.1 146H100.3C98.918 146 97.8 144.882 97.8 143.5V81.5C97.8 80.118 98.918 79 100.3 79Z"/>
+<text fill="#243c6e" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-131" x="136.88 142.81601 149.19202 156.01602 162.39203 168.32804 174.26404">PROCESS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-122" x="149.9388 151.5512 154.776 158.00081 159.6132 161.2256 164.45041 165.738 168.96282 171.86281 173.1504 176.37522">the thinking</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-115" x="146.0702 149.29502 152.51982 155.74463 157.67603 160.90084 162.51323 163.80083 167.02564 170.25045 173.15044 174.76284 177.98764">operations of</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-108" x="158.9694 161.8694 163.8008 167.0256 170.25041 171.86281 173.1504 176.37522">creating</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M7.5 8H91.3C92.682 8 93.8 9.118 93.8 10.5V72.5C93.8 73.882 92.682 75 91.3 75H7.5C6.118 75 5 73.882 5 72.5V10.5C5 9.118 6.118 8 7.5 8Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M7.5 8H91.3C92.682 8 93.8 9.118 93.8 10.5V72.5C93.8 73.882 92.682 75 91.3 75H7.5C6.118 75 5 73.882 5 72.5V10.5C5 9.118 6.118 8 7.5 8Z"/>
+<text fill="#243c6e" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-32" x="12 17.936 24.312 30.248002 36.184003">PRESS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-23" x="12 13.6124 16.8372 20.062 21.6744 24.8992 28.124 31.024 32.3116 34.243 37.4678 40.6926 45.524003 48.748804 51.973604">the environment</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-16" x="12 15.2248 18.4496 21.6744 23.2868 26.1868 29.4116 32.3116 33.5992 36.824 38.111604 39.724004 42.624006 43.911607 45.199209 50.03061 53.25541 54.86781">and social climate</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M100.3 8H184.1C185.482 8 186.6 9.118 186.6 10.5V72.5C186.6 73.882 185.482 75 184.1 75H100.3C98.918 75 97.8 73.882 97.8 72.5V10.5C97.8 9.118 98.918 8 100.3 8Z" fill="#e1e6ef" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M100.3 8H184.1C185.482 8 186.6 9.118 186.6 10.5V72.5C186.6 73.882 185.482 75 184.1 75H100.3C98.918 75 97.8 73.882 97.8 72.5V10.5C97.8 9.118 98.918 8 100.3 8Z"/>
+<text fill="#243c6e" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-32" x="136.448 142.384 148.76001 155.58402 161.96002 168.33603 174.71204">PRODUCT</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-23" x="137.3644 138.97679 142.2016 145.4264 147.0388 150.26361 153.48842 156.38842 159.61322 160.90082 162.51322 164.12561 167.35042 170.25041 173.47522 175.08762 178.31243">the novel, useful</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif"><tspan y="-16" x="157.357 160.5818 163.80661 165.419 168.319 171.54381 176.37522">outcome</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M121.8 79C121.8 92.80712 110.6071 104 96.8 104 82.99288 104 71.8 92.80712 71.8 79 71.8 65.19288 82.99288 54 96.8 54 110.6071 54 121.8 65.19288 121.8 79" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M118.8 79C118.8 91.15026 108.9503 101 96.8 101 84.64974 101 74.8 91.15026 74.8 79 74.8 66.84974 84.64974 57 96.8 57 108.9503 57 118.8 66.84974 118.8 79" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-79" x="81.5932 85.9364 90.2796 94.314807 98.658008 102.37961 104.236408 108.27161">CREATIVE</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-72" x="77.705 81.240009 85.05 88.58501 92.395008 96.485 100.85 104.385 108.195 112.285">PHENOMENON</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 1 · Introduction to Creativity</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

@@ -1,15 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Peers-Observing-Peers framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f4b400"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
-<circle cx="348" cy="86" r="30" fill="#f4b400" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f4b400" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">OBSERVATION METHOD</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Peers-Observing-Peers</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Structured peer observation to reveal real behaviour</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f4b400"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">OBSERVATION METHOD</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="12.0" font-weight="700" fill="#2F3465">Peers-Observing-Peers</text>
+<rect x="24" y="101.0" width="34" height="3" fill="#f4b400"/>
+<text x="24" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Structured peer</text>
+<text x="24" y="136.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">observation to reveal real</text>
+<text x="24" y="151.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">behaviour</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M112 80C112 108.7188 88.71881 132 60 132 31.28119 132 8 108.7188 8 80 8 51.28119 31.28119 28 60 28 88.71881 28 112 51.28119 112 80" fill="#fdf4db" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="butt" stroke-dasharray="3,2" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f4b400" d="M112 80C112 108.7188 88.71881 132 60 132 31.28119 132 8 108.7188 8 80 8 51.28119 31.28119 28 60 28 88.71881 28 112 51.28119 112 80"/>
+<text fill="#9f6800" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-120" x="25.6405 29.6843 34.3719 39.059499 44.0719 48.4405 52.4843 54.5967 59.284299 64.2967 69.6281 74.959499 79.647098 84.334697 86.4471 90.4909">TARGET COMMUNITY</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M39.1 82.9C39.1 85.71665 36.81665 88 34 88 31.18335 88 28.9 85.71665 28.9 82.9 28.9 80.08335 31.18335 77.8 34 77.8 36.81665 77.8 39.1 80.08335 39.1 82.9" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M26.2 58V70.6C26.2 77.2 41.8 77.2 41.8 70.6V58Z" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M91.1 82.9C91.1 85.71665 88.81665 88 86 88 83.18335 88 80.9 85.71665 80.9 82.9 80.9 80.08335 83.18335 77.8 86 77.8 88.81665 77.8 91.1 80.08335 91.1 82.9" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M78.2 58V70.6C78.2 77.2 93.8 77.2 93.8 70.6V58Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-49" x="24.8128 28.6814 31.9062 35.131 37.3872 38.9996">Peer A</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-42" x="23.886 26.777199 29.6684 32.2684 35.1596 36.8912 39.4912 42.3824">observer</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-49" x="76.8128 80.6814 83.9062 87.131 89.3872 90.9996">Peer B</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-42" x="75.3062 78.197399 81.08859 83.68859 86.57979 88.311389 90.911388 93.80258">observed</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M48 82H69.96"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M72 82 68.99798 83.5962V80.4038Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-87" x="48.1443 51.4437 54.7431 57.7455 60.7479 62.8485 65.8509 68.8533">observes</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M21 92H35C35.5528 92 36 92.4472 36 93V103C36 103.5528 35.5528 104 35 104H21C20.4472 104 20 103.5528 20 103V93C20 92.4472 20.4472 92 21 92Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M21 92H35C35.5528 92 36 92.4472 36 93V103C36 103.5528 35.5528 104 35 104H21C20.4472 104 20 103.5528 20 103V93C20 92.4472 20.4472 92 21 92Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".5" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M23 100H33"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".5" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M23 97H33"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".5" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M23 94H33"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M139.6 60H183.6C185.8112 60 187.6 61.7888 187.6 64V96C187.6 98.2112 185.8112 100 183.6 100H139.6C137.3888 100 135.6 98.2112 135.6 96V64C135.6 61.7888 137.3888 60 139.6 60Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-86" x="148.3312 153.352 158.02082 162.6896 164.8688 170.248">DESIGN</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="151.9344 156.2448 160.9136 165.9344">TEAM</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-67" x="150.9458 153.9482 156.95059 159.95299 161.1518 163.85179 166.55179 169.55419">analyses</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M113 80H131.56"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M133.6 80 130.598 81.5962V78.4038Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="115.8485 119.1479 122.4473 124.24551 127.24791 130.2503">notes,</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-85.5" x="114.8009 118.1003 121.399707 124.699108 126.49731 129.7967">photos</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-44" x="143.7449 144.94371 147.9461 150.6461 151.84491 154.8473 157.8497 159.6479 161.14911 164.1515 166.8515 169.5515 172.5539 175.25389 177.95389">insider access,</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-37" x="145.5458 146.74462 149.74701 152.447 155.147 156.64821 159.6506 162.653 165.353 168.3554 170.1536 172.85359 175.85599">less observer</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-30" x="154.9958 157.9982 159.4994 161.00061 164.003 166.703">effect</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

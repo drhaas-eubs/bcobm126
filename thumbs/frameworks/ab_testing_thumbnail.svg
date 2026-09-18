@@ -1,15 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="A/B Testing framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#8e24aa"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 09</text>
-<circle cx="348" cy="86" r="30" fill="#8e24aa" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#8e24aa" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">CONTROLLED EXPERIMENT</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">A/B Testing</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Compare two variants with a live audience</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 9 · Testing Prototypes</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#8e24aa"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 09</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">CONTROLLED EXPERIMENT</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">A/B Testing</text>
+<rect x="24" y="107" width="34" height="3" fill="#8e24aa"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Compare two variants with</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">a live audience</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M12.21 68.79C12.21 70.01055 11.22055 71 10 71 8.779451 71 7.79 70.01055 7.79 68.79 7.79 67.56945 8.779451 66.58 10 66.58 11.22055 66.58 12.21 67.56945 12.21 68.79" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M6.62 58V63.46C6.62 66.32 13.38 66.32 13.38 63.46V58Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M23.21 64.79C23.21 66.01055 22.22055 67 21 67 19.77945 67 18.79 66.01055 18.79 64.79 18.79 63.56945 19.77945 62.58 21 62.58 22.22055 62.58 23.21 63.56945 23.21 64.79" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M17.62 54V59.46C17.62 62.32 24.38 62.32 24.38 59.46V54Z" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M17.21 82.79C17.21 84.01055 16.22055 85 15 85 13.77945 85 12.79 84.01055 12.79 82.79 12.79 81.56945 13.77945 80.58 15 80.58 16.22055 80.58 17.21 81.56945 17.21 82.79" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M11.62 72V77.46C11.62 80.32 18.38 80.32 18.38 77.46V72Z" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M28.21 78.79C28.21 80.01055 27.22055 81 26 81 24.77945 81 23.79 80.01055 23.79 78.79 23.79 77.56945 24.77945 76.58 26 76.58 27.22055 76.58 28.21 77.56945 28.21 78.79" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22.62 68V73.46C22.62 76.32 29.38 76.32 29.38 73.46V68Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M12.21 96.79C12.21 98.01055 11.22055 99 10 99 8.779451 99 7.79 98.01055 7.79 96.79 7.79 95.56945 8.779451 94.58 10 94.58 11.22055 94.58 12.21 95.56945 12.21 96.79" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M6.62 86V91.46C6.62 94.32 13.38 94.32 13.38 91.46V86Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M23.21 92.79C23.21 94.01055 22.22055 95 21 95 19.77945 95 18.79 94.01055 18.79 92.79 18.79 91.56945 19.77945 90.58 21 90.58 22.22055 90.58 23.21 91.56945 23.21 92.79" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M17.62 82V87.46C17.62 90.32 24.38 90.32 24.38 87.46V82Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-42" x="12.2628 15.806601 19.0314 22.2562 24.512402">users</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-35" x="6.4176 8.1492 11.0404009 13.931601 16.8228 19.714 24.0456 25.2 27.800002 30.6912">randomised</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M46 76C46 78.20914 44.20914 80 42 80 39.79086 80 38 78.20914 38 76 38 73.79086 39.79086 72 42 72 44.20914 72 46 73.79086 46 76" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M34 76H38"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M42 76C52 76 48 108 64 108"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-95" x="52 54.8912 57.782403">50%</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M67 96H101C102.6584 96 104 97.3416 104 99V117C104 118.6584 102.6584 120 101 120H67C65.3416 120 64 118.6584 64 117V99C64 97.3416 65.3416 96 67 96Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M67 96H101C102.6584 96 104 97.3416 104 99V117C104 118.6584 102.6584 120 101 120H67C65.3416 120 64 118.6584 64 117V99C64 97.3416 65.3416 96 67 96Z"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="11" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105" x="72.029">A</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-109" x="86.1974 88.7974 91.6886 94.579799 96.0254 97.756999 100.64819">control</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M87.5 101H98.5C99.3292 101 100 101.6708 100 102.5 100 103.3292 99.3292 104 98.5 104H87.5C86.6708 104 86 103.3292 86 102.5 86 101.6708 86.6708 101 87.5 101Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M42 76C52 76 48 44 64 44"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-54" x="52 54.8912 57.782403">50%</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M67 32H101C102.6584 32 104 33.3416 104 35V53C104 54.6584 102.6584 56 101 56H67C65.3416 56 64 54.6584 64 53V35C64 33.3416 65.3416 32 67 32Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8e24aa" d="M67 32H101C102.6584 32 104 33.3416 104 35V53C104 54.6584 102.6584 56 101 56H67C65.3416 56 64 54.6584 64 53V35C64 33.3416 65.3416 32 67 32Z"/>
+<text fill="#8e24aa" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="11" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-41" x="72.029">B</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-45" x="86.1974 88.7974 91.6886 93.4202 94.5746 97.4658 100.356998">variant</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M87.5 37H98.5C99.3292 37 100 37.6708 100 38.5 100 39.3292 99.3292 40 98.5 40H87.5C86.6708 40 86 39.3292 86 38.5 86 37.6708 86.6708 37 87.5 37Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M120 30H187.6"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M128 30H148V74H128Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M158 30H178V96H158Z" fill="#8e24aa" fill-rule="evenodd"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="135.6896">A</tspan></text>
+<text fill="#5a277f" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="165.6896">B</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-136" x="131.296 134.962 138.628 141.964 143.632 148.966 152.302 154.3 156.634 158.302 161.638 163.306 165.304 169.972 173.974 178.306">one metric (OEC)</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-128" x="143.3512 146.1512 149.2648 153.9296 157.0432 160.1568 162.0216 165.13521">compared</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M156 104H180C183.3168 104 186 106.6832 186 110 186 113.3168 183.3168 116 180 116H156C152.6832 116 150 113.3168 150 110 150 106.6832 152.6832 104 156 104Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-107.5" x="153.4088 156.3 157.7456 160.9228 164.1 165.54561 167.2772 168.72281 171.61402 174.50522 177.68242 179.41402">significant?</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M106 76 120.368 65.224"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M122 64 120.5561 67.07818 118.6407 64.52425Z" fill="#8a93a6" fill-rule="evenodd"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-8" x="42.6368 45.7504 48.864004 50.1072 52.9072 54.464 57.577604 60.691205 63.804807 65.3616 68.475208 69.71841 71.27521 72.83201 75.94561 77.81041 80.92401 84.03761 86.837619 89.95122 91.50802 94.62162 97.73522 99.29202 103.33522 106.44882 109.56242 112.676029 114.23283 115.78963 118.90323 122.01683 123.57363 125.13043 129.17363 132.28723 133.84403 136.95763 138.82244 141.93604 145.04964 148.16324">only one difference between the two groups</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 9 · Testing Prototypes</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

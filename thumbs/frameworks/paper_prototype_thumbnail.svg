@@ -1,15 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Paper / Low-fi Prototype framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#c2185b"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 08</text>
-<circle cx="348" cy="86" r="30" fill="#c2185b" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#c2185b" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">PROTOTYPING</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Paper / Low-fi</tspan><tspan x="28" dy="30">Prototype</tspan></text>
-<line x1="28" y1="180" x2="372" y2="180" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="202" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Sketch or mock an interface in minutes</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 8 · Prototyping</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#c2185b"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 08</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">PROTOTYPING</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Paper / Low-fi</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Prototype</text>
+<rect x="24" y="128" width="34" height="3" fill="#c2185b"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Sketch or mock an</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">interface in minutes</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M13 42H47C49.764 42 52 44.236 52 47V129C52 131.764 49.764 134 47 134H13C10.236 134 8 131.764 8 129V47C8 44.236 10.236 42 13 42Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M13 42H47C49.764 42 52 44.236 52 47V129C52 131.764 49.764 134 47 134H13C10.236 134 8 131.764 8 129V47C8 44.236 10.236 42 13 42Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M13 50H47C47.5528 50 48 50.4472 48 51V125C48 125.5528 47.5528 126 47 126H13C12.4472 126 12 125.5528 12 125V51C12 50.4472 12.4472 50 13 50Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M13 50H47C47.5528 50 48 50.4472 48 51V125C48 125.5528 47.5528 126 47 126H13C12.4472 126 12 125.5528 12 125V51C12 50.4472 12.4472 50 13 50Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M16 116H44C44.5528 116 45 116.4472 45 117V120C45 120.5528 44.5528 121 44 121H16C15.4472 121 15 120.5528 15 120V117C15 116.4472 15.4472 116 16 116Z" fill="#d7dbe6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M16 86H44C44.5528 86 45 86.4472 45 87V107C45 107.5528 44.5528 108 44 108H16C15.4472 108 15 107.5528 15 107V87C15 86.4472 15.4472 86 16 86Z" fill="#f6dfe8" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#e497b5" d="M16 86H44C44.5528 86 45 86.4472 45 87V107C45 107.5528 44.5528 108 44 108H16C15.4472 108 15 107.5528 15 107V87C15 86.4472 15.4472 86 16 86Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".5" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#e497b5" d="M15 86 45 108"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".5" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#e497b5" d="M15 108 45 86"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22 56H38C40.2112 56 42 57.7888 42 60 42 62.2112 40.2112 64 38 64H22C19.7888 64 18 62.2112 18 60 18 57.7888 19.7888 56 22 56Z" fill="#c2185b" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-138" x="17.9099 21.778502 25.003302 27.259503 30.484303 33.709104 37.252904 38.865304">Screen 1</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M80 42H114C116.764 42 119 44.236 119 47V129C119 131.764 116.764 134 114 134H80C77.236 134 75 131.764 75 129V47C75 44.236 77.236 42 80 42Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M80 42H114C116.764 42 119 44.236 119 47V129C119 131.764 116.764 134 114 134H80C77.236 134 75 131.764 75 129V47C75 44.236 77.236 42 80 42Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M80 50H114C114.5528 50 115 50.4472 115 51V125C115 125.5528 114.5528 126 114 126H80C79.4472 126 79 125.5528 79 125V51C79 50.4472 79.4472 50 80 50Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M80 50H114C114.5528 50 115 50.4472 115 51V125C115 125.5528 114.5528 126 114 126H80C79.4472 126 79 125.5528 79 125V51C79 50.4472 79.4472 50 80 50Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83 116H111C111.5528 116 112 116.4472 112 117V120C112 120.5528 111.5528 121 111 121H83C82.4472 121 82 120.5528 82 120V117C82 116.4472 82.4472 116 83 116Z" fill="#d7dbe6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83 100H111C111.5528 100 112 100.4472 112 101V107C112 107.5528 111.5528 108 111 108H83C82.4472 108 82 107.5528 82 107V101C82 100.4472 82.4472 100 83 100Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M83 100H111C111.5528 100 112 100.4472 112 101V107C112 107.5528 111.5528 108 111 108H83C82.4472 108 82 107.5528 82 107V101C82 100.4472 82.4472 100 83 100Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83 88H111C111.5528 88 112 88.4472 112 89V95C112 95.5528 111.5528 96 111 96H83C82.4472 96 82 95.5528 82 95V89C82 88.4472 82.4472 88 83 88Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M83 88H111C111.5528 88 112 88.4472 112 89V95C112 95.5528 111.5528 96 111 96H83C82.4472 96 82 95.5528 82 95V89C82 88.4472 82.4472 88 83 88Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83 76H111C111.5528 76 112 76.4472 112 77V83C112 83.5528 111.5528 84 111 84H83C82.4472 84 82 83.5528 82 83V77C82 76.4472 82.4472 76 83 76Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M83 76H111C111.5528 76 112 76.4472 112 77V83C112 83.5528 111.5528 84 111 84H83C82.4472 84 82 83.5528 82 83V77C82 76.4472 82.4472 76 83 76Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83 64H111C111.5528 64 112 64.4472 112 65V71C112 71.5528 111.5528 72 111 72H83C82.4472 72 82 71.5528 82 71V65C82 64.4472 82.4472 64 83 64Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M83 64H111C111.5528 64 112 64.4472 112 65V71C112 71.5528 111.5528 72 111 72H83C82.4472 72 82 71.5528 82 71V65C82 64.4472 82.4472 64 83 64Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M110 85C110 87.76142 107.7614 90 105 90 102.2386 90 100 87.76142 100 85 100 82.23858 102.2386 80 105 80 107.7614 80 110 82.23858 110 85" fill="#b45309" fill-opacity=".35" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-138" x="84.9099 88.778499 92.003299 94.2595 97.4843 100.7091 104.2529 105.8653">Screen 2</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M147 42H181C183.764 42 186 44.236 186 47V129C186 131.764 183.764 134 181 134H147C144.236 134 142 131.764 142 129V47C142 44.236 144.236 42 147 42Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M147 42H181C183.764 42 186 44.236 186 47V129C186 131.764 183.764 134 181 134H147C144.236 134 142 131.764 142 129V47C142 44.236 144.236 42 147 42Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M147 50H181C181.5528 50 182 50.4472 182 51V125C182 125.5528 181.5528 126 181 126H147C146.4472 126 146 125.5528 146 125V51C146 50.4472 146.4472 50 147 50Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M147 50H181C181.5528 50 182 50.4472 182 51V125C182 125.5528 181.5528 126 181 126H147C146.4472 126 146 125.5528 146 125V51C146 50.4472 146.4472 50 147 50Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M150 116H178C178.5528 116 179 116.4472 179 117V120C179 120.5528 178.5528 121 178 121H150C149.4472 121 149 120.5528 149 120V117C149 116.4472 149.4472 116 150 116Z" fill="#d7dbe6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#c2185b" d="M174 92C174 97.52285 169.5228 102 164 102 158.4772 102 154 97.52285 154 92 154 86.47715 158.4772 82 164 82 169.5228 82 174 86.47715 174 92"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.4" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#c2185b" d="M159.5 92 162.65 88.58 168.95 95.78"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M154 62H174C175.6584 62 177 63.3416 177 65 177 66.6584 175.6584 68 174 68H154C152.3416 68 151 66.6584 151 65 151 63.3416 152.3416 62 154 62Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-138" x="151.9099 155.7785 159.00331 161.2595 164.48432 167.70912 171.25292 172.86531">Screen 3</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M54 88H70.96"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M73 88 69.99798 89.5962V86.4038Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M121 88H137.96"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M140 88 136.998 89.5962V86.4038Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-30" x="33.9232 37.0368 39.8368 42.9504 44.8152 46.372 47.928804 51.042406 54.156007 56.956007 58.512807 60.069608 63.18321 66.29681 67.85361 70.96721 74.08081 77.19441 80.308017 82.17281 83.729618 85.286418 88.40002 89.95682 91.51362 94.62722 97.74082 102.405628 107.07043 110.18403 111.74083 114.85443 116.41123 119.211238 123.25443 126.368038 129.48163 132.28163 133.83843 135.39522 138.50882 141.62242 143.17922 145.97922 149.09282 152.20642 155.32003 156.87682">user taps the paper; a teammate swaps the sheets</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M28.5 6H53.5C57.0932 6 60 8.9068 60 12.5 60 16.0932 57.0932 19 53.5 19H28.5C24.9068 19 22 16.0932 22 12.5 22 8.9068 24.9068 6 28.5 6Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-10.3" x="31.163 35.165 38.501 41.836999 43.835 47.170999">Sketch</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M62 12.5H74.2"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M76 12.5 73.35116 13.90841V11.09159Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M84.5 6H109.5C113.0932 6 116 8.9068 116 12.5 116 16.0932 113.0932 19 109.5 19H84.5C80.9068 19 78 16.0932 78 12.5 78 8.9068 80.9068 6 84.5 6Z" fill="#c2185b" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-10.3" x="90.832 94.498 97.834 101.17">Test</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M118 12.5H130.2"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M132 12.5 129.3512 13.90841V11.09159Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M140.5 6H165.5C169.0932 6 172 8.9068 172 12.5 172 16.0932 169.0932 19 165.5 19H140.5C136.9068 19 134 16.0932 134 12.5 134 8.9068 136.9068 6 140.5 6Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-10.3" x="143.328 147.66 150.996 154.332 156 159.336">Revise</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 8 · Prototyping</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

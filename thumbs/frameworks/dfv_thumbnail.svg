@@ -1,15 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Desirability–Feasibility–Viability framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#0f9d58"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 03</text>
-<circle cx="348" cy="86" r="30" fill="#0f9d58" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#0f9d58" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">INNOVATION LENS</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0"></tspan><tspan x="28" dy="30">Desirability–Feasibility–Viability</tspan></text>
-<line x1="28" y1="180" x2="372" y2="180" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="202" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">The three lenses of human-centred innovation</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 3 · Design Thinking Fundamentals</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#0f9d58"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 03</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">INNOVATION LENS</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Desirability–</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Feasibility–</text>
+<text x="24" y="132" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Viability</text>
+<rect x="24" y="149" width="34" height="3" fill="#0f9d58"/>
+<text x="24" y="169" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">The three lenses of</text>
+<text x="24" y="184" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">human-centred innovation</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M132.8 96C132.8 115.8823 116.6823 132 96.8 132 76.91775 132 60.8 115.8823 60.8 96 60.8 76.11775 76.91775 60 96.8 60 116.6823 60 132.8 76.11775 132.8 96" fill="#0f9d58" fill-opacity=".2" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#0f9d58" d="M132.8 96C132.8 115.8823 116.6823 132 96.8 132 76.91775 132 60.8 115.8823 60.8 96 60.8 76.11775 76.91775 60 96.8 60 116.6823 60 132.8 76.11775 132.8 96"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M109.8 57C109.8 76.88225 93.68225 93 73.8 93 53.91775 93 37.8 76.88225 37.8 57 37.8 37.11775 53.91775 21 73.8 21 93.68225 21 109.8 37.11775 109.8 57" fill="#2f3465" fill-opacity=".2" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f3465" d="M109.8 57C109.8 76.88225 93.68225 93 73.8 93 53.91775 93 37.8 76.88225 37.8 57 37.8 37.11775 53.91775 21 73.8 21 93.68225 21 109.8 37.11775 109.8 57"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M155.8 57C155.8 76.88225 139.6823 93 119.8 93 99.91775 93 83.8 76.88225 83.8 57 83.8 37.11775 99.91775 21 119.8 21 139.6823 21 155.8 37.11775 155.8 57" fill="#b45309" fill-opacity=".2" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M155.8 57C155.8 76.88225 139.6823 93 119.8 93 99.91775 93 83.8 76.88225 83.8 57 83.8 37.11775 99.91775 21 119.8 21 139.6823 21 155.8 37.11775 155.8 57"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-116" x="77.9315 82.985507 86.8775 90.7695 92.7155 95.4385 99.3305 103.6075 105.5535 107.4995 109.445499 111.7765">Desirability</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-108" x="67.532 70.5344 73.536808 76.53921 79.54161 80.74041 83.74281 85.24401 86.74521 88.24641 91.24881 94.25121 95.75241 97.25361 100.25601 103.258419 105.95841 107.45961 111.35841 114.36082 117.36322 118.86442 120.365619 121.564418 123.06561">people &#x00b7; do they want it?</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-50" x="39.6815 43.9585 47.850503 51.742506 55.634508 57.580507 61.857507 63.803506 65.749507 67.6955 70.026508">Feasibility</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-42" x="43.7428 45.244005 48.246404 50.946405 53.948804 56.951204 59.9536 61.1524 64.1548 67.1572">technology</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-36" x="38.1916 40.8916 43.894 46.8964 48.397603 52.296403 55.2988 56.800004 59.802404 62.804803 64.0036 65.2024 68.2048 69.706 70.9048 72.406">can we build it?</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-50" x="123.3775 128.04651 129.99251 133.8845 138.1615 140.1075 142.0535 143.9995 146.33049">Viability</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-42" x="126.1458 129.1482 132.15059 134.85059 136.0494 139.05179 142.05419 144.75418">business</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-36" x="117.2898 119.9898 122.9922 125.994609 128.99701 130.19582 133.19821 134.69942 138.59822 141.60062 143.10182 146.10422 149.10662 150.60782 151.80663 153.30783">should we do it?</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M82.3 67H111.3C114.3404 67 116.8 69.4596 116.8 72.5 116.8 75.5404 114.3404 78 111.3 78H82.3C79.2596 78 76.8 75.5404 76.8 72.5 76.8 69.4596 79.2596 67 82.3 67Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-70.3" x="78.9494 80.650608 84.749408 88.848209 93.249408 97.05121 101.15001 104.64941 106.35061 110.75181">INNOVATION</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 3 · Design Thinking Fundamentals</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

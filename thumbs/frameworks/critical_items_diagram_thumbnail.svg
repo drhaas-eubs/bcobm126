@@ -1,15 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Critical Items Diagram framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f57c00"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
-<circle cx="348" cy="86" r="30" fill="#f57c00" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f57c00" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">ASSUMPTION MAPPING</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Critical Items Diagram</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Surface the assumptions most critical and most</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f57c00"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">ASSUMPTION MAPPING</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Critical Items</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Diagram</text>
+<rect x="24" y="128" width="34" height="3" fill="#f57c00"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Surface the assumptions</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">most critical and most</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">uncertain</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22 20H103.8V82H22Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M103.8 20H185.6V82H103.8Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22 82H103.8V144H22Z" fill="#e6e7ed" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M103.8 82H185.6V144H103.8Z" fill="#feeddb" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M103.8 20V144"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M22 82H185.6"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M22 20H187.56"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M189.6 20 186.598 21.5962V18.4038Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M22 20V145.96"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22 148 20.4038 144.998H23.5962Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-11" x="87.297 91.629 95.295 98.631 101.966999 104.300998 106.298999 109.634998 111.30299 114.968997 116.966999">Uncertainty</tspan></text>
+<text fill="#8a93a6" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif"><tspan y="-11" x="24 26.6 29.4912 32.3824 36.136804">known</tspan></text>
+<text fill="#8a93a6" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif"><tspan y="-11" x="164.7896 167.6808 170.572 173.17201 176.06322 178.95442 182.70882">unknown</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(0 -1 1 0 17 69)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="0" x="-13.671 -9.338999 -7.0049989 -5.3369987 -3.3389984 -1.6709981 1.6650024 5.001003 6.669003 8.337004 10.335004">Criticality</tspan></text>
+<text fill="#9f5300" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-134" x="137.039 141.816 146.985 152.154 156.931 159.377 164.15399 166.59999 172.15399 177.323">TEST FIRST</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-126.5" x="132.6814 135.3814 137.1796 138.3784 139.87961 141.07842 143.77841 146.7808 147.97962 149.48082 152.48322 155.48561 158.488 159.98921 162.99161 165.994 168.694 171.6964 174.69879 178.5976">critical and unknown</tspan></text>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-134" x="26 31.5646 36.7882 41.6646 43.7882 47.976404 53.200006">MONITOR</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-126.5" x="26 28.7 30.498202 31.697003 33.198205 34.397005 37.097005 40.099405 41.298204 42.799406 45.801805 48.804204 50.305406 51.806608 54.506608 57.509008 60.511407 64.41021">critical but known</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-25" x="124.782 129.3174 133.8528 138.3882 142.5764 147.8 152.6764 157.2118 159.3354 163.5236 168.40001 172.58821 177.12361">EXPLORE LATER</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-25" x="26 30.8764 35.4118 39.9472 44.8236 46.9472 52.1708 57.0472 59.1708 63.359 65.482608 70.018009">DEPRIORITISE</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M153.3 112C153.3 113.8225 151.8225 115.3 150 115.3 148.1775 115.3 146.7 113.8225 146.7 112 146.7 110.1775 148.1775 108.7 150 108.7 151.8225 108.7 153.3 110.1775 153.3 112" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M169.3 98C169.3 99.82254 167.8225 101.3 166 101.3 164.1775 101.3 162.7 99.82254 162.7 98 162.7 96.17746 164.1775 94.7 166 94.7 167.8225 94.7 169.3 96.17746 169.3 98" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M135.3 94C135.3 95.82254 133.8225 97.3 132 97.3 130.1775 97.3 128.7 95.82254 128.7 94 128.7 92.17746 130.1775 90.7 132 90.7 133.8225 90.7 135.3 92.17746 135.3 94" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M63.3 110C63.3 111.8225 61.82254 113.3 60 113.3 58.17746 113.3 56.7 111.8225 56.7 110 56.7 108.1775 58.17746 106.7 60 106.7 61.82254 106.7 63.3 108.1775 63.3 110" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M49.3 92C49.3 93.82254 47.82254 95.3 46 95.3 44.17746 95.3 42.7 93.82254 42.7 92 42.7 90.17746 44.17746 88.7 46 88.7 47.82254 88.7 49.3 90.17746 49.3 92" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M143.3 52C143.3 53.82254 141.8225 55.3 140 55.3 138.1775 55.3 136.7 53.82254 136.7 52 136.7 50.17746 138.1775 48.7 140 48.7 141.8225 48.7 143.3 50.17746 143.3 52" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M77.3 44C77.3 45.82254 75.82254 47.3 74 47.3 72.17746 47.3 70.7 45.82254 70.7 44 70.7 42.17746 72.17746 40.7 74 40.7 75.82254 40.7 77.3 42.17746 77.3 44" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M107.3 60C107.3 61.82254 105.8225 63.3 104 63.3 102.1775 63.3 100.7 61.82254 100.7 60 100.7 58.17746 102.1775 56.7 104 56.7 105.8225 56.7 107.3 58.17746 107.3 60" fill="#8a93a6" fill-rule="evenodd"/>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

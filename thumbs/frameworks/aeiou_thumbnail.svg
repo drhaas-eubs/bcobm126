@@ -1,15 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="AEIOU Framework framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f4b400"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
-<circle cx="348" cy="86" r="30" fill="#f4b400" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f4b400" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">OBSERVATION FRAMEWORK</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">AEIOU Framework</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Activities · Environments · Interactions · Objects ·</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f4b400"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">OBSERVATION FRAMEWORK</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">AEIOU</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Framework</text>
+<rect x="24" y="128" width="34" height="3" fill="#f4b400"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Activities · Environments ·</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Interactions · Objects ·</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Users</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M10.5 6H37.82C39.4784 6 40.82 7.3416 40.82 9V141C40.82 142.6584 39.4784 144 37.82 144H10.5C8.8416 144 7.5 142.6584 7.5 141V9C7.5 7.3416 8.8416 6 10.5 6Z" fill="#fdf4db" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M37.16 120C37.16 127.1797 31.3397 133 24.16 133 16.9803 133 11.16 127.1797 11.16 120 11.16 112.8203 16.9803 107 24.16 107 31.3397 107 37.16 112.8203 37.16 120" fill="#9f6800" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-115.32" x="19.467">A</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="10.3774 14.853801 18.301 20.3656 22.089201 25.536402 27.260003 29.324603 31.048203 34.495405">Activities</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M13 86H35.32"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-75" x="8.554 11.5564 14.558801 17.561202 18.760003 20.558203 23.560605 24.759404 26.557604 29.560006 32.260007 33.761209 36.763608">goal-directed</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-68" x="16.2058 18.9058 21.9082 23.409399 26.1094 27.6106 30.612999">sets of</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-61" x="15.6064 18.608799 21.3088 22.81 24.0088 27.0112 30.0136">actions</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M14.5 16H33.82C34.6492 16 35.32 16.6708 35.32 17.5 35.32 18.3292 34.6492 19 33.82 19H14.5C13.6708 19 13 18.3292 13 17.5 13 16.6708 13.6708 16 14.5 16Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M14.5 23H28.82C29.6492 23 30.32 23.6708 30.32 24.5 30.32 25.3292 29.6492 26 28.82 26H14.5C13.6708 26 13 25.3292 13 24.5 13 23.6708 13.6708 23 14.5 23Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M14.5 30H33.82C34.6492 30 35.32 30.6708 35.32 31.5 35.32 32.3292 34.6492 33 33.82 33H14.5C13.6708 33 13 32.3292 13 31.5 13 30.6708 13.6708 30 14.5 30Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M46.82 6H74.14C75.7984 6 77.14 7.3416 77.14 9V141C77.14 142.6584 75.7984 144 74.14 144H46.82C45.1616 144 43.82 142.6584 43.82 141V9C43.82 7.3416 45.1616 6 46.82 6Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M73.48 120C73.48 127.1797 67.6597 133 60.48 133 53.3003 133 47.48 127.1797 47.48 120 47.48 112.8203 53.3003 107 60.48 107 67.6597 107 73.48 112.8203 73.48 120" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-115.32" x="56.1445">E</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="4.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="44.4768 47.6784 50.6112 53.28 54.6144 56.481599 59.4144 62.3472 66.614398 69.283199 72.215999 73.81439">Environments</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M49.32 86H71.64"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-75" x="48.0222 49.523405 52.525804 55.528203 57.029405 59.729406 62.731805 64.233 65.7342 66.933 69.9354">the setting</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-68" x="53.1279 57.0267 60.0291 63.031499 64.8297">where</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-61" x="52.2288 55.2312 57.931203 59.432405 60.631204 63.331205 64.53001 66.031208">activity</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-54" x="50.1228 53.1252 56.127599 59.129999 62.132398 65.134799 68.1372">happens</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M50.82 16H70.14C70.9692 16 71.64 16.6708 71.64 17.5 71.64 18.3292 70.9692 19 70.14 19H50.82C49.9908 19 49.32 18.3292 49.32 17.5 49.32 16.6708 49.9908 16 50.82 16Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M50.82 23H65.14C65.9692 23 66.64 23.6708 66.64 24.5 66.64 25.3292 65.9692 26 65.14 26H50.82C49.9908 26 49.32 25.3292 49.32 24.5 49.32 23.6708 49.9908 23 50.82 23Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M50.82 30H70.14C70.9692 30 71.64 30.6708 71.64 31.5 71.64 32.3292 70.9692 33 70.14 33H50.82C49.9908 33 49.32 32.3292 49.32 31.5 49.32 30.6708 49.9908 30 50.82 30Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83.14 6H110.46C112.1184 6 113.46 7.3416 113.46 9V141C113.46 142.6584 112.1184 144 110.46 144H83.14C81.4816 144 80.14 142.6584 80.14 141V9C80.14 7.3416 81.4816 6 83.14 6Z" fill="#fdf4db" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M109.8 120C109.8 127.1797 103.9797 133 96.8 133 89.6203 133 83.8 127.1797 83.8 120 83.8 112.8203 89.6203 107 96.8 107 103.9797 107 109.8 112.8203 109.8 120" fill="#9f6800" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-115.32" x="94.993">I</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="80.9296 82.486408 85.908008 87.772808 90.886409 93.064807 96.178409 99.29201 101.15681 102.71361 106.13521 109.55681">Interactions</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M85.64 86H107.96"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-75" x="86.594 89.596408 92.59881 94.100009 97.99881 101.00121 104.00362">between</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-68" x="83.4404 86.4428 89.445209 92.44761 95.45001 96.64881 99.651218 101.15241 104.154819 107.15722">people and</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-61" x="89.5964 91.097599 94.1 95.2988 98.3012 101.303607">things</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M87.14 16H106.46C107.2892 16 107.96 16.6708 107.96 17.5 107.96 18.3292 107.2892 19 106.46 19H87.14C86.3108 19 85.64 18.3292 85.64 17.5 85.64 16.6708 86.3108 16 87.14 16Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M87.14 23H101.46C102.2892 23 102.96 23.6708 102.96 24.5 102.96 25.3292 102.2892 26 101.46 26H87.14C86.3108 26 85.64 25.3292 85.64 24.5 85.64 23.6708 86.3108 23 87.14 23Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M87.14 30H106.46C107.2892 30 107.96 30.6708 107.96 31.5 107.96 32.3292 107.2892 33 106.46 33H87.14C86.3108 33 85.64 32.3292 85.64 31.5 85.64 30.6708 86.3108 30 87.14 30Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M119.46 6H146.78C148.4384 6 149.78 7.3416 149.78 9V141C149.78 142.6584 148.4384 144 146.78 144H119.46C117.8016 144 116.46 142.6584 116.46 141V9C116.46 7.3416 117.8016 6 119.46 6Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M146.12 120C146.12 127.1797 140.2997 133 133.12 133 125.9403 133 120.12 127.1797 120.12 120 120.12 112.8203 125.9403 107 133.12 107 140.2997 107 146.12 112.8203 146.12 120" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-115.32" x="128.063">O</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="121.7492 126.5728 130.361 132.0846 135.5318 138.979 141.04361">Objects</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M121.96 86H144.28"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-75" x="122.7655 125.76791 127.56611 129.0673 132.0697 133.5709 136.5733 139.2733 140.7745">artefacts</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-68" x="118.7128 121.7152 124.717609 127.72001 129.2212 132.2236 135.226 137.926 139.1248 141.8248 144.8272">and devices</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-61" x="125.9164 127.1152 130.1176 131.6188 134.6212 137.3212">in use</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M123.46 16H142.78C143.6092 16 144.28 16.6708 144.28 17.5 144.28 18.3292 143.6092 19 142.78 19H123.46C122.6308 19 121.96 18.3292 121.96 17.5 121.96 16.6708 122.6308 16 123.46 16Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M123.46 23H137.78C138.6092 23 139.28 23.6708 139.28 24.5 139.28 25.3292 138.6092 26 137.78 26H123.46C122.6308 26 121.96 25.3292 121.96 24.5 121.96 23.6708 122.6308 23 123.46 23Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M123.46 30H142.78C143.6092 30 144.28 30.6708 144.28 31.5 144.28 32.3292 143.6092 33 142.78 33H123.46C122.6308 33 121.96 32.3292 121.96 31.5 121.96 30.6708 122.6308 30 123.46 30Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M155.78 6H183.1C184.7584 6 186.1 7.3416 186.1 9V141C186.1 142.6584 184.7584 144 183.1 144H155.78C154.1216 144 152.78 142.6584 152.78 141V9C152.78 7.3416 154.1216 6 155.78 6Z" fill="#fdf4db" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M182.44 120C182.44 127.1797 176.6197 133 169.44 133 162.2603 133 156.44 127.1797 156.44 120 156.44 112.8203 162.2603 107 169.44 107 176.6197 107 182.44 112.8203 182.44 120" fill="#9f6800" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-115.32" x="164.747">U</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="160.8251 165.3015 168.7487 172.1959 174.60771">Users</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M158.28 86H180.6"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-75" x="156.831 158.3322 161.3346 164.33699 165.8382 168.84059 171.84299 174.84539 177.84778 179.04659">the people</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-68" x="162.8358 165.8382 168.84059 170.0394 173.0418">being</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif"><tspan y="-61" x="158.3349 161.3373 164.33969 167.03969 170.04209 171.84029 174.54029 177.54268">observed</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M159.78 16H179.1C179.9292 16 180.6 16.6708 180.6 17.5 180.6 18.3292 179.9292 19 179.1 19H159.78C158.9508 19 158.28 18.3292 158.28 17.5 158.28 16.6708 158.9508 16 159.78 16Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M159.78 23H174.1C174.9292 23 175.6 23.6708 175.6 24.5 175.6 25.3292 174.9292 26 174.1 26H159.78C158.9508 26 158.28 25.3292 158.28 24.5 158.28 23.6708 158.9508 23 159.78 23Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M159.78 30H179.1C179.9292 30 180.6 30.6708 180.6 31.5 180.6 32.3292 179.9292 33 179.1 33H159.78C158.9508 33 158.28 32.3292 158.28 31.5 158.28 30.6708 158.9508 30 159.78 30Z" fill="#ffffff" fill-rule="evenodd"/>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

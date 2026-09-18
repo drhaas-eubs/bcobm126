@@ -1,15 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Empathy Map framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f4b400"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
-<circle cx="348" cy="86" r="30" fill="#f4b400" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f4b400" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">EMPATHY TOOL</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Empathy Map</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Says · Thinks · Does · Feels — the user,</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f4b400"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 05</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">EMPATHY TOOL</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Empathy Map</text>
+<rect x="24" y="107" width="34" height="3" fill="#f4b400"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Says · Thinks · Does ·</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Feels — the user,</text>
+<text x="24" y="157" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">holistically</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M9 93H93.8C94.9056 93 95.8 93.8944 95.8 95V141C95.8 142.1056 94.9056 143 93.8 143H9C7.8944 143 7 142.1056 7 141V95C7 93.8944 7.8944 93 9 93Z" fill="#fdf4db" fill-rule="evenodd"/>
+<text fill="#9f6800" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-132" x="13 18.269001 23.923 29.192002">SAYS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-124.5" x="13 16.0024 19.004799 22.007199 23.508399 26.5108 29.2108 30.712 32.2132 36.112 39.1144 40.912599 43.914999 46.614999 48.1162 51.1186 53.8186 56.821">quotes, words used</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M99.8 93H184.6C185.7056 93 186.6 93.8944 186.6 95V141C186.6 142.1056 185.7056 143 184.6 143H99.8C98.6944 143 97.8 142.1056 97.8 141V95C97.8 93.8944 98.6944 93 99.8 93Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<text fill="#9f6800" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-132" x="151.546 156.423 162.07701 164.62302 170.27703 175.93103">THINKS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-124.5" x="144.5928 147.5952 150.5976 151.7964 152.99521 155.9976 157.49881 160.1988 161.70001 163.20122 167.10002 170.10242 171.90062 173.69882 174.89763 177.90003">beliefs, worries</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M9 41H93.8C94.9056 41 95.8 41.8944 95.8 43V89C95.8 90.1056 94.9056 91 93.8 91H9C7.8944 91 7 90.1056 7 89V43C7 41.8944 7.8944 41 9 41Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<text fill="#9f6800" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-54" x="13 18.654 24.7 29.969002">DOES</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-46.5" x="13 16.0024 18.7024 20.2036 21.402401 24.4048 27.4072 30.1072 31.6084 33.1096 36.112 39.1144 42.1168 45.119199 47.8192 49.017999 52.020399 55.022798">actions, behaviour</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M99.8 41H184.6C185.7056 41 186.6 41.8944 186.6 43V89C186.6 90.1056 185.7056 91 184.6 91H99.8C98.6944 91 97.8 90.1056 97.8 89V43C97.8 41.8944 98.6944 41 99.8 41Z" fill="#fdf4db" fill-rule="evenodd"/>
+<text fill="#9f6800" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-54" x="155.639 160.516 165.785 171.054 175.931">FEELS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-46.5" x="158.6922 161.6946 166.1928 169.19519 170.6964 171.8952 174.8976 177.9">emotions</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M113.8 92C113.8 101.3888 106.1888 109 96.8 109 87.41116 109 79.8 101.3888 79.8 92 79.8 82.61116 87.41116 75 96.8 75 106.1888 75 113.8 82.61116 113.8 92" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M111.8 92C111.8 100.2843 105.0843 107 96.8 107 88.51573 107 81.8 100.2843 81.8 92 81.8 83.71573 88.51573 77 96.8 77 105.0843 77 111.8 83.71573 111.8 92" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M100.2 97.6C100.2 99.47777 98.67777 101 96.8 101 94.92223 101 93.4 99.47777 93.4 97.6 93.4 95.72223 94.92223 94.2 96.8 94.2 98.67777 94.2 100.2 95.72223 100.2 97.6" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M91.6 81V89.4C91.6 93.8 102 93.8 102 89.4V81Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M9 6H93.8C94.9056 6 95.8 6.8944 95.8 8V34C95.8 35.1056 94.9056 36 93.8 36H9C7.8944 36 7 35.1056 7 34V8C7 6.8944 7.8944 6 9 6Z" fill="#fbe9e7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M99.8 6H184.6C185.7056 6 186.6 6.8944 186.6 8V34C186.6 35.1056 185.7056 36 184.6 36H99.8C98.6944 36 97.8 35.1056 97.8 34V8C97.8 6.8944 98.6944 6 99.8 6Z" fill="#e6f4ea" fill-rule="evenodd"/>
+<text fill="#b3261e" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-23" x="40.3152 45.2174 50.4826 52.8174 58.082605">PAINS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-14" x="30.5425 32.0437 35.0461 38.0485 39.8467 42.5467 44.0479 45.549104 47.050306 48.848505 51.850904 54.550905 56.052106 57.850305 60.852705 62.353906 63.552705 66.55511 69.55751">fears, frustrations</tspan></text>
+<text fill="#137333" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-23" x="130.7489 136.3837 141.6489 143.98369 149.24889">GAINS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-14" x="117.4356 121.334407 124.33681 127.33921 128.84041 131.5404 133.04161 134.54282 137.54521 140.5476 143.55 146.5524 149.2524 150.7536 152.2548 155.2572 158.2596 161.262 164.26439">wants, needs, hopes</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 5 · Empathizing with the User</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

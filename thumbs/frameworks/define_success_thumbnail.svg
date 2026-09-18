@@ -1,15 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Define Success framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#4527a0"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 10</text>
-<circle cx="348" cy="86" r="30" fill="#4527a0" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#4527a0" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">GOAL-SETTING TOOL</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Define Success</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Agree what a good solution must achieve up front</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 10 · Implementing Design Thinking in Business</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#4527a0"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 10</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">GOAL-SETTING TOOL</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Define</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Success</text>
+<rect x="24" y="128" width="34" height="3" fill="#4527a0"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Agree what a good</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">solution must achieve up</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">front</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M124.8 110C124.8 125.464 112.264 138 96.8 138 81.33603 138 68.8 125.464 68.8 110 68.8 94.53603 81.33603 82 96.8 82 112.264 82 124.8 94.53603 124.8 110" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M124.8 110C124.8 125.464 112.264 138 96.8 138 81.33603 138 68.8 125.464 68.8 110 68.8 94.53603 81.33603 82 96.8 82 112.264 82 124.8 94.53603 124.8 110"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M116.8 110C116.8 121.0457 107.8457 130 96.8 130 85.75431 130 76.8 121.0457 76.8 110 76.8 98.95431 85.75431 90 96.8 90 107.8457 90 116.8 98.95431 116.8 110" fill="#e5e1f2" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M116.8 110C116.8 121.0457 107.8457 130 96.8 130 85.75431 130 76.8 121.0457 76.8 110 76.8 98.95431 85.75431 90 96.8 90 107.8457 90 116.8 98.95431 116.8 110"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M108.8 110C108.8 116.6274 103.4274 122 96.8 122 90.17258 122 84.8 116.6274 84.8 110 84.8 103.3726 90.17258 98 96.8 98 103.4274 98 108.8 103.3726 108.8 110" fill="#ab9ed4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M108.8 110C108.8 116.6274 103.4274 122 96.8 122 90.17258 122 84.8 116.6274 84.8 110 84.8 103.3726 90.17258 98 96.8 98 103.4274 98 108.8 103.3726 108.8 110"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M101.8 110C101.8 112.7614 99.56142 115 96.8 115 94.03858 115 91.8 112.7614 91.8 110 91.8 107.2386 94.03858 105 96.8 105 99.56142 105 101.8 107.2386 101.8 110" fill="#4527a0" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M101.8 110C101.8 112.7614 99.56142 115 96.8 115 94.03858 115 91.8 112.7614 91.8 110 91.8 107.2386 94.03858 105 96.8 105 99.56142 105 101.8 107.2386 101.8 110"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.2" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M138.8 130 101.6339 111.8935"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M99.8 111 103.1979 110.8798 101.7997 113.7498Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-134" x="142.8 145.9136 149.3352 151.51361 154.62722 157.74082">agreed</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-127" x="142.8 146.2216 149.3352 151.20001 154.62162 156.80002 159.91362 161.47042 164.89202 168.31362 169.8704 171.4272 174.8488 176.4056 179.8272">before building</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-116" x="20 23.336 27.002 30.338002 32.672 36.008005">shared</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-108" x="20 21.998 25.334 27.668 31.334 34.67">target</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M11 8H61.53333C63.19173 8 64.53333 9.3416 64.53333 11V53C64.53333 54.6584 63.19173 56 61.53333 56H11C9.3416 56 8 54.6584 8 53V11C8 9.3416 9.3416 8 11 8Z" fill="#e6e5ef" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M8 50H64.533329V56H8Z" fill="#322879" fill-rule="evenodd"/>
+<text fill="#322879" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-38" x="26.77707 31.79787 36.46667 41.13547">USER</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-30" x="12.85767 15.86007 18.86247 21.562472 22.761273 24.559473 27.561875 30.564274 31.763073 34.765474 36.266675 39.269075 42.271474 43.772676 46.472677 49.475076 53.973276 56.975675">desirable outcomes</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-17" x="17.58537 22.38597 25.38837 27.186572 29.28717 30.78837 33.79077 35.291975 38.44557 39.946775 41.744974 44.74737 46.847974 50.147375 53.149774">metric + target</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-dasharray="2,1.5" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M36.26667 58 80.8 80"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M71.53333 8H122.0667C123.7251 8 125.0667 9.3416 125.0667 11V53C125.0667 54.6584 123.7251 56 122.0667 56H71.53333C69.87493 56 68.53333 54.6584 68.53333 53V11C68.53333 9.3416 69.87493 8 71.53333 8Z" fill="#e6e7ed" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M68.53333 50H125.066669V56H68.53333Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-38" x="79.0416 84.0624 89.0832 93.752 95.9312 100.951999 105.6208 110.2896">BUSINESS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-30" x="77.2925 79.9925 81.1913 84.1937 87.196109 88.394908 91.39731 92.898509 95.90091 98.90331 100.40451 103.10451 106.10691 110.60511 113.60751">viable outcomes</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-17" x="78.1187 82.9193 85.9217 87.7199 89.8205 91.3217 94.324108 95.8253 98.978908 100.4801 102.278308 105.28071 107.38131 110.68071 113.68311">metric + target</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-dasharray="2,1.5" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M96.8 58V80"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M132.0667 8H182.6C184.2584 8 185.6 9.3416 185.6 11V53C185.6 54.6584 184.2584 56 182.6 56H132.0667C130.4083 56 129.0667 54.6584 129.0667 53V11C129.0667 9.3416 130.4083 8 132.0667 8Z" fill="#f6eae1" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M129.0667 50H185.60002V56H129.0667Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-38" x="135.7749 140.0853 144.75409 149.77489 154.4437 156.6229 161.64369 163.82289 168.13329 170.31249 174.62288">FEASIBILITY</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-30" x="131.8237 134.8261 137.82849 139.0273 140.2261 142.9261 145.9285 147.7267 150.7291 153.73149 154.9303 157.9327 159.4339 162.4363 165.43869 166.9399 169.6399 172.64229 177.14049 180.14289">deliverable outcomes</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-17" x="138.652 143.45259 146.45499 148.25319 150.35379 151.855 154.85739 156.3586 159.51219 161.0134 162.8116 165.814 167.9146 171.21399 174.21639">metric + target</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-dasharray="2,1.5" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M157.3333 58 112.8 80"/>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="10.75" font-weight="700" fill="#2F3465">Unit 10 · Implementing Design Thinking in Business</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

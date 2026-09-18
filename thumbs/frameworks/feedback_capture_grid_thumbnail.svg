@@ -1,15 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Feedback Capture Grid framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#8e24aa"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 09</text>
-<circle cx="348" cy="86" r="30" fill="#8e24aa" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#8e24aa" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">TESTING TOOL</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Feedback Capture Grid</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Likes · criticisms · questions · new ideas</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 9 · Testing Prototypes</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#8e24aa"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 09</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">TESTING TOOL</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Feedback</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Capture Grid</text>
+<rect x="24" y="128" width="34" height="3" fill="#8e24aa"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Likes · criticisms ·</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">questions · new ideas</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M7 76H93.8C94.9056 76 95.8 76.8944 95.8 78V143C95.8 144.1056 94.9056 145 93.8 145H7C5.8944 145 5 144.1056 5 143V78C5 76.8944 5.8944 76 7 76Z" fill="#e7f1eb" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M62.4 118.5C62.4 125.1274 57.02742 130.5 50.4 130.5 43.77258 130.5 38.4 125.1274 38.4 118.5 38.4 111.8726 43.77258 106.5 50.4 106.5 57.02742 106.5 62.4 111.8726 62.4 118.5" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#137333" d="M62.4 118.5C62.4 125.1274 57.02742 130.5 50.4 130.5 43.77258 130.5 38.4 125.1274 38.4 118.5 38.4 111.8726 43.77258 106.5 50.4 106.5 57.02742 106.5 62.4 111.8726 62.4 118.5"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#137333" d="M45.4 118.5H55.4"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#137333" d="M50.4 113.5V123.5"/>
+<text fill="#137333" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="39.0925 43.8695 46.3155 51.8695 57.038499">LIKES</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-88.5" x="34.6836 38.726804 41.840406 44.954008 46.510808 48.067609 52.11081 55.22441 57.08921 59.88921 63.00281">what worked</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M99.8 76H186.6C187.7056 76 188.6 76.8944 188.6 78V143C188.6 144.1056 187.7056 145 186.6 145H99.8C98.6944 145 97.8 144.1056 97.8 143V78C97.8 76.8944 98.6944 76 99.8 76Z" fill="#f7e9e9" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M155.2 118.5C155.2 125.1274 149.8274 130.5 143.2 130.5 136.5726 130.5 131.2 125.1274 131.2 118.5 131.2 111.8726 136.5726 106.5 143.2 106.5 149.8274 106.5 155.2 111.8726 155.2 118.5" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b3261e" d="M155.2 118.5C155.2 125.1274 149.8274 130.5 143.2 130.5 136.5726 130.5 131.2 125.1274 131.2 118.5 131.2 111.8726 136.5726 106.5 143.2 106.5 149.8274 106.5 155.2 111.8726 155.2 118.5"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#b3261e" d="M137.7 113.88H148.7L143.2 124Z"/>
+<text fill="#b3261e" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="120.727 126.281 131.83499 134.28099 139.05799 141.50399 147.05799 149.50399 154.67299 161.00399">CRITICISMS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-88.5" x="114.0968 118.14 119.3832 122.183208 125.29681 128.4104 131.2104 132.7672 134.32399 138.36719 141.48079 144.59439 146.15119 147.70798 149.26477 152.37837 153.93517 156.73517 159.84877 162.96237 166.07598 169.18958">wishes, what to change</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M7 5H93.8C94.9056 5 95.8 5.8944 95.8 7V72C95.8 73.1056 94.9056 74 93.8 74H7C5.8944 74 5 73.1056 5 72V7C5 5.8944 5.8944 5 7 5Z" fill="#eaebf0" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M62.4 47.5C62.4 54.12742 57.02742 59.5 50.4 59.5 43.77258 59.5 38.4 54.12742 38.4 47.5 38.4 40.87258 43.77258 35.5 50.4 35.5 57.02742 35.5 62.4 40.87258 62.4 47.5" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f3465" d="M62.4 47.5C62.4 54.12742 57.02742 59.5 50.4 59.5 43.77258 59.5 38.4 54.12742 38.4 47.5 38.4 40.87258 43.77258 35.5 50.4 35.5 57.02742 35.5 62.4 40.87258 62.4 47.5"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-42.9" x="46.4285">?</tspan></text>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-25.5" x="27.785 33.731 39.285 44.454004 49.623 54.4 56.846 62.792 68.346">QUESTIONS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-17.5" x="28.77 32.8132 35.926805 39.040407 40.597208 42.154008 46.19721 49.31081 52.11081 53.66761 56.78121 59.894815 62.694814 63.93801 67.05161 70.165218">what was unclear</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M99.8 5H186.6C187.7056 5 188.6 5.8944 188.6 7V72C188.6 73.1056 187.7056 74 186.6 74H99.8C98.6944 74 97.8 73.1056 97.8 72V7C97.8 5.8944 98.6944 5 99.8 5Z" fill="#f7eee6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M155.2 47.5C155.2 54.12742 149.8274 59.5 143.2 59.5 136.5726 59.5 131.2 54.12742 131.2 47.5 131.2 40.87258 136.5726 35.5 143.2 35.5 149.8274 35.5 155.2 40.87258 155.2 47.5" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M155.2 47.5C155.2 54.12742 149.8274 59.5 143.2 59.5 136.5726 59.5 131.2 54.12742 131.2 47.5 131.2 40.87258 136.5726 35.5 143.2 35.5 149.8274 35.5 155.2 40.87258 155.2 47.5"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M148.66 49.45C148.66 52.46547 146.2155 54.91 143.2 54.91 140.1845 54.91 137.74 52.46547 137.74 49.45 137.74 46.43453 140.1845 43.99 143.2 43.99 146.2155 43.99 148.66 46.43453 148.66 49.45" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M141.2 41.65H145.2C145.5317 41.65 145.8 41.91832 145.8 42.25V44.95C145.8 45.28168 145.5317 45.55 145.2 45.55H141.2C140.8683 45.55 140.6 45.28168 140.6 44.95V42.25C140.6 41.91832 140.8683 41.65 141.2 41.65Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-25.5" x="131.504 133.95 139.504 144.673 150.227">IDEAS</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-17.5" x="124.37 128.41321 131.52681 134.64041 136.1972 137.754 138.9972 140.55399 142.11078 144.91078 148.02439 151.13799 153.00279 155.8028 158.9164">what it sparked</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 9 · Testing Prototypes</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

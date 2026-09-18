@@ -1,15 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="How Might We (HMW) framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f57c00"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
-<circle cx="348" cy="86" r="30" fill="#f57c00" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f57c00" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">PROBLEM FRAMING</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">How Might We (HMW)</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Turn insights into optimistic, open solution prompts</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f57c00"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">PROBLEM FRAMING</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">How Might We</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">(HMW)</text>
+<rect x="24" y="128" width="34" height="3" fill="#f57c00"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Turn insights into</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">optimistic, open solution</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">prompts</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M9 88H62.2C63.8584 88 65.2 89.3416 65.2 91V139C65.2 140.6584 63.8584 142 62.2 142H9C7.3416 142 6 140.6584 6 139V91C6 89.3416 7.3416 88 9 88Z" fill="#f4eae0" fill-rule="evenodd"/>
+<text fill="#9f5300" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-118" x="21.8785 31.2645 39.2075">How</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-106" x="11.6348 14.7484 17.548399 20.348399 23.461998 28.126799 31.240399 34.040399 35.5972 38.7108 40.2676 43.0676 46.181203 47.4244 50.538003 52.094804 53.338 56.451604">assumes a solution</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-99.2" x="28.4432 31.556799 34.3568 35.6 38.399999 39.9568">exists</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M70.2 88H123.4C125.0584 88 126.4 89.3416 126.4 91V139C126.4 140.6584 125.0584 142 123.4 142H70.2C68.5416 142 67.2 140.6584 67.2 139V91C67.2 89.3416 68.5416 88 70.2 88Z" fill="#e6e7ed" fill-rule="evenodd"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-118" x="79.107 90.664 94.278 102.221 110.164">might</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-106" x="79.9972 83.1108 86.2244 88.0892 92.754009 93.99721 95.55401 98.35401 99.91081 104.575618 107.68922 110.80282">permits many</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-99.2" x="86.3756 89.489208 92.602809 95.40281 99.44601 102.55961 104.42441">answers</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M131.4 88H184.6C186.2584 88 187.6 89.3416 187.6 91V139C187.6 140.6584 186.2584 142 184.6 142H131.4C129.7416 142 128.4 140.6584 128.4 139V91C128.4 89.3416 129.7416 88 131.4 88Z" fill="#f6eae1" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-118" x="149.329 159.443">we</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-106" x="133.4132 134.65639 137.76999 140.56999 141.81319 143.36998 146.48358 149.28359 150.84038 153.64038 156.75399 157.99718 159.24037 162.35398 165.46758 168.58118 170.44599 173.55959 175.11638 176.35958 179.47318">invites collaboration</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-74" x="54.959 58.961 62.296998 64.295 65.963 67.961 71.627 74.963 76.631 79.966999 83.30299 86.968997 90.634998 93.97099 95.63899 99.30499 101.30299 102.97099 104.968997 108.634998 111.97099 113.63899 117.30499 120.97099 124.30699 127.64299 129.64099 131.30899 134.97499">Set the scope of the question</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M20 52H173.6C175.8112 52 177.6 53.7888 177.6 56 177.6 58.2112 175.8112 60 173.6 60H20C17.7888 60 16 58.2112 16 56 16 53.7888 17.7888 52 20 52Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M71.8 51H121.8C124.564 51 126.8 53.236 126.8 56 126.8 58.764 124.564 61 121.8 61H71.8C69.036 61 66.8 58.764 66.8 56 66.8 53.236 69.036 51 71.8 51Z" fill="#f57c00" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-54" x="68.7416 71.744 74.74641 76.54461 78.04581 81.34521 84.64461 87.64701 90.94641 92.44761 95.45001 96.95121 99.95361 104.154819 107.15722 110.15962 111.957828 113.45902 116.461429 119.760829 123.06023">actionable sweet spot</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-41" x="16 17.9314 21.4752 25.019001 26.631402 30.175202 32.4314 35.9752 39.2">too broad</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-41" x="147.6314 149.56279 153.10659 156.65038 158.26277 161.80657 165.03137 167.28757 169.54376 173.08756">too narrow</tspan></text>
+<text fill="#8a93a6" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-33" x="16 18.891201 21.782402 23.228003 26.119202 27.273602 30.164803 32.7648 35.656003 37.1016 38.5472 41.4384 42.884 45.483999 46.929597 49.820798 51.5524">no place to start</tspan></text>
+<text fill="#8a93a6" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-33" x="138.5792 141.1792 144.0704 145.22481 148.11602 149.56162 150.71602 153.60723 156.49843 157.94403 160.83524 163.72644 166.32645 169.21765 172.10886 173.55446 174.70886">solution baked in</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M23 6H170.6C174.4696 6 177.6 9.1304 177.6 13 177.6 16.8696 174.4696 20 170.6 20H23C19.1304 20 16 16.8696 16 13 16 9.1304 19.1304 6 23 6Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-10.5" x="36.461 40.793 44.459 49.127 50.795 56.128999 57.796998 61.462999 65.129 67.127 68.795 73.463 76.798999 78.466999 84.466999 86.134998 88.132999 91.798999 94.132999 95.800998 97.798999 101.465 104.800998 108.13699 110.47099 112.468997 114.13699 117.47299 121.13899 122.80699 124.80499 128.471 131.80699 133.805 135.47299 137.471 141.137 144.47299 147.80899 151.47499 153.47299">How might we &#x2026; for [user] so that [need]?</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

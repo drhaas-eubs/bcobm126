@@ -1,15 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Reframing Matrix framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#7cb342"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 04</text>
-<circle cx="348" cy="86" r="30" fill="#7cb342" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#7cb342" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">PROBLEM FRAMING</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Reframing Matrix</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">View a problem through four professional lenses</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 4 · Understanding the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#7cb342"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 04</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">PROBLEM FRAMING</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Reframing</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Matrix</text>
+<rect x="24" y="128" width="34" height="3" fill="#7cb342"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">View a problem through</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">four professional lenses</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M7.5 79H91.5C92.882 79 94 80.118 94 81.5V143.5C94 144.882 92.882 146 91.5 146H7.5C6.118 146 5 144.882 5 143.5V81.5C5 80.118 6.118 79 7.5 79Z" fill="#edf4e5" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M7.5 79H91.5C92.882 79 94 80.118 94 81.5V143.5C94 144.882 92.882 146 91.5 146H7.5C6.118 146 5 144.882 5 143.5V81.5C5 80.118 6.118 79 7.5 79Z"/>
+<text fill="#716819" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-132" x="12 17.4358 23.2786 29.5358 35.3786 41.2214 47.0642">PRODUCT</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-123" x="12 13.5568 16.3568 17.9136 20.7136 23.8272 28.492 31.6056 33.1624 36.276 37.5192 40.6328 43.746404 45.303205 49.346406 51.211206 54.324808 57.438409">Is something wrong</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-116.2" x="12 16.043202 17.286402 18.843203 21.956803 23.513604 25.070405 28.184004 31.297604 32.854406 35.968008 37.524808 39.081609 42.19521 44.06001 45.61681 46.86001 48.41681 51.21681 54.33041 55.57361 57.13041">with the offer itself?</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M100.5 79H184.5C185.882 79 187 80.118 187 81.5V143.5C187 144.882 185.882 146 184.5 146H100.5C99.118 146 98 144.882 98 143.5V81.5C98 80.118 99.118 79 100.5 79Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M100.5 79H184.5C185.882 79 187 80.118 187 81.5V143.5C187 144.882 185.882 146 184.5 146H100.5C99.118 146 98 144.882 98 143.5V81.5C98 80.118 99.118 79 100.5 79Z"/>
+<text fill="#716819" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-132" x="137.8572 143.293 148.31439 154.1572 160 165.8428 168.40001 174.24282">PLANNING</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-123" x="127.0856 128.6424 131.4424 132.99919 134.24239 135.79918 137.35597 138.91277 142.02637 145.13997 146.69676 149.81037 151.05356 154.16716 157.28076 158.83756 160.39435 163.50795 165.37276 168.48636 171.28636 174.39997 177.19997">Is it the plan, process</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-116.2" x="155.416 158.5296 160.39441 161.9512 163.508 164.75119 169.41599 170.65918 173.77278 176.88639">or timing?</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M7.5 8H91.5C92.882 8 94 9.118 94 10.5V72.5C94 73.882 92.882 75 91.5 75H7.5C6.118 75 5 73.882 5 72.5V10.5C5 9.118 6.118 8 7.5 8Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M7.5 8H91.5C92.882 8 94 9.118 94 10.5V72.5C94 73.882 92.882 75 91.5 75H7.5C6.118 75 5 73.882 5 72.5V10.5C5 9.118 6.118 8 7.5 8Z"/>
+<text fill="#716819" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-33" x="12 17.4358 23.693 28.714402 34.1502 39.993 45.0144 47.5716 53.414403">POTENTIAL</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-24" x="12 17.2864 20.4 23.5136 25.0704 26.627202 27.870402 29.427203 30.984004 35.027204 38.140806 39.697607 42.497606 45.297605 48.411207 49.654405 52.768007 55.881608 57.438409 60.55201">What if we scaled or</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-17.2" x="12 14.8 16.3568 18.2216 21.3352 22.892 25.692 28.8056 31.919199 35.0328 36.5896 37.832799 39.3896">stretched it?</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M100.5 8H184.5C185.882 8 187 9.118 187 10.5V72.5C187 73.882 185.882 75 184.5 75H100.5C99.118 75 98 73.882 98 72.5V10.5C98 9.118 99.118 8 100.5 8Z" fill="#edf4e5" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M100.5 8H184.5C185.882 8 187 9.118 187 10.5V72.5C187 73.882 185.882 75 184.5 75H100.5C99.118 75 98 73.882 98 72.5V10.5C98 9.118 99.118 8 100.5 8Z"/>
+<text fill="#716819" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-33" x="147.4782 152.914 158.34981 164.60701 170.04282 175.06421">PEOPLE</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-24" x="133.3072 137.3504 140.464 144.5072 146.064 149.1776 152.2912 153.84799 155.40479 158.51839 161.63199 163.18878 166.30239 169.41599 172.52959 175.64319 176.88639">How do the people</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-17.2" x="141.4048 142.648 145.7616 148.5616 151.6752 152.9184 155.7184 158.832 161.9456 163.5024 166.3024 169.416 172.5296 174.0864 175.32959 176.88639">involved see it?</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M73.8 64H119.8C122.0112 64 123.8 65.7888 123.8 68V82C123.8 84.2112 122.0112 86 119.8 86H73.8C71.5888 86 69.8 84.2112 69.8 82V68C69.8 65.7888 71.5888 64 73.8 64Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M74.8 66H118.8C120.4584 66 121.8 67.3416 121.8 69V81C121.8 82.6584 120.4584 84 118.8 84H74.8C73.1416 84 71.8 82.6584 71.8 81V69C71.8 67.3416 73.1416 66 74.8 66Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-76.5" x="73.7095 78.521907 83.00951 87.17811 89.09051 93.25911 97.74671 102.55911 107.046718 110.89052 115.05912">ONE PROBLEM</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-69.5" x="84.5725 85.9625 88.7425 91.5225 93.1875 94.5775 95.6875 98.4675 101.2475 103.7475 106.5275">four lenses</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 4 · Understanding the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

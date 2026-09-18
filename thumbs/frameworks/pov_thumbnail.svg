@@ -1,15 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Point of View (PoV) Statement framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f57c00"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
-<circle cx="348" cy="86" r="30" fill="#f57c00" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f57c00" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">PROBLEM DEFINITION</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Point of View (PoV)</tspan><tspan x="28" dy="30">Statement</tspan></text>
-<line x1="28" y1="180" x2="372" y2="180" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="202" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">User + need + insight = a focused problem</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f57c00"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">PROBLEM DEFINITION</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Point of View</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">(PoV)</text>
+<text x="24" y="132" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Statement</text>
+<rect x="24" y="149" width="34" height="3" fill="#f57c00"/>
+<text x="24" y="169" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">User + need + insight = a</text>
+<text x="24" y="184" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">focused problem</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M45 112H184.6C186.2584 112 187.6 113.3416 187.6 115V139C187.6 140.6584 186.2584 142 184.6 142H45C43.3416 142 42 140.6584 42 139V115C42 113.3416 43.3416 112 45 112Z" fill="#f4eae0" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M42 112H45V142H42Z" fill="#9f5300" fill-rule="evenodd"/>
+<text fill="#9f5300" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-129" x="52 57.942804 63.478605 69.014408">USER</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-120" x="52 55.2248 56.8372 59.7372 62.962 66.186809 69.08681 70.374408 71.98681 73.27441 76.17441 77.78681 79.399219 81.33061 84.55541 87.455417 90.680217 93.905017 95.83641 98.73641 101.96121 103.89261 107.11741 110.34221 113.24221 116.46701 119.69181 121.304218 124.529018 127.753818 129.68521 132.5852 135.81002">a specific, research-based person</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M30 127C30 132.5228 25.52285 137 20 137 14.47715 137 10 132.5228 10 127 10 121.4772 14.47715 117 20 117 25.52285 117 30 121.4772 30 127" fill="#9f5300" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="9" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-123.76" x="17.498">1</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-101.5" x="52 55.7882 59.2354 62.682603 66.4708 69.918 71.6416 75.0888 76.8124 81.636 85.0832 88.530399 90.254 92.318599">needs a way to</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M20 116V97"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M45 66H184.6C186.2584 66 187.6 67.3416 187.6 69V93C187.6 94.6584 186.2584 96 184.6 96H45C43.3416 96 42 94.6584 42 93V69C42 67.3416 43.3416 66 45 66Z" fill="#e6e7ed" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M42 66H45V96H42Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-83" x="52 57.942804 63.478605 69.014408">NEED</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-74" x="52 55.2248 56.8372 59.7372 62.962 64.8934 68.1182 69.730609 75.53061 77.14301 81.33061 84.55541 87.78021 89.39262 91.00502 92.617427 95.842227 99.067028 101.967029 103.57943 108.41083 111.63563 114.53563 116.14803 117.76044 120.98524 123.88524 127.11004 128.39765 131.62245 134.52245">a verb &#x2014; what they must achieve</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M30 81C30 86.52285 25.52285 91 20 91 14.47715 91 10 86.52285 10 81 10 75.47715 14.47715 71 20 71 25.52285 71 30 75.47715 30 81" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="9" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-77.76" x="17.498">2</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-55.5" x="52 55.7882 59.2354 62.682603 66.1298 69.918 73.3652">because</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M20 70V51"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M45 20H184.6C186.2584 20 187.6 21.3416 187.6 23V47C187.6 48.6584 186.2584 50 184.6 50H45C43.3416 50 42 48.6584 42 47V23C42 21.3416 43.3416 20 45 20Z" fill="#f6eae1" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M42 20H45V50H42Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-37" x="52 54.6572 60.6 66.135799 68.793 75.1502 81.093">INSIGHT</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-28" x="52 53.6124 56.8372 60.062 61.6744 64.5744 67.7992 69.7306 72.9554 74.886798 76.17439 79.074398 80.36199 83.58679 86.81159 88.423999 90.35539 93.58019 96.80499 99.704998 102.929798 106.154598 107.767 111.9546 115.1794">the surprising reason why</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M30 35C30 40.52285 25.52285 45 20 45 14.47715 45 10 40.52285 10 35 10 29.47715 14.47715 25 20 25 25.52285 25 30 29.47715 30 35" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="9" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-31.76" x="17.498">3</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

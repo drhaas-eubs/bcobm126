@@ -1,15 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Implementation Roadmap framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#4527a0"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 10</text>
-<circle cx="348" cy="86" r="30" fill="#4527a0" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#4527a0" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">CHANGE MANAGEMENT</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Implementation Roadmap</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Sequence pilots, wins and scaling steps</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 10 · Implementing Design Thinking in Business</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#4527a0"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 10</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">CHANGE MANAGEMENT</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="700" fill="#2F3465">Implementation</text>
+<text x="24" y="109.5" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="700" fill="#2F3465">Roadmap</text>
+<rect x="24" y="125.0" width="34" height="3" fill="#4527a0"/>
+<text x="24" y="145.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Sequence pilots, wins and</text>
+<text x="24" y="160.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">scaling steps</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 124H45.4L52.4 135 45.4 146H4L11 135Z" fill="#4527a0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-133" x="22.9157 26.784302 28.396702 30.009102 33.552904">Pilot</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M50.4 124H91.8L98.8 135 91.8 146H50.4L57.4 135Z" fill="#3d2891" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-133" x="61.2537 65.1223 68.3471 70.6033 72.215709 75.440509 77.05291 81.56531 83.17771 86.72151">Early wins</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M96.8 124H138.2L145.2 135 138.2 146H96.8L103.8 135Z" fill="#362881" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="4.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-133" x="105.0007 108.3219 111.1325 112.4113 113.6901 116.5007 117.7795 120.337108 122.89471 125.70531 128.26291 131.0735 132.3523 133.63109 134.90988 136.44168">Build capability</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M143.2 124H184.6L191.6 135 184.6 146H143.2L150.2 135Z" fill="#2e2972" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-133" x="160.8223 164.6909 167.91571 171.14052 172.75292">Scale</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M8 36H187.6"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(0 -1 1 0 11 77)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="0" x="-11.3994 -8.396999 -5.097599 -1.7981989 1.5012012 3.2994014 4.8006017 8.100001">adoption</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f3465" d="M16 40C80 40 110 108 185.6 108"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M16 40C80 40 110 108 185.6 108V36H16Z" fill="#2f3465" fill-opacity=".1" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M46.4 41 51.4 36 46.4 31 41.4 36Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M92.8 41 97.8 36 92.8 31 87.8 36Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M139.2 41 144.2 36 139.2 31 134.2 36Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M185.6 41 190.6 36 185.6 31 180.6 36Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="157.3904 162.191 163.6922 165.1934 168.1958 171.1982 172.9964 176.29579 179.59519 182.59758">milestones</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M18 6H46C49.3168 6 52 8.6832 52 12 52 15.3168 49.3168 18 46 18H18C14.6832 18 12 15.3168 12 12 12 8.6832 14.6832 6 18 6Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-9.8" x="22.1972 25.618802 29.975602 33.3972 36.510805 38.6892">owners</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M62 6H90C93.3168 6 96 8.6832 96 12 96 15.3168 93.3168 18 90 18H62C58.6832 18 56 15.3168 56 12 56 8.6832 58.6832 6 62 6Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-9.8" x="61.3728 66.3512 67.908 69.4648 72.5784 75.692 77.5568 80.9784 84.4 87.5136">milestones</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M106 6H134C137.3168 6 140 8.6832 140 12 140 15.3168 137.3168 18 134 18H106C102.6832 18 100 15.3168 100 12 100 8.6832 102.6832 6 106 6Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-9.8" x="110.0404 115.0188 118.1324 119.9972 122.1756 123.7324 126.846">metrics</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="10.75" font-weight="700" fill="#2F3465">Unit 10 · Implementing Design Thinking in Business</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

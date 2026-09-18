@@ -1,15 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Vision Cone framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f57c00"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
-<circle cx="348" cy="86" r="30" fill="#f57c00" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f57c00" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">FORESIGHT TOOL</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Vision Cone</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Explore probable, plausible and preferable futures</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f57c00"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">FORESIGHT TOOL</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Vision Cone</text>
+<rect x="24" y="107" width="34" height="3" fill="#f57c00"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Explore probable,</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">plausible and preferable</text>
+<text x="24" y="157" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">futures</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M16 72 187.6 136V8Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M16 72 187.6 116V28Z" fill="#d5d6e0" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M16 72 187.6 94V50Z" fill="#a1a4ba" fill-rule="evenodd"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-124" x="158.922 162.924 166.59 169.926 173.262 174.93 178.596 180.26399">Possible</tspan></text>
+<text fill="#2f3465" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-101" x="157.254 161.256 162.924 166.26 169.926 173.262 174.93 178.596 180.26399">Plausible</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-69" x="157.926 161.928 164.262 167.928 171.594 174.93 178.596 180.26399">Probable</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M46 75 157.6 116V80Z" fill="#b45309" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1" stroke-linecap="butt" stroke-dasharray="2.5,1.5" stroke-linejoin="round" fill="none" stroke="#b45309" d="M46 75 157.6 116V80Z"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-92" x="111.4597 115.8619 118.4293 122.0989 124.2967 127.9663 130.5337 134.20331 138.2359 140.0707">Preferable</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M20 72C20 74.20914 18.20914 76 16 76 13.79086 76 12 74.20914 12 72 12 69.79086 13.79086 68 16 68 18.20914 68 20 69.79086 20 72" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-60" x="14 18.332 23">NOW</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M16 6H185.56"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M187.6 6 184.598 7.596203V4.403797Z" fill="#8a93a6" fill-rule="evenodd"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-10" x="140.8772 142.3784 143.57721 148.07541 151.0778 152.57901 153.77782 156.78022 158.28142 161.28382 162.78502 164.28623 167.28862 170.29102 171.79222 173.29343 176.29582 177.79703 180.79943 182.59763">time into the future</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

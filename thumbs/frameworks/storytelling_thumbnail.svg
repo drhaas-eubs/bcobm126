@@ -1,15 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Storytelling framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#f57c00"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
-<circle cx="348" cy="86" r="30" fill="#f57c00" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#f57c00" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">COMMUNICATION TOOL</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Storytelling</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Frame the user&#x27;s problem as a narrative to build</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#f57c00"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 06</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">COMMUNICATION TOOL</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Storytelling</text>
+<rect x="24" y="107" width="34" height="3" fill="#f57c00"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Frame the user's problem</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">as a narrative to build</text>
+<text x="24" y="157" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">empathy and buy-in</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M14 24H185.56"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M187.6 24 184.598 25.5962V22.4038Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M14 24V137.96"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M14 140 12.4038 136.998H15.5962Z" fill="#8a93a6" fill-rule="evenodd"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-15" x="175.3994 176.9006 178.09941 182.59761">time</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(0 -1 1 0 10 71)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="0" x="-8.7048 -7.2035996 -4.201199 -1.1987987 1.5012014 2.7000015 5.702402">tension</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f57c00" d="M18 40C50 40 90 84 132 120 150 132 160 68 183.6 56"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M23.5 40C23.5 43.03757 21.03757 45.5 18 45.5 14.96243 45.5 12.5 43.03757 12.5 40 12.5 36.96243 14.96243 34.5 18 34.5 21.03757 34.5 23.5 36.96243 23.5 40" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-37.84" x="16.332">1</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="24 28.2688 31.827202 33.9584 36.0896 37.8688 41.7792">Setting</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-15" x="24 25.5012 28.503602 31.506 33.007204 36.0096 38.709604 41.712 43.5102 45.011404 48.6132 50.114404 54.013204 57.015604 58.8138 60.0126">the user &#x0026; world</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M85.5 66C85.5 69.03757 83.03757 71.5 80 71.5 76.96243 71.5 74.5 69.03757 74.5 66 74.5 62.96243 76.96243 60.5 80 60.5 83.03757 60.5 85.5 62.96243 85.5 66" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-63.84" x="78.332">2</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-54" x="88 91.9104 95.4688 99.3792 102.93761 104.716808 108.627208">Tension</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-47" x="88 89.5012 92.5036 95.506008 97.0072 100.009609 103.01201 107.51021 110.51261 112.01381 113.51501 116.51741 119.51981 122.52222">the unmet need</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M137.5 120C137.5 123.0376 135.0376 125.5 132 125.5 128.9624 125.5 126.5 123.0376 126.5 120 126.5 116.9624 128.9624 114.5 132 114.5 135.0376 114.5 137.5 116.9624 137.5 120" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-117.84" x="130.332">3</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-124" x="82.7584 86.6688 90.5792 93.0688 96.9792 98.7584 102.6688 106.5792 108.3584 112.2688 116.1792 117.9584 121.8688">Turning point</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-117" x="99.3868 100.888 103.8904 106.89281 108.394008 109.592807 112.59521 115.295207 116.494 119.49641 122.49881">the insight</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M189.1 56C189.1 59.03757 186.6376 61.5 183.6 61.5 180.5624 61.5 178.1 59.03757 178.1 56 178.1 52.96243 180.5624 50.5 183.6 50.5 186.6376 50.5 189.1 52.96243 189.1 56" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-53.84" x="181.932">4</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-42" x="152.5312 157.15201 160.7104 164.2688 168.1792 169.9584 173.8688 176 177.7792 181.6896">Resolution</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-35" x="160.6844 162.18561 165.188 168.1904 169.6916 172.694 175.6964 178.3964 179.5952 182.5976">the design</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-10" x="77.316 80.7376 82.916 86.3376 88.2024 91.316 94.7376 98.1592 101.5808 103.1376 106.251209 108.116008 109.672809 112.94321 114.50001 116.36481 119.78641 122.90001 124.45681 127.87841 130.992 134.1056">protagonist = the user</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 6 · Defining the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

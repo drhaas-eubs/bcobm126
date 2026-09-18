@@ -1,15 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="d.school 5-Stage Model framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#0f9d58"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 03</text>
-<circle cx="348" cy="86" r="30" fill="#0f9d58" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#0f9d58" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">DESIGN-THINKING PROCESS</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">d.school 5-Stage Model</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Empathise → Define → Ideate → Prototype → Test</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 3 · Design Thinking Fundamentals</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#0f9d58"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 03</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">DESIGN-THINKING PROCESS</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">d.school</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">5-Stage Model</text>
+<rect x="24" y="128" width="34" height="3" fill="#0f9d58"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Empathise → Define →</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Ideate → Prototype →</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Test</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22.4 123 7.677568 114.5V97.5L22.4 89 37.12243 97.5V114.5Z" fill="#93d3b4" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-102.4" x="19.62">1</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="6.2176 10.486401 16.176 20.086401 23.644803 25.776003 29.686404 31.465603 35.024003">Empathise</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-70" x="9.14205 12.08885 15.03565 17.98245 20.92925 22.69415 25.34415 26.81755 29.76435 32.71115">understand</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-63.6" x="15.92075 18.86755 21.51755 24.46435 26.22925">users</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M59.6 123 44.87757 114.5V97.5L59.6 89 74.32243 97.5V114.5Z" fill="#0f9d58" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-102.4" x="56.82">2</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="49.8208 54.4416 58 60.1312 61.9104 65.8208">Define</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-70" x="48.4064 49.8798 51.6447 54.5915 59.0064 61.9532 63.4266 64.9 67.8468">frame the</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-63.6" x="50.0282 52.975 54.7399 57.6867 60.6335 61.8101 64.756908">problem</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M96.8 123 82.07757 114.5V97.5L96.8 89 111.5224 97.5V114.5Z" fill="#0a6639" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-102.4" x="94.02">3</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="87.552 89.3312 93.2416 96.8 100.358409 102.48961">Ideate</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-70" x="86.34045 89.28725 92.23405 95.18085 98.12765 99.89255 102.83935 104.31275">generate</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-63.6" x="88.2564 91.2032 94.15 95.623409 96.8 99.7468 102.6936">options</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M134 123 119.2776 114.5V97.5L134 89 148.7224 97.5V114.5Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-102.4" x="131.22">4</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="119.0656 123.3344 125.824 129.73439 131.86559 135.77599 137.90718 141.46558 145.37598">Prototype</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-70" x="125.4591 129.874 132.8208 135.4708 138.4176 139.891 141.06761">make it</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-63.6" x="124.7197 126.19311 129.13991 132.08672 135.03353 136.21013 139.15694 140.33354">tangible</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M171.2 123 156.4776 114.5V97.5L171.2 89 185.9224 97.5V114.5Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-102.4" x="168.42">5</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="164.6208 168.5312 172.0896 175.648">Test</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-70" x="160.1521 161.3287 164.27552 167.22232 168.98722 171.93402 173.40743 176.35424 179.30104">learn and</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.3" font-family="Arial, Helvetica, sans-serif"><tspan y="-63.6" x="164.5724 166.3373 169.2841 170.7575 171.93412 174.88092">refine</tspan></text>
+<text fill="#146952" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-138" x="46.79 51.122 54.788003 60.122 63.458 67.124 69.122 72.458 75.794 79.46 81.458 83.792 87.128 90.794 92.462 94.13 97.796 99.464 102.799999 106.135997 107.80399 109.801998 113.467998 118.135997 121.47199 123.80599 127.47199 129.14 132.476 135.812 137.81 139.478 143.144">Human-centred, bias toward action</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="round" stroke-dasharray="2.5,1.6" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M22.4 40H171.2"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="round" stroke-dasharray="2.5,1.6" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M171.2 40V48"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M22.4 40V44"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M22.4 47.5 20.8038 44.49798H23.9962Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M59.6 40V44"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M59.6 47.5 58.0038 44.49798H61.1962Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M96.8 40V44"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M96.8 47.5 95.2038 44.49798H98.3962Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M134 40V44"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M134 47.5 132.4038 44.49798H135.5962Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-6" x="32.694 34.2508 36.1156 39.229204 41.4076 44.521203 46.386 49.499605 51.364404 52.921205 55.0996 58.213205 60.078004 63.499605 65.678 69.0996 70.6564 72.5212 75.9428 77.4996 80.613208 84.034809 87.14841 88.70521 93.68361 97.10521 100.52681 103.64041 105.19721 108.310817 111.424419 112.98122 114.53802 117.65162 120.76522 122.94362 126.36522 127.92202 131.34362 134.76522 136.322 139.7436 142.85721 147.8356 150.9492 154.3708 157.7924">iterate: return to any mode as learning demands</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 3 · Design Thinking Fundamentals</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

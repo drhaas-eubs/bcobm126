@@ -1,15 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Minimum Viable Product (MVP) framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#c2185b"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 08</text>
-<circle cx="348" cy="86" r="30" fill="#c2185b" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#c2185b" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">PROTOTYPING / LEAN</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Minimum Viable Product</tspan><tspan x="28" dy="30">(MVP)</tspan></text>
-<line x1="28" y1="180" x2="372" y2="180" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="202" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">The smallest solution that starts the</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 8 · Prototyping</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#c2185b"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 08</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">PROTOTYPING / LEAN</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="700" fill="#2F3465">Minimum</text>
+<text x="24" y="110.5" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="700" fill="#2F3465">Viable Product</text>
+<text x="24" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="700" fill="#2F3465">(MVP)</text>
+<rect x="24" y="147.5" width="34" height="3" fill="#c2185b"/>
+<text x="24" y="167.5" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">The smallest solution that</text>
+<text x="24" y="182.5" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">starts the</text>
+<text x="24" y="197.5" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">build–measure–learn loop</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.1" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M112.2508 123.5528 115.1251 122.5209 117.9309 121.3154 120.6579 119.9409 123.296 118.4024 125.8351 116.7058 128.266 114.8573 130.5795 112.8639 132.767 110.7329 134.8203 108.4724 136.7318 106.0908 138.4943 103.5968 140.1013 101 141.5467 98.30989 142.8252 95.53656 143.9321 92.69034 144.8631 89.78187 145.6148 86.82198 146.1844 83.82172 146.5698 80.79229 146.7695 77.74497 146.7829 74.69115 146.6097 71.64221 146.2508 68.60953"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M145.7074 65.60442 147.7298 68.33753 144.5724 68.8094Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.1" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M130.2565 38.84276 127.9257 36.86959 125.4788 35.0424 122.9249 33.36799 120.2736 31.85262 117.5347 30.50194 114.7184 29.32098 111.8353 28.31415 108.8961 27.48521 105.9118 26.83725 102.8935 26.37269 99.85243 26.09326 96.8 26 93.74757 26.09326 90.70653 26.37269 87.68822 26.83725 84.70391 27.48521 81.76471 28.31415 78.8816 29.32098 76.06534 30.50194 73.32642 31.85262 70.67507 33.36799 68.12118 35.0424 65.67427 36.86959"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M63.34347 38.84276 64.69922 35.72475 66.68654 38.22316Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width="1.1" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M47.89262 65.60442 47.34921 68.60953 46.99027 71.64221 46.81713 74.69115 46.83046 77.74497 47.03019 80.79229 47.41558 83.82172 47.9852 86.82198 48.73692 89.78187 49.66793 92.69034 50.77476 95.53656 52.05328 98.30989 53.49873 101 55.10571 103.5968 56.86822 106.0908 58.7797 108.4724 60.83301 110.7329 63.02049 112.8639 65.33398 114.8573 67.76485 116.7058 70.30404 118.4024 72.94206 119.9409 75.66909 121.3154 78.47494 122.5209"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M81.34915 123.5528 77.97101 123.9377 79.14103 120.9674Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M113.8 126C113.8 135.3888 106.1888 143 96.8 143 87.41116 143 79.8 135.3888 79.8 126 79.8 116.6112 87.41116 109 96.8 109 106.1888 109 113.8 116.6112 113.8 126" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M111.8 126C111.8 134.2843 105.0843 141 96.8 141 88.51573 141 81.8 134.2843 81.8 126 81.8 117.7157 88.51573 111 96.8 111 105.0843 111 111.8 117.7157 111.8 126" fill="#c2185b" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-123.8" x="87.9405 92.1281 96.3157 97.9281 101.4719">BUILD</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M157.1013 51C157.1013 60.38884 149.4901 68 140.1013 68 130.7124 68 123.1013 60.38884 123.1013 51 123.1013 41.61116 130.7124 34 140.1013 34 149.4901 34 157.1013 41.61116 157.1013 51" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M155.1013 51C155.1013 59.28427 148.3855 66 140.1013 66 131.817 66 125.1013 59.28427 125.1013 51 125.1013 42.71573 131.817 36 140.1013 36 148.3855 36 155.1013 42.71573 155.1013 51" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-48.8" x="127.6013 131.7663 135.1013 138.7113 142.04631 145.65631 149.26631">MEASURE</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M70.49873 51C70.49873 60.38884 62.88757 68 53.49873 68 44.10989 68 36.49873 60.38884 36.49873 51 36.49873 41.61116 44.10989 34 53.49873 34 62.88757 34 70.49873 41.61116 70.49873 51" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M68.49873 51C68.49873 59.28427 61.783 66 53.49873 66 45.21446 66 38.49873 59.28427 38.49873 51 38.49873 42.71573 45.21446 36 53.49873 36 61.783 36 68.49873 42.71573 68.49873 51" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-48.8" x="43.51113 47.05493 50.92353 55.11113 59.29873">LEARN</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-105" x="138.7818 142.9172 145.32901 149.1172 152.9054 156.69359 160.1408">Product</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-16" x="90.0823 94.5587 98.0059 100.070499">Data</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-105" x="35.17972 36.90332 40.69152 44.13872 47.585924">Ideas</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M76.8 64H116.8C119.0112 64 120.8 65.7888 120.8 68V84C120.8 86.2112 119.0112 88 116.8 88H76.8C74.5888 88 72.8 86.2112 72.8 84V68C72.8 65.7888 74.5888 64 76.8 64Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-78" x="87.332 94.796009 100.93201">MVP</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="4.9" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-69.5" x="76.51645 80.59815 81.68595 84.410358 85.49815 89.57986 90.667659 93.11765 95.84206 97.204257 98.29205 101.01646 103.74086 106.46526 107.82746 109.18966 110.27746 114.35916">minimise loop time</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 8 · Prototyping</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

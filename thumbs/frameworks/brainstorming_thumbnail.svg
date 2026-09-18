@@ -1,15 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Brainstorming framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#e0492f"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 07</text>
-<circle cx="348" cy="86" r="30" fill="#e0492f" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#e0492f" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">IDEATION METHOD</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">Brainstorming</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Defer judgement · go for quantity · build on ideas ·</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 7 · Ideation Techniques</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#e0492f"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 07</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">IDEATION METHOD</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Brainstorming</text>
+<rect x="24" y="107" width="34" height="3" fill="#e0492f"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Defer judgement · go for</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">quantity · build on ideas ·</text>
+<text x="24" y="157" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">welcome wild ideas</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 26.8 124"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 58.8 134"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 134.8 134"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 166.8 124"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 20.8 86"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 172.8 86"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 52.8 64"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M96.8 94 140.8 64"/>
+<path transform="matrix(.997324,.073109,.073109,-.997324,27.8,27)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#fbe6e2" fill-rule="evenodd"/>
+<path transform="matrix(.997324,.073109,.073109,-.997324,27.8,27)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.997324,.073109,.073109,-.997324,27.8,27)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.999924,-.012351,-.012351,-.999924,59.8,17)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#ffe9a8" fill-rule="evenodd"/>
+<path transform="matrix(.999924,-.012351,-.012351,-.999924,59.8,17)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.999924,-.012351,-.012351,-.999924,59.8,17)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.999341,.036307,.036307,-.999341,135.8,17)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#ffe9a8" fill-rule="evenodd"/>
+<path transform="matrix(.999341,.036307,.036307,-.999341,135.8,17)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.999341,.036307,.036307,-.999341,135.8,17)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.999579,-.029016,-.029016,-.999579,167.8,27)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#fbe6e2" fill-rule="evenodd"/>
+<path transform="matrix(.999579,-.029016,-.029016,-.999579,167.8,27)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.999579,-.029016,-.029016,-.999579,167.8,27)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.999384,-.035101,-.035101,-.999384,21.8,65)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#ffe9a8" fill-rule="evenodd"/>
+<path transform="matrix(.999384,-.035101,-.035101,-.999384,21.8,65)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.999384,-.035101,-.035101,-.999384,21.8,65)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.992649,.12103,.12103,-.992649,173.8,65)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#ffe9a8" fill-rule="evenodd"/>
+<path transform="matrix(.992649,.12103,.12103,-.992649,173.8,65)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.992649,.12103,.12103,-.992649,173.8,65)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.990773,.135531,.135531,-.990773,53.8,87)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#fbe6e2" fill-rule="evenodd"/>
+<path transform="matrix(.990773,.135531,.135531,-.990773,53.8,87)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.990773,.135531,.135531,-.990773,53.8,87)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(.995563,-.0941,-.0941,-.995563,141.8,87)" d="M-8.2-9H8.2C8.64224-9 9-8.64224 9-8.2V8.2C9 8.64224 8.64224 9 8.2 9H-8.2C-8.64224 9-9 8.64224-9 8.2V-8.2C-9-8.64224-8.64224-9-8.2-9Z" fill="#ffe9a8" fill-rule="evenodd"/>
+<path transform="matrix(.995563,-.0941,-.0941,-.995563,141.8,87)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5 2H5"/>
+<path transform="matrix(.995563,-.0941,-.0941,-.995563,141.8,87)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M-5-2H3"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M77.8 85H115.8C120.7752 85 124.8 89.0248 124.8 94 124.8 98.9752 120.7752 103 115.8 103H77.8C72.8248 103 68.8 98.9752 68.8 94 68.8 89.0248 72.8248 85 77.8 85Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-91.6" x="74.2674 79.5326 84.7978 90.062999 94.5956 99.1282 104.030399 109.29559 114.9304">CHALLENGE</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M13.5 20H89.3C92.8932 20 95.8 22.9068 95.8 26.5 95.8 30.0932 92.8932 33 89.3 33H13.5C9.9068 33 7 30.0932 7 26.5 7 22.9068 9.9068 20 13.5 20Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M19.6 26.5C19.6 29.04051 17.54051 31.1 15 31.1 12.45949 31.1 10.4 29.04051 10.4 26.5 10.4 23.95949 12.45949 21.9 15 21.9 17.54051 21.9 19.6 23.95949 19.6 26.5" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24.556" x="13.4988">1</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24.4" x="23 27.332 30.668002 32.666 36.002 38.336 40.003999 41.671998 45.337999 49.003999 52.67 56.005998 61.339998 64.675998 68.341999">Defer judgement</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M104.3 20H180.1C183.6932 20 186.6 22.9068 186.6 26.5 186.6 30.0932 183.6932 33 180.1 33H104.3C100.7068 33 97.8 30.0932 97.8 26.5 97.8 22.9068 100.7068 20 104.3 20Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M110.4 26.5C110.4 29.04051 108.3405 31.1 105.8 31.1 103.2595 31.1 101.2 29.04051 101.2 26.5 101.2 23.95949 103.2595 21.9 105.8 21.9 108.3405 21.9 110.4 23.95949 110.4 26.5" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24.556" x="104.2988">2</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24.4" x="113.8 118.468 122.134 123.802 125.8 129.466 131.8 133.468 137.134 140.8 144.136 147.802 149.8 151.468 153.466">Go for quantity</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M13.5 4H89.3C92.8932 4 95.8 6.9068 95.8 10.5 95.8 14.0932 92.8932 17 89.3 17H13.5C9.9068 17 7 14.0932 7 10.5 7 6.9068 9.9068 4 13.5 4Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M19.6 10.5C19.6 13.04051 17.54051 15.1 15 15.1 12.45949 15.1 10.4 13.04051 10.4 10.5 10.4 7.95949 12.45949 5.9 15 5.9 17.54051 5.9 19.6 7.95949 19.6 10.5" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-8.556" x="13.4988">3</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-8.4" x="23 27.332 30.998002 32.666 34.334 38 39.668 43.334 47 48.668 50.336 54.002 57.337999 60.673997">Build on ideas</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M104.3 4H180.1C183.6932 4 186.6 6.9068 186.6 10.5 186.6 14.0932 183.6932 17 180.1 17H104.3C100.7068 17 97.8 14.0932 97.8 10.5 97.8 6.9068 100.7068 4 104.3 4Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M110.4 10.5C110.4 13.04051 108.3405 15.1 105.8 15.1 103.2595 15.1 101.2 13.04051 101.2 10.5 101.2 7.95949 103.2595 5.9 105.8 5.9 108.3405 5.9 110.4 7.95949 110.4 10.5" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-8.556" x="104.2988">4</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-8.4" x="113.8 119.464008 122.8 124.468 127.804 131.47 136.804 140.14 141.808 146.476 148.144 149.812 153.478 155.146 156.814 160.48 163.816 167.152">Welcome wild ideas</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 7 · Ideation Techniques</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

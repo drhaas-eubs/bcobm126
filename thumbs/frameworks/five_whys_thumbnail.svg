@@ -1,15 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="5 Whys framework thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#7cb342"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 04</text>
-<circle cx="348" cy="86" r="30" fill="#7cb342" opacity="0.14"/>
-<circle cx="348" cy="86" r="18" fill="#7cb342" opacity="0.30"/>
-<text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">ROOT-CAUSE ANALYSIS</text>
-<text x="28" y="118" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F3465"><tspan x="28" dy="0">5 Whys</tspan></text>
-<line x1="28" y1="150" x2="372" y2="150" stroke="#d7dbe6" stroke-width="1"/>
-<text x="28" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5b6577">Iterative questioning to reach a root cause</text>
-<text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 4 · Understanding the Problem</text>
-<text x="372" y="280" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#7cb342"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · FRAMEWORK</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">SLIBRARY 04</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">ROOT-CAUSE ANALYSIS</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">5 Whys</text>
+<rect x="24" y="107" width="34" height="3" fill="#7cb342"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Iterative questioning to</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">reach a root cause</text>
+<svg x="154.0" y="58.0" width="224.0" height="200.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 195.6 152">
+<path transform="matrix(1,0,0,-1,1,151)" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M4 0H189.6C191.8112 0 193.6 1.7888 193.6 4V146C193.6 148.2112 191.8112 150 189.6 150H4C1.7888 150 0 148.2112 0 146V4C0 1.7888 1.7888 0 4 0Z"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M8.5 124H77.5C78.882 124 80 125.118 80 126.5V141.5C80 142.882 78.882 144 77.5 144H8.5C7.118 144 6 142.882 6 141.5V126.5C6 125.118 7.118 124 8.5 124Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M8.5 124H77.5C78.882 124 80 125.118 80 126.5V141.5C80 142.882 78.882 144 77.5 144H8.5C7.118 144 6 142.882 6 141.5V126.5C6 125.118 7.118 124 8.5 124Z"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-135.5" x="25.5 30.2688 35.389604 40.868806 45.989606 50.400007 55.168806">PROBLEM</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.2" font-family="Arial, Helvetica, sans-serif"><tspan y="-128.5" x="20.172 21.617602 24.5088 27.400002 28.845602 31.445603 32.600004 35.2 36.3544 39.2456 40.4 43.291204 44.7368 47.3368 49.9368 54.2684 57.1596 58.605199 61.4964">the visible symptom</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" d="M18 104H94C95.1056 104 96 104.8944 96 106V116C96 117.1056 95.1056 118 94 118H18C16.8944 118 16 117.1056 16 116V106C16 104.8944 16.8944 104 18 104Z" fill="#e7f1dd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M28.6 111C28.6 114.0928 26.09279 116.6 23 116.6 19.90721 116.6 17.4 114.0928 17.4 111 17.4 107.9072 19.90721 105.4 23 105.4 26.09279 105.4 28.6 107.9072 28.6 111" fill="#7cb342" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-108.768" x="21.2764">1</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-108.6" x="32 38.0416 41.952 45.5104">Why?</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-108.6" x="53 58.6 61.7136 64.8272 67.627208 70.74081 73.85441 76.65441">&#x2026;because</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M24 124 23.32199 120.271"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M23 118.5 24.85954 120.8542 22.08814 121.3581Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M38 86.5H114C115.1056 86.5 116 87.3944 116 88.5V98.5C116 99.6056 115.1056 100.5 114 100.5H38C36.8944 100.5 36 99.6056 36 98.5V88.5C36 87.3944 36.8944 86.5 38 86.5Z" fill="#e5eedd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M48.6 93.5C48.6 96.59279 46.09279 99.1 43 99.1 39.90721 99.1 37.4 96.59279 37.4 93.5 37.4 90.40721 39.90721 87.9 43 87.9 46.09279 87.9 48.6 90.40721 48.6 93.5" fill="#6ea043" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-91.268" x="41.2764">2</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-91.1" x="52 58.0416 61.952 65.5104">Why?</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-91.1" x="73 78.6 81.7136 84.8272 87.627208 90.74081 93.85441 96.65441">&#x2026;because</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M23 104 41.21991 101.267"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M43 101 40.58939 102.7858 40.17154 100.0001Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M58 69H134C135.1056 69 136 69.8944 136 71V81C136 82.1056 135.1056 83 134 83H58C56.8944 83 56 82.1056 56 81V71C56 69.8944 56.8944 69 58 69Z" fill="#e3eadd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M68.6 76C68.6 79.09279 66.09279 81.6 63 81.6 59.90721 81.6 57.4 79.09279 57.4 76 57.4 72.90721 59.90721 70.4 63 70.4 66.09279 70.4 68.6 72.90721 68.6 76" fill="#618d44" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-73.768" x="61.2764">3</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-73.6" x="72 78.0416 81.952 85.51041">Why?</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-73.6" x="93 98.6 101.7136 104.8272 107.627208 110.74081 113.85441 116.65441">&#x2026;because</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M43 86.5 61.21991 83.76701"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M63 83.5 60.58939 85.28576 60.17154 82.5001Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M78 51.5H154C155.1056 51.5 156 52.3944 156 53.5V63.5C156 64.6056 155.1056 65.5 154 65.5H78C76.8944 65.5 76 64.6056 76 63.5V53.5C76 52.3944 76.8944 51.5 78 51.5Z" fill="#e0e7de" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M88.6 58.5C88.6 61.59279 86.09279 64.1 83 64.1 79.90721 64.1 77.4 61.59279 77.4 58.5 77.4 55.40721 79.90721 52.9 83 52.9 86.09279 52.9 88.6 55.40721 88.6 58.5" fill="#537945" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-56.268" x="81.2764">4</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-56.1" x="92 98.0416 101.952 105.51041">Why?</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-56.1" x="113 118.6 121.7136 124.8272 127.627208 130.7408 133.8544 136.6544">&#x2026;because</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M63 69 81.21991 66.26701"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M83 66 80.58939 67.78576 80.17154 65.0001Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M98 34H174C175.1056 34 176 34.8944 176 36V46C176 47.1056 175.1056 48 174 48H98C96.8944 48 96 47.1056 96 46V36C96 34.8944 96.8944 34 98 34Z" fill="#dee4de" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M108.6 41C108.6 44.09279 106.0928 46.6 103 46.6 99.90721 46.6 97.4 44.09279 97.4 41 97.4 37.90721 99.90721 35.4 103 35.4 106.0928 35.4 108.6 37.90721 108.6 41" fill="#466646" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-38.768" x="101.2764">5</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-38.6" x="112 118.0416 121.952 125.51041">Why?</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-38.6" x="133 138.6 141.71361 144.82721 147.62722 150.74082 153.85442 156.65442">&#x2026;because</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M83 51.5 101.2199 48.76701"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M103 48.5 100.5894 50.28576 100.1715 47.5001Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M114.6 6H184.6C186.2584 6 187.6 7.3416 187.6 9V25C187.6 26.6584 186.2584 28 184.6 28H114.6C112.9416 28 111.6 26.6584 111.6 25V9C111.6 7.3416 112.9416 6 114.6 6Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="6.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-18.5" x="124.6822 130.0918 135.8822 141.6726 146.32741 148.7178 154.12741 159.53702 164.94663 169.98223">ROOT CAUSE</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 1 151)" font-size="5" font-family="Arial, Helvetica, sans-serif"><tspan y="-11" x="116.11 117.5 118.61 121.11 122.5 123.89 126.67 129.45 130.84 133.62 135.28499 138.06499 140.56499 143.34499 145.84499 148.34499 149.73499 151.12499 153.90499 156.68498 158.07498 159.46498 160.85498 163.63498 166.41498 167.80498 170.58498 173.36498 175.02997 177.52997 180.30997">fix the process, not the person</tspan></text>
+<path transform="matrix(1,0,0,-1,1,151)" stroke-width=".8" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M103 34 131.8284 28.81843"/>
+<path transform="matrix(1,0,0,-1,1,151)" d="M133.6 28.5 131.2421 30.35479 130.7438 27.58239Z" fill="#b45309" fill-rule="evenodd"/>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Unit 4 · Understanding the Problem</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>
