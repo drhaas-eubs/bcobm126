@@ -1,16 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Thomas Wedell-Wedellsborg author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U4 · U6</text>
-<circle cx="82" cy="150" r="52" fill="#7cb342" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#7cb342" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">TW</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Thomas</tspan><tspan x="150" dy="28">Wedell-Wedellsborg</tspan></text>
-<line x1="150" y1="210" x2="372" y2="210" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="230" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">Reframing &amp; the Art of Solving the Right</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U4 · U6</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" fill="#2F3465">Thomas</text>
+<text x="24" y="105.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" fill="#2F3465">Wedell-Wedellsborg</text>
+<rect x="24" y="117.0" width="34" height="3" fill="#b45309"/>
+<text x="24" y="137.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Reframing &amp; the Art of</text>
+<text x="24" y="152.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Solving the Right Problem</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="7.2531 11.0413 16.8941">TWW</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 34.198404 38.201604 40.5992 43.4 47.403203 53.804 55.8056 60.2048">Reframing</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#3d6fb6" d="M22.94744 51 23.97866 52.61868 25.14702 54.14133 26.44365 55.55635 27.85867 56.85298 29.38132 58.02134 31 59.05256 32.7024 59.93877 34.47556 60.67324 36.30598 61.25037 38.17974 61.66577 40.08257 61.91628 42 62 43.91743 61.91628 45.82026 61.66577 47.69402 61.25037 49.52444 60.67324 51.2976 59.93877 53 59.05256 54.61868 58.02134 56.14133 56.85298 57.55635 55.55635 58.85298 54.14133 60.02134 52.61868"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M61.05256 51 60.6382 54.37466 58.02314 52.54357Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#2f3465" d="M61.05256 29 60.02134 27.38132 58.85298 25.85867 57.55635 24.44365 56.14133 23.14702 54.61868 21.97866 53 20.94744 51.2976 20.06123 49.52444 19.32676 47.69402 18.74963 45.82026 18.33423 43.91743 18.08372 42 18 40.08257 18.08372 38.17974 18.33423 36.30598 18.74963 34.47556 19.32676 32.7024 20.06123 31 20.94744 29.38132 21.97866 27.85867 23.14702 26.44365 24.44365 25.14702 25.85867 23.97866 27.38132"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M22.94744 29 23.3618 25.62534 25.97686 27.45643Z" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M5 33H19C22.8696 33 26 36.1304 26 40 26 43.8696 22.8696 47 19 47H5C1.1304 47-2 43.8696-2 40-2 36.1304 1.1304 33 5 33Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-37.8" x="3.2971 6.8409006 9.097101 12.321901 17.478102">Frame</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M65 33H83C86.8696 33 90 36.1304 90 40 90 43.8696 86.8696 47 83 47H65C61.1304 47 58 43.8696 58 40 58 36.1304 61.1304 33 65 33Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-37.8" x="62.3971 66.5847 69.8095 71.7409 73.9971 77.2219 82.3781">Reframe</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M92 40H102.96"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M105 40 101.998 41.5962V38.4038Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M110 31H138C139.6584 31 141 32.3416 141 34V46C141 47.6584 139.6584 49 138 49H110C108.3416 49 107 47.6584 107 46V34C107 32.3416 108.3416 31 110 31Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.8" x="116.8432 121.508 124.9296 128.0432">Move</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-34.4" x="113.7324 115.5972 119.0188 121.1972 125.554 128.6676 130.84601">forward</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-4" x="27.1407 28.6419 31.644299 33.1455 34.9437 38.2431 39.7443 42.7467 44.247903 46.0461 49.3455 52.3479 53.849103 55.949705 57.450906 60.750307 64.049709 65.84791 67.349109 70.648509 72.74911 76.04851 79.34791 80.849109 83.85151 88.65211 90.153308 91.95151 95.25091 96.752109 99.75451 103.05391 104.55511 107.55751 110.55991">is this the right problem to solve?</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

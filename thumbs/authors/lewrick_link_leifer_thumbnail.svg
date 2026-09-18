@@ -1,16 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Michael Lewrick, Patrick Link &amp; Larry Leifer author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U3 · U5 · U6 · U10</text>
-<circle cx="82" cy="150" r="52" fill="#0f9d58" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#0f9d58" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">MLP</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Michael Lewrick,</tspan><tspan x="150" dy="28">Patrick Link &amp; Larry</tspan><tspan x="150" dy="28">Leifer</tspan></text>
-<line x1="150" y1="238" x2="372" y2="238" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">The Design Thinking Playbook &amp; Toolbox</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U3 · U5 · U6 · U10</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="15.5" font-weight="700" fill="#2F3465">Michael Lewrick,</text>
+<text x="24" y="108.5" font-family="Arial, Helvetica, sans-serif" font-size="15.5" font-weight="700" fill="#2F3465">Patrick Link &amp;</text>
+<text x="24" y="127.0" font-family="Arial, Helvetica, sans-serif" font-size="15.5" font-weight="700" fill="#2F3465">Larry Leifer</text>
+<rect x="24" y="141.5" width="34" height="3" fill="#b45309"/>
+<text x="24" y="161.5" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">The Design Thinking</text>
+<text x="24" y="176.5" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Playbook &amp; Toolbox</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.3177 13.1059 16.8941">LLL</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 33.3992 37.7984 41.8016 43.8032 49.001604 53.004804 57.008005 59.0096 63.408803 67.808 69.8096 74.2088 78.608 80.609607 85.008808 89.012 91.0136 95.4128 99.812007 101.81361 106.21281 110.61201 115.01121 117.01281 121.41201 125.81121">The Design Thinking Toolbox</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-57" x="0 3.7352002 6.8488008 9.027201 12.1408 15.562401 18.984002 22.0976 23.654402 27.697602 29.254403 32.368005 37.346406 40.768007 43.881608 45.746408 49.168008">Persona &#x0026; empathy</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M79 53H85.5C86.0528 53 86.5 53.4472 86.5 54V64C86.5 64.5528 86.0528 65 85.5 65H79C78.4472 65 78 64.5528 78 64V54C78 53.4472 78.4472 53 79 53Z" fill="#3d6fb6" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M89.5 53H96C96.5528 53 97 53.4472 97 54V64C97 64.5528 96.5528 65 96 65H89.5C88.9472 65 88.5 64.5528 88.5 64V54C88.5 53.4472 88.9472 53 89.5 53Z" fill="#3d6fb6" fill-opacity=".37" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M100 53H106.5C107.0528 53 107.5 53.4472 107.5 54V64C107.5 64.5528 107.0528 65 106.5 65H100C99.4472 65 99 64.5528 99 64V54C99 53.4472 99.4472 53 100 53Z" fill="#3d6fb6" fill-opacity=".49" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M110.5 53H117C117.5528 53 118 53.4472 118 54V64C118 64.5528 117.5528 65 117 65H110.5C109.9472 65 109.5 64.5528 109.5 64V54C109.5 53.4472 109.9472 53 110.5 53Z" fill="#3d6fb6" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M121 53H127.5C128.0528 53 128.5 53.4472 128.5 54V64C128.5 64.5528 128.0528 65 127.5 65H121C120.4472 65 120 64.5528 120 64V54C120 53.4472 120.4472 53 121 53Z" fill="#3d6fb6" fill-opacity=".37" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M131.5 53H138C138.5528 53 139 53.4472 139 54V64C139 64.5528 138.5528 65 138 65H131.5C130.9472 65 130.5 64.5528 130.5 64V54C130.5 53.4472 130.9472 53 131.5 53Z" fill="#3d6fb6" fill-opacity=".49" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-35" x="0 3.4215999 5.6 8.7136 12.1352009 15.556801 17.113602 21.156804 22.713604 25.827204 29.248805 32.670404 34.535203 37.648805 40.762407">Trend &#x0026; context</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M79 31H85.5C86.0528 31 86.5 31.4472 86.5 32V42C86.5 42.5528 86.0528 43 85.5 43H79C78.4472 43 78 42.5528 78 42V32C78 31.4472 78.4472 31 79 31Z" fill="#2f3465" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M89.5 31H96C96.5528 31 97 31.4472 97 32V42C97 42.5528 96.5528 43 96 43H89.5C88.9472 43 88.5 42.5528 88.5 42V32C88.5 31.4472 88.9472 31 89.5 31Z" fill="#2f3465" fill-opacity=".37" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M100 31H106.5C107.0528 31 107.5 31.4472 107.5 32V42C107.5 42.5528 107.0528 43 106.5 43H100C99.4472 43 99 42.5528 99 42V32C99 31.4472 99.4472 31 100 31Z" fill="#2f3465" fill-opacity=".49" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M110.5 31H117C117.5528 31 118 31.4472 118 32V42C118 42.5528 117.5528 43 117 43H110.5C109.9472 43 109.5 42.5528 109.5 42V32C109.5 31.4472 109.9472 31 110.5 31Z" fill="#2f3465" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M121 31H127.5C128.0528 31 128.5 31.4472 128.5 32V42C128.5 42.5528 128.0528 43 127.5 43H121C120.4472 43 120 42.5528 120 42V32C120 31.4472 120.4472 31 121 31Z" fill="#2f3465" fill-opacity=".37" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M131.5 31H138C138.5528 31 139 31.4472 139 32V42C139 42.5528 138.5528 43 138 43H131.5C130.9472 43 130.5 42.5528 130.5 42V32C130.5 31.4472 130.9472 31 131.5 31Z" fill="#2f3465" fill-opacity=".49" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-13" x="0 4.0432007 6.2216007 7.7784006 9.6432 11.2 14.313601 17.4272 18.984002 20.540802 22.097603 23.962403 27.076003 32.0544 35.168004 36.724805 40.768007 42.324808 45.438409 48.86001 51.97361 55.08721 58.200815 61.314416">Critical items &#x0026; success</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M79 9H85.5C86.0528 9 86.5 9.4472 86.5 10V20C86.5 20.5528 86.0528 21 85.5 21H79C78.4472 21 78 20.5528 78 20V10C78 9.4472 78.4472 9 79 9Z" fill="#b45309" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M89.5 9H96C96.5528 9 97 9.4472 97 10V20C97 20.5528 96.5528 21 96 21H89.5C88.9472 21 88.5 20.5528 88.5 20V10C88.5 9.4472 88.9472 9 89.5 9Z" fill="#b45309" fill-opacity=".37" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M100 9H106.5C107.0528 9 107.5 9.4472 107.5 10V20C107.5 20.5528 107.0528 21 106.5 21H100C99.4472 21 99 20.5528 99 20V10C99 9.4472 99.4472 9 100 9Z" fill="#b45309" fill-opacity=".49" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M110.5 9H117C117.5528 9 118 9.4472 118 10V20C118 20.5528 117.5528 21 117 21H110.5C109.9472 21 109.5 20.5528 109.5 20V10C109.5 9.4472 109.9472 9 110.5 9Z" fill="#b45309" fill-opacity=".25" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M121 9H127.5C128.0528 9 128.5 9.4472 128.5 10V20C128.5 20.5528 128.0528 21 127.5 21H121C120.4472 21 120 20.5528 120 20V10C120 9.4472 120.4472 9 121 9Z" fill="#b45309" fill-opacity=".37" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M131.5 9H138C138.5528 9 139 9.4472 139 10V20C139 20.5528 138.5528 21 138 21H131.5C130.9472 21 130.5 20.5528 130.5 20V10C130.5 9.4472 130.9472 9 131.5 9Z" fill="#b45309" fill-opacity=".49" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-2" x="41.0187 44.1723 47.174699 50.177099 51.6783 54.9777 57.9801 61.2795 64.578899 67.5813 69.3795 72.6789 75.9783 77.4795 82.2801 85.2825 87.0807 90.380107 93.679508 96.978908">~50 hands-on methods</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

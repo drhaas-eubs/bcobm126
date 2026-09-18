@@ -1,16 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Mauro Porcini author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U10</text>
-<circle cx="82" cy="150" r="52" fill="#4527a0" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#4527a0" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">MP</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Mauro Porcini</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">Scaling Human-Centred Design in Large</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U10</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Mauro Porcini</text>
+<rect x="24" y="107" width="34" height="3" fill="#b45309"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Scaling Human-Centred</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Design in Large</text>
+<text x="24" y="157" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Organisations</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.45 15.614201">MP</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 34.198404 38.597604 40.5992 42.6008 47 49.0016 53.4008 57.8 59.801599 63.8048 65.8064 70.2056 74.20879 78.21199 80.21359 84.61279 89.01199 91.013599 93.411197 97.810398 102.209598 106.21279 108.61039 110.61199 115.01119">Building a design function</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M31 42H138C139.6584 42 141 43.3416 141 45V61C141 62.6584 139.6584 64 138 64H31C29.3416 64 28 62.6584 28 61V45C28 43.3416 29.3416 42 31 42Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-54.5" x="48.2876 52.456205 56.300004 60.787607 65.27521 69.11901 73.28761 78.10001 80.01241 84.500019 86.412418 90.90002 92.812419 97.30002 101.46862 105.95622 109.800029 111.712429 116.524829">STRATEGIC DIRECTION</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-47" x="57.7642 61.5186 64.4098 67.009799 68.4554 71.346599 74.23779 77.12899 78.57459 82.328998 85.22019 88.11139 89.55699 91.002597 92.4482 95.33939 96.784999 99.384998 101.11659 104.00779 106.89899 108.34459">why and what to create</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M31 16H138C139.6584 16 141 17.3416 141 19V35C141 36.6584 139.6584 38 138 38H31C29.3416 38 28 36.6584 28 35V19C28 17.3416 29.3416 16 31 16Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-28.5" x="50.6843 54.8529 59.021505 63.190107 67.677707 72.165309 76.00911 77.92151 82.73391 87.22151 91.709117 95.55292 97.46532 101.95292 106.44052 110.92812 114.77193">EXECUTIONAL CRAFT</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-21" x="62.8264 65.7176 68.608798 72.3632 73.8088 74.9632 76.408809 77.85441 79.00881 81.60881 83.05441 87.38602 90.277217 93.16841 96.05961 97.50521 99.23681 102.128009 105.0192">how it is made real</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M18 18V62"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M18 18H23"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M18 62H23"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(0 -1 1 0 18.035456 70)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="0" x="-12.752 -7.9199998 -3.4179993 1.0840011 3.2520014 8.420002">DESIGN</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-4" x="46.8904 50.1898 53.1922 56.4916 59.791 61.292203 64.2946 65.7958 67.297 70.5964 72.097599 73.59879 76.89819 79.9006 82.903 84.4042 88.6054 90.1066 91.9048 95.2042 96.7054 100.0048 103.0072 106.3066 109.606 111.1072">people in love with people</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

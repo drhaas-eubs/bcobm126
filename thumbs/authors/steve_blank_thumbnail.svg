@@ -1,16 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Steve Blank author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U8 · U9</text>
-<circle cx="82" cy="150" r="52" fill="#c2185b" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#c2185b" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">SB</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Steve Blank</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">Customer Development &amp; Getting Out of</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U8 · U9</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Steve Blank</text>
+<rect x="24" y="107" width="34" height="3" fill="#b45309"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Customer Development &amp;</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Getting Out of the Building</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.8607 14.7965">SB</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 34.198404 38.597604 42.600805 44.9984 49.397603 55.7984 59.8016 62.6024 64.604007 69.80241 73.8056 77.8088 81.812 83.8136 88.2128 92.612 99.0128 103.016 107.4152">Customer Development</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M3.5 32H31.75C32.8556 32 33.75 32.8944 33.75 34V56C33.75 57.1056 32.8556 58 31.75 58H3.5C2.3944 58 1.5 57.1056 1.5 56V34C1.5 32.8944 2.3944 32 3.5 32Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-47" x="5.4908 9.2452 12.4223999 15.3136 17.0452 20.2224 24.845202 27.7364">Customer</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40" x="5.4856 8.6628 10.1084 12.9996 15.8908 19.068 21.959202 24.850403 26.873204">discovery</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M38.75 32H67C68.1056 32 69 32.8944 69 34V56C69 57.1056 68.1056 58 67 58H38.75C37.6444 58 36.75 57.1056 36.75 56V34C36.75 32.8944 37.6444 32 38.75 32Z" fill="#3661a0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-47" x="40.7408 44.4952 47.6724 50.563604 52.295206 55.472406 60.095205 62.986406">Customer</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40" x="40.7382 43.629404 46.520605 47.9662 49.4118 52.589 55.4802 57.211805 58.657403 61.834604">validation</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M74 32H102.25C103.3556 32 104.25 32.8944 104.25 34V56C104.25 57.1056 103.3556 58 102.25 58H74C72.8944 58 72 57.1056 72 56V34C72 32.8944 72.8944 32 74 32Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-47" x="75.9908 79.7452 82.9224 85.8136 87.5452 90.7224 95.3452 98.2364">Customer</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40" x="78.011 80.9022 82.924999 85.81619 88.70739 90.43899 91.88459 95.06179">creation</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M109.25 32H137.5C138.6056 32 139.5 32.8944 139.5 34V56C139.5 57.1056 138.6056 58 137.5 58H109.25C108.1444 58 107.25 57.1056 107.25 56V34C107.25 32.8944 108.1444 32 109.25 32Z" fill="#4e527c" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-47" x="111.5294 115.283809 118.461009 123.08381 126.26101 129.1522 132.3294">Company</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40" x="113.2636 116.4408 119.618007 121.06361 122.50921 125.68641 127.13201 130.3092">building</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-dasharray="2,1.4" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M52.875 31C52.875 16 17.625 16 17.625 30"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M17.625 31.5 16.21659 28.85116H19.03341Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-6" x="28.5608 31.9824 33.5392 36.6528 40.0744">pivot</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".6" stroke-linecap="round" stroke-dasharray="2,1.5" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M70.5 26V62"/>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-68" x="26.5452 29.5476 32.55 35.5524 37.653 40.6554">search</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-68" x="95.6952 98.6976 101.700008 104.70241 107.70481 111.00421 112.802417">execute</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

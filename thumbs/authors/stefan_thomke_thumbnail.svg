@@ -1,16 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Stefan H. Thomke author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U9</text>
-<circle cx="82" cy="150" r="52" fill="#8e24aa" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#8e24aa" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">SHT</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Stefan H. Thomke</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">Experimentation Works &amp; the Business of</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U9</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Stefan H.</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Thomke</text>
+<rect x="24" y="128" width="34" height="3" fill="#b45309"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Experimentation Works &amp;</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">the Business of Testing</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="10.2714 15.207201">ST</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 33.8024 37.8056 42.2048 46.208 49.0088 51.0104 57.411199 61.4144 65.8136 68.2112 72.21439 74.61199 76.613597 81.012798 85.411998 87.4136 91.416797 95.41999 97.42159 101.42479 105.427989 109.82719 113.83038 118.22958 120.231189 122.23279 124.23439 126.63199">Experimentation as capability</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M54.52091 59.57106 55.57432 59.02463 56.59944 58.4268 57.59375 57.77903 58.55483 57.0829 59.48032 56.34011 60.36796 55.55249 61.21559 54.72195 62.02112 53.85053 62.7826 52.94035 63.49815 51.99365 64.16603 51.01273 64.78461 50 65.35237 48.95793 65.86793 47.88907 66.33002 46.79603 66.73752 45.68148 67.08943 44.54816 67.38488 43.39883 67.62316 42.23629 67.80369 41.0634 67.92602 39.88302 67.98985 38.69803 67.99502 37.51134"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M67.94154 36.32584 69.30612 38.77082 66.67763 38.82435Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M57.42063 18.1031 56.4207 17.46403 55.39041 16.87517 54.33227 16.33795 53.24886 15.8537 52.14285 15.4236 51.01692 15.04869 49.87384 14.72989 48.7164 14.46799 47.54743 14.26362 46.36978 14.11728 45.18634 14.02934 44 14 42.81366 14.02934 41.63022 14.11728 40.45257 14.26362 39.2836 14.46799 38.12616 14.72989 36.98308 15.04869 35.85715 15.4236 34.75114 15.8537 33.66773 16.33795 32.60959 16.87517 31.5793 17.46403"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M30.57937 18.1031 32.01449 15.69885 33.37509 17.94842Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M20.05846 36.32584 20.00498 37.51134 20.01015 38.69803 20.07398 39.88302 20.19631 41.0634 20.37684 42.23629 20.61512 43.39883 20.91057 44.54816 21.26248 45.68148 21.66998 46.79603 22.13207 47.88907 22.64763 48.95793 23.21539 50 23.83397 51.01273 24.50185 51.99365 25.2174 52.94035 25.97888 53.85053 26.78441 54.72195 27.63204 55.55249 28.51968 56.34011 29.44517 57.0829 30.40625 57.77903 31.40056 58.4268 32.42568 59.02463"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M33.47909 59.57106 30.67939 59.53033 31.94728 57.22723Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M31 56H57C60.3168 56 63 58.6832 63 62 63 65.3168 60.3168 68 57 68H31C27.6832 68 25 65.3168 25 62 25 58.6832 27.6832 56 31 56Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-60" x="29.7165 33.5431 36.4899 39.7282 42.9665 44.7314 47.9697 50.9165 53.8633 55.3367">Hypothesis</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M51.78461 20H77.78461C81.10141 20 83.78461 22.6832 83.78461 26 83.78461 29.3168 81.10141 32 77.78461 32H51.78461C48.46781 32 45.78461 29.3168 45.78461 26 45.78461 22.6832 48.46781 20 51.78461 20Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24" x="50.35271 53.88781 56.83461 60.07291 63.01971 65.08141 66.55482 71.26652 74.21332 77.451618">Experiment</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M10.21539 20H36.21539C39.53219 20 42.21539 22.6832 42.21539 26 42.21539 29.3168 39.53219 32 36.21539 32H10.21539C6.89859 32 4.21539 29.3168 4.21539 26 4.21539 22.6832 6.89859 20 10.21539 20Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24" x="15.99944 19.23774 22.18454 25.13134 27.19304">Learn</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M107 52H135C138.3168 52 141 54.6832 141 58 141 61.3168 138.3168 64 135 64H107C103.6832 64 101 61.3168 101 58 101 54.6832 103.6832 52 107 52Z" fill="#fdf3e3" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-56" x="112.619 115.8438 119.3876 122.612407 125.837207">cheap</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M107 36H135C138.3168 36 141 38.6832 141 42 141 45.3168 138.3168 48 135 48H107C103.6832 48 101 45.3168 101 42 101 38.6832 103.6832 36 107 36Z" fill="#fdf3e3" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40" x="115.8438 117.7752 121 124.2248">fast</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M107 20H135C138.3168 20 141 22.6832 141 26 141 29.3168 138.3168 32 135 32H107C103.6832 32 101 29.3168 101 26 101 22.6832 103.6832 20 107 20Z" fill="#fdf3e3" fill-rule="evenodd"/>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-24" x="109.4 111.3314 113.5876 116.8124 120.3562 123.9 127.1248 130.6686">frequent</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

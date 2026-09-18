@@ -1,16 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Ed Catmull author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U2</text>
-<circle cx="82" cy="150" r="52" fill="#008699" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#008699" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">EC</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Ed Catmull</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">Creativity, Inc. &amp; Sustaining a Creative</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U2</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Ed Catmull</text>
+<rect x="24" y="107" width="34" height="3" fill="#b45309"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Creativity, Inc. &amp;</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Sustaining a Creative</text>
+<text x="24" y="157" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Culture</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.8607 14.7965">EC</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 33.3992 37.7984 41.8016 43.8032 49.001604 51.802404 55.805604 57.8072 62.2064 64.604007 67.4048 71.804 75.8072">The Braintrust</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M58.5 64V52.56"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M58.5 51 59.72063 53.29566H57.27937Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M63.5 64C63.5 66.76142 61.26142 69 58.5 69 55.73858 69 53.5 66.76142 53.5 64 53.5 61.23858 55.73858 59 58.5 59 61.26142 59 63.5 61.23858 63.5 64" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M32.51924 52 44.96332 46.16252"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M46.37564 45.5 44.81568 47.58003 43.7789 45.36987Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M37.51924 52C37.51924 54.76142 35.28066 57 32.51924 57 29.75781 57 27.51924 54.76142 27.51924 52 27.51924 49.23858 29.75781 47 32.51924 47 35.28066 47 37.51924 49.23858 37.51924 52" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M32.51924 28 44.96332 33.83748"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M46.37564 34.5 43.7789 34.63013 44.81568 32.41997Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M37.51924 28C37.51924 30.76142 35.28066 33 32.51924 33 29.75781 33 27.51924 30.76142 27.51924 28 27.51924 25.23858 29.75781 23 32.51924 23 35.28066 23 37.51924 25.23858 37.51924 28" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M58.5 16V27.44"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M58.5 29 57.27937 26.70434H59.72063Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M63.5 16C63.5 18.76142 61.26142 21 58.5 21 55.73858 21 53.5 18.76142 53.5 16 53.5 13.23858 55.73858 11 58.5 11 61.26142 11 63.5 13.23858 63.5 16" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M84.48076 28 72.03668 33.83748"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M70.62436 34.5 72.18432 32.41997 73.2211 34.63013Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M89.48076 28C89.48076 30.76142 87.24219 33 84.48076 33 81.71934 33 79.48076 30.76142 79.48076 28 79.48076 25.23858 81.71934 23 84.48076 23 87.24219 23 89.48076 25.23858 89.48076 28" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M84.48076 52 72.03668 46.16252"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M70.62436 45.5 73.2211 45.36987 72.18432 47.58003Z" fill="#b45309" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M89.48076 52C89.48076 54.76142 87.24219 57 84.48076 57 81.71934 57 79.48076 54.76142 79.48076 52 79.48076 49.23858 81.71934 47 84.48076 47 87.24219 47 89.48076 49.23858 89.48076 52" fill="#2f3465" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M47.5 32H69.5C70.6056 32 71.5 32.8944 71.5 34V46C71.5 47.1056 70.6056 48 69.5 48H47.5C46.3944 48 45.5 47.1056 45.5 46V34C45.5 32.8944 46.3944 32 47.5 32Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1b2a4a" d="M47.5 32H69.5C70.6056 32 71.5 32.8944 71.5 34V46C71.5 47.1056 70.6056 48 69.5 48H47.5C46.3944 48 45.5 47.1056 45.5 46V34C45.5 32.8944 46.3944 32 47.5 32Z"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.5" x="49.7475 53.6375 56.6925 58.6375 61.4175 62.8075 64.1975">work in</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-34.5" x="47.8025 50.857503 52.8025 55.857503 58.912504 60.857503 63.6375 66.4175">progress</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-50" x="107.5672 110.6808 113.7944 117.216 120.6376 122.194408 125.616008 127.172809 130.5944 133.70801 136.82161">candid peer</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-43" x="114.108 117.5296 120.9512 122.816 125.9296 129.0432 130.59999 132.15679 135.57839">notes, no</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-36" x="115.0432 118.1568 121.5784 123.4432 126.8648 130.28639 132.4648 134.02159 135.8864">authority</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-22" x="113.188 114.6892 117.691608 120.69401 122.195209 124.8952 126.693408 129.6958 132.6982 134.1994 137.2018">the creator</tspan></text>
+<text fill="#5b6577" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-style="italic"><tspan y="-15.5" x="120.3916 123.394008 126.39641 129.0964 130.29521 133.2976 136.3">decides</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

@@ -1,16 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Teresa Amabile author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U1</text>
-<circle cx="82" cy="150" r="52" fill="#2b4b8c" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#2b4b8c" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">TA</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Teresa Amabile</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">The Componential Model &amp; the Social</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U1</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Teresa</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Amabile</text>
+<rect x="24" y="128" width="34" height="3" fill="#b45309"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">The Componential Model</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">&amp; the Social Psychology</text>
+<text x="24" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">of Creativity</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="10.0679 14.5893">TA</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 34.198404 38.597604 44.9984 49.397603 53.796804 58.196004 62.199205 66.598407 68.996 70.997608 75.0008 77.0024 79.004009 85.0016 89.4008 93.8 97.8032">Componential Model</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M77.5 51C77.5 61.49341 68.99341 70 58.5 70 48.00659 70 39.5 61.49341 39.5 51 39.5 40.50659 48.00659 32 58.5 32 68.99341 32 77.5 40.50659 77.5 51" fill="#3d6fb6" fill-opacity=".22" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#3d6fb6" d="M77.5 51C77.5 61.49341 68.99341 70 58.5 70 48.00659 70 39.5 61.49341 39.5 51 39.5 40.50659 48.00659 32 58.5 32 68.99341 32 77.5 40.50659 77.5 51"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M101.5 51C101.5 61.49341 92.99341 70 82.5 70 72.00659 70 63.5 61.49341 63.5 51 63.5 40.50659 72.00659 32 82.5 32 92.99341 32 101.5 40.50659 101.5 51" fill="#b45309" fill-opacity=".22" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M101.5 51C101.5 61.49341 92.99341 70 82.5 70 72.00659 70 63.5 61.49341 63.5 51 63.5 40.50659 72.00659 32 82.5 32 92.99341 32 101.5 40.50659 101.5 51"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M89.5 32C89.5 42.49341 80.99341 51 70.5 51 60.00659 51 51.5 42.49341 51.5 32 51.5 21.50659 60.00659 13 70.5 13 80.99341 13 89.5 21.50659 89.5 32" fill="#2f3465" fill-opacity=".22" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".8" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f3465" d="M89.5 32C89.5 42.49341 80.99341 51 70.5 51 60.00659 51 51.5 42.49341 51.5 32 51.5 21.50659 60.00659 13 70.5 13 80.99341 13 89.5 21.50659 89.5 32"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-60" x="1 4.8686006 8.093401 11.637201 14.862001 17.118203 19.049603 20.662003 23.886803">Expertise</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-60" x="105.265 108.32 111.375 112.765 115.82 118.6 119.99 123.045 126.1 127.49 130.27 133.05 134.44 135.83 137.22">Thinking skills</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-2" x="42.828 44.496 48.162 50.16 52.494 54.162 57.828 61.164 62.832 66.168 67.836 73.17 76.836 78.834 80.502 83.838 87.173999 89.172 90.84 94.506">Intrinsic motivation</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M58 39H83C85.4876 39 87.5 41.0124 87.5 43.5 87.5 45.9876 85.4876 48 83 48H58C55.5124 48 53.5 45.9876 53.5 43.5 53.5 41.0124 55.5124 39 58 39Z" fill="#1b2a4a" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="4.9" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-41.6" x="55.93475 59.47255 63.01035 66.27865 69.81645 72.81035 74.17255 77.44085 78.80305 81.79694">CREATIVITY</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

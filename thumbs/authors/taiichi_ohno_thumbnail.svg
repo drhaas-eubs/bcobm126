@@ -1,16 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Taiichi Ohno author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U4</text>
-<circle cx="82" cy="150" r="52" fill="#7cb342" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#7cb342" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">TO</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Taiichi Ohno</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">The Toyota Production System &amp; the 5</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U4</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Taiichi Ohno</text>
+<rect x="24" y="107" width="34" height="3" fill="#b45309"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">The Toyota Production</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">System &amp; the 5 Whys</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.8607 14.382099">TO</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 33.3992 37.7984 41.8016 46.2008 48.5984 52.6016 54.6032 59.405599 62.206399 66.6056 71.0048 75.404 79.407199 81.804798 83.8064 88.2056 92.6048 94.6064 99.4088 103.411998 107.41519 109.81279 113.81599">Toyota Production System</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M2 48H32C33.1056 48 34 48.8944 34 50V62C34 63.1056 33.1056 64 32 64H2C.8944 64 0 63.1056 0 62V50C0 48.8944 .8944 48 2 48Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M2 48H32C33.1056 48 34 48.8944 34 50V62C34 63.1056 33.1056 64 32 64H2C.8944 64 0 63.1056 0 62V50C0 48.8944 .8944 48 2 48Z"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-53.5" x="5.3971 9.2657 11.5219 15.065701 18.6095 20.2219 23.446702">Problem</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M50 58C50 61.31371 47.31371 64 44 64 40.68629 64 38 61.31371 38 58 38 54.68629 40.68629 52 44 52 47.31371 52 50 54.68629 50 58" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-55.84" x="42.332">1</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M66 51C66 54.31371 63.31371 57 60 57 56.68629 57 54 54.31371 54 51 54 47.68629 56.68629 45 60 45 63.31371 45 66 47.68629 66 51" fill="#3865a6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-48.84" x="58.332">2</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M47 58 53.68073 55.07718"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M55 54.5 53.51021 56.38163 52.60698 54.3171Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M82 44C82 47.31371 79.31371 50 76 50 72.68629 50 70 47.31371 70 44 70 40.68629 72.68629 38 76 38 79.31371 38 82 40.68629 82 44" fill="#335a96" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-41.84" x="74.332">3</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M63 51 69.68073 48.07718"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M71 47.5 69.51021 49.38163 68.60698 47.3171Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M98 37C98 40.31371 95.31371 43 92 43 88.68629 43 86 40.31371 86 37 86 33.68629 88.68629 31 92 31 95.31371 31 98 33.68629 98 37" fill="#2e5085" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-34.84" x="90.332">4</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M79 44 85.68073 41.07718"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M87 40.5 85.51021 42.38163 84.60698 40.3171Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M114 30C114 33.31371 111.3137 36 108 36 104.6863 36 102 33.31371 102 30 102 26.68629 104.6863 24 108 24 111.3137 24 114 26.68629 114 30" fill="#294675" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-27.84" x="106.332">5</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M95 37 101.6807 34.07718"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M103 33.5 101.5102 35.38163 100.607 33.3171Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#8a93a6" d="M20 47 35.75881 56.26989"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M37 57 34.60222 56.89676 35.74477 54.95442Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M85 2H139C140.1056 2 141 2.8944 141 4V16C141 17.1056 140.1056 18 139 18H85C83.8944 18 83 17.1056 83 16V4C83 2.8944 83.8944 2 85 2Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-7.6" x="91.999 96.331 100.999 105.667 109.333 111.001 115.333 119.665 123.997 127.999">ROOT CAUSE</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".7" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#b45309" d="M110 25 111.5067 20.47995"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M112 19 112.432 21.56385 110.1161 20.79186Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-30" x="0 3.1136003 6.2272007 9.340801 10.897601 13.697601 18.054402 21.476002 24.589602 28.011202">ask &#x201c;why?&#x201d;</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.6" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-23" x="0 1.8648 3.4216 6.5352 9.6488 11.2056 13.0704 14.6272 19.6056 22.7192">five times</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

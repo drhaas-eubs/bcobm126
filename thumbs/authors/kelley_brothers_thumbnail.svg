@@ -1,16 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="David Kelley &amp; Tom Kelley author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U3 · U5 · U8</text>
-<circle cx="82" cy="150" r="52" fill="#0f9d58" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#0f9d58" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">DKT</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">David Kelley &amp; Tom</tspan><tspan x="150" dy="28">Kelley</tspan></text>
-<line x1="150" y1="210" x2="372" y2="210" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="230" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">IDEO, the d.school &amp; Creative Confidence</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U3 · U5 · U8</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">David Kelley</text>
+<text x="24" y="111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">&amp; Tom Kelley</text>
+<rect x="24" y="128" width="34" height="3" fill="#b45309"/>
+<text x="24" y="148" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">IDEO, the d.school &amp;</text>
+<text x="24" y="163" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Creative Confidence</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="6.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.6618 14.138201 15.861801">K&#x00b7;K</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 34.198404 36.999204 41.002405 45.005605 47.403203 49.4048 53.408 57.4112 59.4128 64.6112 69.0104 73.4096 75.8072 77.8088 82.208 86.2112 90.6104 94.613597">Creative Confidence</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M14 56 3.607695 50V38L14 32 24.3923 38V50Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.5" x="11.776">1</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x=".59895 4.1340506 8.845751 12.084051 15.030851 16.795752 20.034052 21.507452 24.454253">Empathise</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M42.2 56 31.8077 50V38L42.2 32 52.5923 38V50Z" fill="#3763a3" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.5" x="39.976">2</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="34.1016 37.9282 40.875 42.6399 44.1133 47.3516">Define</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M70.4 56 60.0077 50V38L70.4 32 80.7923 38V50Z" fill="#31568f" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.5" x="68.176">3</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="62.7415 64.214908 67.4532 70.4 73.3468 75.1117">Ideate</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M98.6 56 88.2077 50V38L98.6 32 108.9923 38V50Z" fill="#2b4a7c" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.5" x="96.376">4</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="86.23245 89.767559 91.829257 95.06755 96.83245 100.07075 101.83565 104.78245 108.020748">Prototype</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M126.8 56 116.4077 50V38L126.8 32 137.1923 38V50Z" fill="#253d68" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="8" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-40.5" x="124.576">5</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.3" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-22" x="121.3516 124.5899 127.5367 130.4835">Test</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-style="italic"><tspan y="-4" x="20.6823 23.6847 26.9841 29.9865 33.2859 36.5853 39.5877 41.0889 44.0913 47.0937 50.3931 51.894304 55.193704 58.196104 59.697305 62.699705 64.8003 67.802707 70.80511 72.60331 74.10451 77.10691 80.109317 81.61051 87.01051 88.51171 91.514118 94.813518 98.112918 99.61411 102.616519 105.61892 107.41712 108.91832 112.21772 115.51712 117.01832 118.519519">anyone can be creative &#x2014; and act on it</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>

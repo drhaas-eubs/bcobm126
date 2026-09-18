@@ -1,16 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Eric Ries author thumbnail">
 <rect width="400" height="300" fill="#ffffff"/>
-<rect width="400" height="8" fill="#B45309"/>
-<rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
-<text x="28" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
-<text x="372" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U8</text>
-<circle cx="82" cy="150" r="52" fill="#c2185b" opacity="0.12"/>
-<circle cx="82" cy="150" r="52" fill="none" stroke="#c2185b" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="82" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2F3465">ER</text>
-<text x="150" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#B45309">THINKER PROFILE</text>
-<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2F3465"><tspan x="150" dy="0">Eric Ries</tspan></text>
-<line x1="150" y1="182" x2="372" y2="182" stroke="#d7dbe6" stroke-width="1"/>
-<text x="150" y="202" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5b6577">The Lean Startup &amp; Build–Measure–Learn</text>
-<text x="28" y="282" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">Author Slibrary</text>
-<text x="372" y="282" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text>
+<rect width="400" height="8" fill="#b45309"/><rect x="0" y="8" width="400" height="34" fill="#1B2A4A"/>
+<text x="24" y="30" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff">BCOBM126 · AUTHOR</text>
+<text x="376" y="30" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#cbd2e8">U8</text>
+<text x="24" y="66" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#B45309">THINKER PROFILE</text>
+<text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#2F3465">Eric Ries</text>
+<rect x="24" y="107" width="34" height="3" fill="#b45309"/>
+<text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">The Lean Startup &amp;</text>
+<text x="24" y="142" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6577">Build–Measure–Learn</text>
+<svg x="154.0" y="56.0" width="224.0" height="204.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"  viewBox="0 0 153.0709 116">
+<path transform="matrix(1,0,0,-1,0,116)" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z" fill="#fafbfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M5.5 .5H147.5709C150.3349 .5 152.5709 2.736 152.5709 5.5V110.5C152.5709 113.264 150.3349 115.5 147.5709 115.5H5.5C2.736 115.5 .5 113.264 .5 110.5V5.5C.5 2.736 2.736 .5 5.5 .5Z"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M.5 90H152.5709V115.5H.5Z" fill="#f1f2f7" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,116)" d="M24.5 102.5C24.5 107.7467 20.24671 112 15 112 9.753295 112 5.5 107.7467 5.5 102.5 5.5 97.25329 9.753295 93 15 93 20.24671 93 24.5 97.25329 24.5 102.5" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-99.6" x="9.8607 14.7965">ER</tspan></text>
+<text fill="#b45309" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-105.5" x="29 33.0684 35.114004 39.7596 44.114004 48.468404 52.2456 56.600004 60.954404 65.022808 67.068408 72.00001 76.64561 81.00001 85.068408">SIGNATURE MODEL</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 0 116)" font-size="7.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-96.5" x="29 33.3992 37.7984 41.8016 43.8032 48.2024 52.2056 56.2088 60.608 62.6096 67.412 69.8096 73.8128 76.613597 79.01119 83.41039">The Lean Startup</tspan></text>
+<path transform="matrix(1,0,0,-1,0,116)" stroke-width=".6" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7dbe6" d="M.5 90H152.5709"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M80.23977 62.10678 81.55657 61.53194 82.83961 60.88524 84.08496 60.16864 85.28883 59.38435 86.44753 58.53476 87.55753 57.62245 88.61545 56.65022 89.61803 55.62103 90.56224 54.53803 91.44518 53.40453 92.26415 52.22398 93.01666 51 93.70041 49.73632 94.3133 48.43679 94.85348 47.10539 95.31928 45.74619 95.70929 44.36333 96.02231 42.96103 96.25739 41.54359 96.41381 40.11533 96.49109 38.6806 96.489 37.2438 96.40754 35.8093"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M96.24697 34.3815 97.76512 36.7342 95.14543 36.95572Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M86.5072 17.51172 85.35097 16.65876 84.14939 15.87097 82.90613 15.15076 81.62498 14.50032 80.30985 13.92165 78.96477 13.41652 77.59384 12.98645 76.20124 12.63278 74.79124 12.35657 73.36813 12.15868 71.93626 12.0397 70.5 12 69.06374 12.0397 67.63187 12.15868 66.20876 12.35657 64.79876 12.63278 63.40616 12.98645 62.03523 13.41652 60.69015 13.92165 59.37502 14.50032 58.09387 15.15076 56.85061 15.87097 55.64903 16.65876"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M54.4928 17.51172 55.77123 15.02061 57.27291 17.17857Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" stroke-width=".9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#8a93a6" d="M44.75303 34.3815 44.59246 35.8093 44.511 37.2438 44.50891 38.6806 44.58619 40.11533 44.74261 41.54359 44.97769 42.96103 45.29071 44.36333 45.68072 45.74619 46.14652 47.10539 46.6867 48.43679 47.29959 49.73632 47.98334 51 48.73585 52.22398 49.55482 53.40453 50.43776 54.53803 51.38197 55.62103 52.38455 56.65022 53.44247 57.62245 54.55247 58.53476 55.71117 59.38435 56.91504 60.16864 58.16039 60.88524 59.44343 61.53194"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M60.76023 62.10678 57.96365 62.24519 59.08166 59.86571Z" fill="#8a93a6" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M59.5 58H81.5C84.8168 58 87.5 60.6832 87.5 64 87.5 67.3168 84.8168 70 81.5 70H59.5C56.1832 70 53.5 67.3168 53.5 64 53.5 60.6832 56.1832 58 59.5 58Z" fill="#3d6fb6" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-62" x="62.2515 66.1503 70.0491 71.5503 74.8497">BUILD</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M82.01666 19H104.0167C107.3335 19 110.0167 21.6832 110.0167 25 110.0167 28.3168 107.3335 31 104.0167 31H82.01666C78.69986 31 76.01666 28.3168 76.01666 25 76.01666 21.6832 78.69986 19 82.01666 19Z" fill="#2f3465" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-23" x="79.51666 84.01486 87.61666 91.515468 95.11726 99.01607 102.91487">MEASURE</tspan></text>
+<path transform="matrix(1,0,0,-1,6.035455,110)" d="M36.98334 19H58.98334C62.30014 19 64.98334 21.6832 64.98334 25 64.98334 28.3168 62.30014 31 58.98334 31H36.98334C33.66654 31 30.98334 28.3168 30.98334 25 30.98334 21.6832 33.66654 19 36.98334 19Z" fill="#b45309" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-23" x="38.68454 41.98394 45.58574 49.48454 53.38334">LEARN</tspan></text>
+<text fill="#1b2a4a" xml:space="preserve" transform="matrix(1 0 -0 1 6.035455 110)" font-size="7" font-family="Arial, Helvetica, sans-serif" font-weight="bold"><tspan y="-36" x="62.9155 68.7465 73.4155">MVP</tspan></text>
 </svg>
+
+<line x1="24" y1="266" x2="376" y2="266" stroke="#d7dbe6" stroke-width="1"/>
+<text x="24" y="284" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#2F3465">Author Slibrary</text>
+<text x="376" y="284" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6577">© Dr. H. HAAS</text></svg>
